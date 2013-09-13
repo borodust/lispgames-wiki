@@ -1,0 +1,35 @@
+See some general information on the topic [http://www.youtube.com/watch?v===E5KmZxQxiJ0 on wikipedia.]
+
+I have some notes and code toward an [http://github.com/dto/hypo/raw/master/hypo.org Emacs-based solution] borrowing ideas from [http://en.wikipedia.org/wiki/Literate_programming literate programming] practices.
+
+Money quote:
+
+In games development, especially solo or small-team scenarios,
+organizing assets becomes a significant problem. The "assets" of most
+programming projects are just code, and, if you're lucky, some
+documentation. Each object of the programmer's problem domain is
+associated with (probably) a chunk of code and a chunk of
+documentation.
+
+The typical literate programming solution covers writing and
+transforming related chunks of documentation and code, but there is no
+general notion of asset management where related assets can be of
+different types: Lisp code, Emacs Lisp code, C code, PNG images, WAV
+sounds, OGG music, plain text, formatted text, and more.
+
+In a video game, a game object (for example, an enemy spaceship) may
+be associated with any number of such resources. There will certainly
+be AI code (C, Lisp, etc), images, 3d models, textures, sounds, and so
+on. Creating, re-using, and re-mixing hundreds of game objects is hard
+when you have to maintain all these associations between files and
+code manually.  So that when I want to edit "the image associated with
+that yellow alien over there", I often have to hunt down the actual
+PNG files to edit, because the name of the PNG file never appears in
+the Lisp code---there's a third file mapping resource names to
+files. The indirection makes the engine more flexible, but it's
+another file to maintain.
+
+My experiments with Hypo are an attempt to apply [http://orgmode.org/ Org mode]
+organizational, publishing, and workflow tools to the problems of solo
+and small-group games development, with custom code and the unifying
+theme of literate programming.
