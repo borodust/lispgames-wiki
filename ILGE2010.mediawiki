@@ -11,6 +11,8 @@ The contest is in progress so check out the [http://www.cliki.net/InternationalL
 [http://common-lisp.net/pipermail/lisp-game-dev/2010-August/000099.html]
 [http://github.com/patzy/push/blob/master/postmortem.org]
 
+[http://efnx.com/bourtange-postmortem/ Schell Scivally's Bourtange!]
+
 == Media / Blog Coverage ==
 
 * [http://www.slashdot.org Slashdot] covered the [http://games.slashdot.org/story/10/07/18/227243/Remix-This-Game-mdash-a-Free-Software-Experiment?art_pos=1 Remix this Game] portion of the contest.
