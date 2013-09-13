@@ -3,20 +3,21 @@
 This wiki is for people sharing information, links, and discussions related to Lisp Games development.
 
 See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing.
-For information on editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.
+If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
 
 == Things you can do ==
 
-* Add a [[PersonPage]] for yourself.
+* Put some facts about yourself on your User page. (Click your username near the top right of the page to edit it.)
 * Add links to your projects and games.
 * Add links to resources and articles.
 
-== Open issues and projects == 
+= Open issues and projects = 
 
-* Reproducing and eventually squashing the [[Win64Crashes]].
-* Using/improving [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack]
-* Identify [[NeededDocumentation]].
-* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]].
+* Reproducing and eventually squashing the [[Win64Crashes]] affecting some SBCL/SDL programs.
+* Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
+* Identifying [[NeededDocumentation]].
+* Completing the [http://dto.github.com/notebook/2010expo.html 2010 International Lisp Games Expo]] and archiving postmortems and other writeups to this wiki.
+* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[BuildingGames]], [[DistributingGames]].
 * Engine and language-agnostic DAM (digital asset management) tools. [[AssetManagement]]
 * Working with others to add new platforms. [[Platforms]]
 * DESCRIBE / LINK YOUR PROJECT HERE...
@@ -28,7 +29,7 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 * Physics: [http://github.com/sykopomp/squirl squirl], buclet
 
 * Game Engines: [http://dto.github.com/notebook/xe2-reference.html XE2] [http://github.com/dto/xe2 (also at github)], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], 
-[http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]]
+[http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [http://github.com/sykopomp/until-it-dies Until It Dies]
 
 * Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
 
@@ -36,7 +37,6 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 
 * [http://lispgamesdev.blogspot.com/ David's lisp games blog]
 * Add your site here...
-
 
 = Getting started with MediaWiki =
 * [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
