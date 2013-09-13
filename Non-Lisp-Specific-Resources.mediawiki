@@ -1,5 +1,3 @@
-'''Non Lisp Specific Resources'''
-
 Many challenges in game development are relevant to all languages. The links below are not necessarily about Lisp but may be very useful.
 These links are those that are suitably lisp agnostic or are written in another language entirely.
 
