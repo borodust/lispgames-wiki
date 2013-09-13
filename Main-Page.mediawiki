@@ -37,16 +37,14 @@ Here are some pages you could write or add to:
 * Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]]. [[MakingBinariesWithWine]]
 * Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]].
 * Working with others to add new platforms. [[PlatformSupport]]
+* Writing [[Articles| Lisp Game Development Articles]].
+* Collecting [[Lessons Learned|Lessons learned, Questions and Answers]].
 
-== Tools ==
+== Resources, by dialect ==
 
-* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[PAL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
+[[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]]
 
-* Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
-
-* Physics: [[SquirL]] (2d), [[buclet]] (3d), [[cl-ode]]
-
-* Game Engines: [[Blocky]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
+=== Other resources ===
 
 * Stock Art/Audio: 
 ** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
@@ -64,12 +62,10 @@ Some games written using lisp-family languages.
 * [[Farmageddon]]
 * See more in [[:Category:Game]]
 
-== Community and Resources ==
+== Community ==
 
 * IRC: chat.freenode.net #lispgames and #lisp
 * [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 * [http://twitter.com/lispgames lispgames on Twitter]
-* [[Articles| Lisp Game Development Articles]]
-* [[Lessons Learned|Lessons learned, Questions and Answers]]
 * [http://blocky.io/blog dto's Blocky blog]
 * [http://lisp-qix.blogspot.com// WarWeasle's Qix Blog]
