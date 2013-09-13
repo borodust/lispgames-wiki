@@ -4,6 +4,12 @@ This wiki is for people sharing information, links, and discussions related to L
 
 For information on editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.
 
+== Things you can do ==
+
+* Add a [[PersonPage]] for yourself.
+* Add links to your projects and games.
+* Add links to resources and articles.
+
 == Open issues and projects == 
 
 * Reproducing and eventually squashing the [[Win64Crashes]].
