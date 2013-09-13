@@ -11,3 +11,4 @@ cl-glfw also includes automatically generated opengl and glu bindings, but you c
 [[Category:Library]]
 [[Category:CFFI bindings]]
 [[Category:OpenGL]]
+[[Category:OpenGL Portability Layer]]
