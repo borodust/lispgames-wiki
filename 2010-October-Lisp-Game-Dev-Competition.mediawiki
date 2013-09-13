@@ -4,7 +4,7 @@ The October Lisp Game Dev Competition begins on '''Sunday''' at '''2010-10-24 00
 
 == How to enter ==
 
-* Build a game using a lisp language while the competition is on.
+* Build a game using a lisp language while the competition is on, and publish it somewhere.
 * Register on this wiki and add your details below by Sunday, October 31.
 
 == Rules ==
