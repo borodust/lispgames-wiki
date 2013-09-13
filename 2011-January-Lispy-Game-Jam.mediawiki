@@ -1,0 +1,25 @@
+The '''2011 January Lispy Game Jam''' is a fun, seven-day, online challenge for lisp hackers to produce computer games using a lisp variant.
+
+== When and where ==
+
+* The event is penciled in to start on the 10th January (exact time TBC), and will run for 7 days.
+* The competition is entirely run online.  Chat about it on IRC at #lispgames on chat.freenode.net and follow [http://twitter.com/lispgames lispgames on Twitter].
+
+== How to enter ==
+
+* Build a game using a lisp language while the competition is on, and publish it somewhere.
+* Register on this wiki and add your details below by Sunday, October 31.
+
+== Rules ==
+
+* Use a lisp variant as the primary language to build your game within the chosen theme.  That can include Common Lisp, Scheme, Clojure, Emacs Lisp, or even your own lisp-like invention.  The rest of the technology is up to you.
+
+== Entries ==
+
+List your name and project (with links) if you are entering the competition.  You can enter at any time until Sunday, October 31, but we like to see works in progress.
+
+* ''Game'', by ''Author''. ''Description''.
+
+[[Category:Contest]]
+[[Category:Community Event]]
+__NOTOC__
