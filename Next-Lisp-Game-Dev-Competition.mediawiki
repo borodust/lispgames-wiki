@@ -6,6 +6,8 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 
 '''Introduce a theme for all submissions'''
 * What is the theme going to be?
+** Ludum Dare votes on themes. Some of their failed candidates seem promising (e.g. "Unwanted Powers") so we could recycle them. Voting itself may be overkill for us.
+** dto likes "UFO"
 
 '''How long should it run for?'''
 * probably one week
