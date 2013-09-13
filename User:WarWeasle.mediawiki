@@ -4,6 +4,14 @@ WarWeasle is currently working on a [[Qix]], a universal media editor in Lisp us
 
 I work with C, C++, HTML, Javascript, ASP, PHP, Visual Basic, SQL, Assembly Language, Scheme, and of course, Lisp. My favorite tools are Emacs, Blender, Inkscape, and Gimp.
 
+== Do you know you misspelled Weasel? ==
+
+Yes. 
+
+== Was this on purpose? ==
+
+Also, yes.
+
 == Quote ==
 
     "Like everything else in life, X is just a primitive, degenerate form of Lisp."
