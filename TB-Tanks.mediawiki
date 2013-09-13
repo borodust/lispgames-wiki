@@ -1,8 +1,6 @@
-= TB Tanks =
-
 Placeholder for some sort of future information about TB Tanks.
 
-http://github.com/downloads/netguy204/1MonthLispGame/Milestone16.png
+[[File:tbtanks.png]]
 
 * [http://github.com/netguy204/1MonthLispGame Source Code]
 * [http://github.com/netguy204/1MonthLispGame/downloads Releases]
