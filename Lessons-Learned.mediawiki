@@ -1,5 +1,9 @@
-
 This page is for sharing information, ideas, and experience from using Lisp for creating games.
+
+== SBCL ==
+
+* The fix for [[KittenOfDeath| "Your kitten of death awaits."]] on Windows SBCL Distributions.
+
 
 == Questions ==
 
