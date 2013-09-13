@@ -10,3 +10,4 @@ Lispbuilder-SDL is a game development resource for [[Common Lisp]]. It provides 
 [[Category:Library]]
 [[Category:OpenGL]]
 [[Category:SDL]]
+[[Category:OpenGL Portability Layer]]
