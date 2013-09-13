@@ -18,7 +18,7 @@ The '''2011 January Lispy Game Jam''' is a fun, seven-day, online challenge for 
 
 The theme will probably involve three elements, a combination of; one thematic, one gameplay & one technical, as outlined [http://globalgamejam.org/wiki/content-theme-competition-restraints-tracks here].
 
-Please add your theme element suggestions below (N.B. A random combination will be selected for the competition)
+'''Please add your theme element suggestions below''' (N.B. A random combination will be selected for the competition)
 
 ; Thematic
 : Love
