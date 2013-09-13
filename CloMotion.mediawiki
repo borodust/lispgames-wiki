@@ -8,3 +8,4 @@ This page is for ideas and links related to motion control, image processing, CL
 * [http://jandmworks.com/ J. K. Cunningham's page] has information on motion detection and a Common Lisp motion detection project using [http://www.ljosa.com/~ljosa/software/cl-png/ cl-png].
 ** [http://jandmworks.com/motion.html Motion 1] - Motion Detection Using Image Processing
 ** [http://jandmworks.com/motion2.html Motion 2] - Motion Detection using [http://www.ljosa.com/~ljosa/software/cl-png/ CL-PNG].
+* [http://code.google.com/p/nijiato/ Nijiato] - Simple fingers motion recognition using LISP, cl-v4l2 and colors-detection algorythm.
