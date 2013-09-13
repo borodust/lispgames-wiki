@@ -39,7 +39,7 @@ List your name if you are considering entering the competition. You may enter at
 ''List details below:''
 * Clonkadonk, by Marcus "schmrkc" Eskilsson.
 * Littleedge Game Cauldron, Michael "Guthur" Compton
-* [http://norstrulde.org/jlgj11/index.html Pulp], by Eric "ericbb" Bergstrome
+* [http://norstrulde.org/jlgj11/index.html Pulp], by Eric "ericbb" Bergstrome.  [http://norstrulde.org/jlgj11/postmortem.html Postmortem]
 * Puzzle Dance Party Extreme --- David O'Toole, source here https://github.com/dto/puzzle-dance/tree/develop
 * Something Shiny, by Brian "wubo" Taylor
 * A game-like, by Lyndon "humasect" Tremblay
