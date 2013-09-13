@@ -1,0 +1,20 @@
+Options for developing games for web browsers using Common Lisp tools:
+
+== Flash: ==
+
+Flash is probably the most widely usable option[http://www.adobe.com/products/player_census/flashplayer/version_penetration.html *], but doesn't work on iphone or ipad, and seems to be unpopular with lispers.
+It handles 2d fairly well, but only has rather convoluted support for 3d in current versions (10.1 and under). 
+* [https://github.com/3b/3bil 3bil] is a CL hosted cross compiler that outputs bytecode for flash 9+ virtual machine, which together with [https://github.com/3b/3b-swf 3b-swf] (a library for manipulationg .swf files) allows developing flash games from lisp.
+
+Both are still fairly rough at this stage, with lots of missing bits, APIs still changing, etc.
+3bil is intended to resemble CL as much as possible, but currently lacks major features like packages, dynamic binding, clos, etc.
+
+== HTML/JS: ==
+Writing games directly for the browser is becoming a more viable option, but still has some major limitations like lack of full screen support, and inability to grab input focus (which prevents things like usable mouselook, etc)
+*[http://common-lisp.net/project/parenscript/ parenscript] is a CL hosted cross compiler which compiles to javascript. Parenscript is evolving towards CL, but there is a fork from an older version of parenscript which is closer to a sexp version of JS.
+* [https://github.com/gonzojive/paren-psos Psos], adds a clos-like layer for parenscript.
+* [https://github.com/3b/slime-proxy slime proxy] + [https://github.com/3b/clws clws] allows using SLIME to work interactively with parenscript code running on a browser.
+
+At the browser level, game style graphics is usually handled by the <canvas> tag, which handles 2d graphics, and on on more recent browsers includes WebGL for 3d. 2d canvas is fairly widely available on non-IE browsers, and 3d support is available in beta for most browsers.
+* [https://developer.mozilla.org/en/canvas_tutorial 2d canvas tutorial]
+* [http://learningwebgl.com webgl tutorials/info]
