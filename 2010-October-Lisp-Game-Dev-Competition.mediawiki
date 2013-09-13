@@ -1,6 +1,8 @@
+The '''2010 October Lisp Game Dev Competition''' is a fun, seven-day, online challenge for lisp hackers to produce computer games using a lisp variant.
+
 == When and where ==
 
-* The October Lisp Game Dev Competition is '''in progress'''! The event began on Sunday, October 24 at 2010-10-24 00:01 UTC and will run '''until Sunday, October 31'''. Entries are accepted until the competition closes.
+* Currently '''in progress'''! The event began on Sunday, October 24 at 2010-10-24 00:01 UTC and will run '''until Sunday, October 31'''. Entries are accepted until the competition closes.
 * The competition is entirely run online.  Chat about it on IRC at #lispgames on irc.freenode.net and follow [http://twitter.com/lispgames lispgames on Twitter].
 
 == How to enter ==
@@ -24,3 +26,4 @@ List your name and project (with links) if you are entering the competition.  Yo
 
 [[Category:Contest]]
 [[Category:Community Event]]
+__NOTOC__
