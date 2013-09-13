@@ -1,0 +1,6 @@
+PAL (Pixel Art Library) is a portable graphics and sound library for 2d games.
+
+== Links == 
+
+* [http://common-lisp.net/project/pal/ Project page on common-lisp.net]
+* [http://www.cliki.net/PAL CLiki]
