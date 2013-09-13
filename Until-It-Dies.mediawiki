@@ -3,3 +3,9 @@ Until It Dies is a rapid-prototyping game engine for [[Common Lisp]], currently 
 == Links ==
 * [http://redmine.sykosomatic.org/projects/uid Project Page at Sykosomatic.org]
 * [http://github.com/sykopomp/until-it-dies GitHub]
+
+[[Category:Common Lisp]]
+[[Category:Game Engine]]
+[[Category:Library]]
+[[Category:Graphics]]
+[[Category:Audio]]
