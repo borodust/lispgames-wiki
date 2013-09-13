@@ -3,3 +3,7 @@ Penumbra: Idiomatic [[opengl]] for [[clojure]].
 == Links ==
 
 * [http://github.com/ztellman/penumbra GitHub]
+
+[[Category:Opengl]]
+[[Category:Libraries]]
+[[Category:Clojure]]
