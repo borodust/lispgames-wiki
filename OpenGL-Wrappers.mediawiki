@@ -2,4 +2,3 @@ Libraries for accessing OpenGL from Lisp family languages
 
 * [[penumbra]]
 * [[cl-opengl]]
-* [[glop]]
