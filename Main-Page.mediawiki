@@ -6,12 +6,12 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 
 == Open issues and projects == 
 
-* Reproducing and eventually squashing the [Win64Crashes].
+* Reproducing and eventually squashing the [[Win64Crashes]].
 * Using/improving [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack]
-* Identify [NeededDocumentation].
-* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [QuickLisp].
-* Engine and language-agnostic DAM (digital asset management) tools. [AssetManagement]
-* Working with others to add new platforms. [Platforms]
+* Identify [[NeededDocumentation]].
+* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]].
+* Engine and language-agnostic DAM (digital asset management) tools. [[AssetManagement]]
+* Working with others to add new platforms. [[Platforms]]
 * DESCRIBE / LINK YOUR PROJECT HERE...
 
 == Lisp game development resources ==
