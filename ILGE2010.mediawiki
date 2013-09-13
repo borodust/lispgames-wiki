@@ -4,7 +4,7 @@ The "International Lisp Games Expo" 2010.
 
 The contest is <s>in progress</s> now over, check out the [http://www.cliki.net/InternationalLispGameExpo2010 Official Site] for the freshest information.
 
-== Game Postmortems ==
+== Games & Game Postmortems ==
 
 * 3b's [http://3bb.cc/blog/2010/07/08/igle%202010%20postmortem/ in-browser wannabe-isometric-rpg thing]
 * aerique's [http://aerique.blogspot.com/2010/08/ilge-2010-post-mortem-engine-troubles.html Engine Trouble over Tentacle Planet]
@@ -25,7 +25,6 @@ The contest is <s>in progress</s> now over, check out the [http://www.cliki.net/
 
 * [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
 * [http://www.cliki.net/Gentoo/InternationalLispGameExpo2010 CLiki]
-
 
 [[Category:Contest]]
 [[Category:Community Event]]
