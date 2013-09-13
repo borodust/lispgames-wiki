@@ -1,5 +1,7 @@
 '''Welcome to the Lisp Games Wiki!.'''
 
+For editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
+
 == Getting started with MediaWiki ==
 * [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
 * [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]
