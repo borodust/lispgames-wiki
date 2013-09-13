@@ -1,4 +1,4 @@
-cl-glfw is a set of CFFI bindings to the [http://www.glfw.org GLFW] library. It provides a simple cross-platform way to get a window with an opengl context, and do input handling and other platform-dependent things. 
+cl-glfw is a set of [[CFFI]] bindings to the [http://www.glfw.org GLFW] library. It provides a simple cross-platform way to get a window with an opengl context, and do input handling and other platform-dependent things. 
 
 cl-glfw also includes automatically generated opengl and glu bindings, but you can use other opengl bindings with it as well ([[cl-opengl]] is known to work). The interface is less lispy than that provided by cl-opengl. For example, opengl functions have type suffixes (as they do in C) in cl-glfw but not cl-opengl.
 
