@@ -59,7 +59,7 @@ Some games written using lisp-family languages.
 * [http://dto.github.com/notebook/xong.html XONG]
 * [http://sourceware.org/xconq/ Xconq] is a free strategy game that uses Lisp to define its war scenarios.
 * [http://en.wikipedia.org/wiki/Abuse_%28video_game%29 Abuse] was a great action game that used Lisp for scripting its game logic.
-* Jak and Daxter (Naughty Dog) [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL] [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
+* Jak and Daxter (Naughty Dog) was apparently partly written in a custom Lisp dialect called [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL]. See also this [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
 * [[Common Worm]]
 * [[Farmageddon]]
 * See more in [[:Category:Game]]
