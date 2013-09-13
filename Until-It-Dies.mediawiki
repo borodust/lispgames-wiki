@@ -1,4 +1,20 @@
-Until It Dies is a rapid-prototyping game engine for [[Common Lisp]], currently under development. It aims to be a solid platform for quickly putting together 2d and 3d games.
+Until It Dies is a rapid-prototyping game engine for [[Common Lisp]], currently under development.
+It aims to be a solid platform for quickly putting together 2d and 3d games.
+
+== Features ==
+* [[OpenGL]]-based rendering.
+* Can load a wide variety of image types as textures, using [[cl-devil]].
+* Positional audio using [[cl-openal]].
+* Modular architecture using [[CLOS]].
+* Support for multiple windows.
+
+== Planned Features ==
+* A/V decoding using [[ffmpeg]].
+* Audio streaming (currently, UID can only load full sound clips to memory).
+* Choice between [[cl-devil]] and [[imago]] for image loading.
+* Physics using [[SquirL]].
+* Particle engine.
+* GUI-building module.
 
 == Links ==
 * [http://redmine.sykosomatic.org/projects/uid Project Page at Sykosomatic.org]
