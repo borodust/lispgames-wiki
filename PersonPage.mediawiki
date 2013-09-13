@@ -4,5 +4,5 @@ Presumably a list of Lisp Game Community members should go here?
 * [[sykopomp]]
 * [[wubo]]
 * [[ericbb]]
-* [[WarWeasle]]
+* [[User:WarWeasle| WarWeasle]]
 * [[User:sharps]]
