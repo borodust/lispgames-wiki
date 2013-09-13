@@ -4,4 +4,6 @@ I'm speaking of Lisp as one entity. That's not entirely correct; there are reall
 
 What makes writing Lisp different from writing any other language is its conceptual uniformity in treatment of both programs and data. This renders the distinction between you (the programmer) and the language designer (you, the programmer) nonexistent. You can redesign the language as you wish, by using ''Lisp macros'' to teach the compiler new tricks.
 
-All the rest is finding an efficient path to the hardware and other applications. Lisp is a big win.
+All the rest is finding an efficient path to the hardware and to other applications. Lisp is really fantastic. Our dialect-specific pages will contain more information and links about Lisp in its various guises:
+
+* [[CommonLisp]], [[Scheme]], [[Clojure]], [[Clojurescript]], [[EmacsLisp]], [[Parenscript]]
