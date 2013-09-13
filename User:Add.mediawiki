@@ -1,0 +1,29 @@
+== Who? ==
+
+I'm Andreas W.
+
+On freenode (IRC), my nickname is '''add^_'''.
+
+== Lisp? ==
+
+I have been using lisp languages (Common Lisp, Scheme and Racket mostly) since around 2008.
+
+I use SBCL; C; GNU Guile for Scheme; Racket; and Emacs 24.  All on (K)Ubuntu GNU/Linux (This is subject to change every so often).
+
+== Games? ==
+
+I've never *really* finished a game-project of mine, at most I've made a platforming... thing that you could move around on.
+I'm probably known to drop projects because of my limited attention-span and patience, but I always keep the ideas around just in case.
+
+I've been playing Minecraft since Alpha, nowadays modded.
+I've also watched a ton of let's plays of different games, like Final Fantasy I-IX and The Legend of Zelda.
+
+== Why? ==
+
+Why lisp for making games?
+Because it's a rapid development programming language, with nothing less than powerful macros which have the ability to extend the language.
+It have an awesome community, of course, not as huge as Python, C or even Java, but it's friendly (doesn't apply to trolls, as per usual) and very helpful as long as your questions aren't obviously easy to answer with the help from a search engine.
+And most of all, it's fun and a good way to learn new things.
+
+== Credits? ==
+Of course, if you haven't already noticed, I took the "template" for this page from [[User:Arbscht]], thank you Arbscht!
