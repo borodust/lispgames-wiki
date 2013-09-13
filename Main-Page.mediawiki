@@ -7,7 +7,6 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == News ==
 
-* '''[[2011 January Lispy Game Jam]] has finished'''
 * [[2011 Spring Lisp Game Jam]] has begun!
 
 == Open issues and projects == 
