@@ -1,0 +1,3 @@
+* Looking at/typing parentheses
+* Editor support for parentheses
+* Finding documentation geared toward beginners (LandOfLisp is great)
