@@ -1,0 +1,23 @@
+== Who? ==
+
+I'm Abhishek Reddy. Visit my [http://abhishek.geek.nz website] or follow me on [http://identi.ca/arbscht identi.ca] or [http://twitter.com/arbscht Twitter].
+
+On IRC, my nickname is '''arbscht'''.
+
+Currently, I curate the [http://twitter.com/lispgames lispgames Twitter account].
+
+== Lisp? ==
+
+I have been using lisp languages since 2005.
+
+I use ECL, CLISP, CCL or SBCL for CL; Clojure on OpenJDK; and Emacs 23.  All on Debian GNU/Linux.
+
+== Games? ==
+
+I once wrote a very small implementation of Snake in Clojure.  Amusingly, the idea of exemplifying Clojure with Snake caught on in the community, leading to the inclusion of a better Snake implementation in Stu Halloway's book.
+
+Sometimes, I play modified Quake III-based games.  For a while, I helped run a hosting service for such games in Australia/NZ.
+
+Lately I have been watching Starcraft II games, and find the concept of e-sports intriguing.
+
+I believe there are huge untapped opportunities for free-software gaming, and that the productivity capacity of lisps can help realize that.
