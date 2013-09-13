@@ -23,7 +23,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == Tools ==
 
-* Graphics: [[Lispbuilder-SDL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[opengl|OpenGL wrappers]].
+* Graphics: [[Lispbuilder-SDL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
 
 * Audio: [[Lispbuilder-SDL]], [[cl-openal]]
 
