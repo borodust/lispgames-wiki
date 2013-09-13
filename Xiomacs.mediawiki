@@ -1,0 +1,11 @@
+XIOMACS is an attempt by [User:dto1138 David O'Toole] at a "format
+agnostic" media creation and processing suite suitable for making
+games and other experiences. 
+
+Whereas [[Qix]] aims at a universal media editing tool, XIOMACS takes
+the opposite approach and uses Lisp to tie together existing
+[[UsefulApplications]] such as the GIMP, GNU Emacs, ImageMagick, and
+so on. 
+
+See [http://dto.github.com/notebook/xiomacs.html the XIOMACS page] for
+a description of the project.
