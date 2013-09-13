@@ -5,11 +5,8 @@ extensibility or bindings.
 =Lisp-extensible applications=
 
 * [http://www.gimp.org The GIMP] image editor has Lisp-fu.
-* The [https://ccrma.stanford.edu/software/snd/ SND audio editor] is a
-sort of "audio Emacs" using Scheme. Like Emacs, SND has a high
-learning curve, is highly extensible, and pretty high quality.
-* [http://Ecasound http://eca.cx/ecasound/] is easy to extend with
-Emacs Lisp. I would like to convert these to Common Lisp at some point.
+* The [https://ccrma.stanford.edu/software/snd/ SND audio editor] is a sort of "audio Emacs" using Scheme. Like Emacs, SND has a high learning curve, is highly extensible, and pretty high quality.
+* [http://Ecasound http://eca.cx/ecasound/] is easy to extend with Emacs Lisp. I would like to convert these to Common Lisp at some point.
 * [http://milkytracker.org/ Milkytracker], aside from being a lot of fun, produces XM music files whose musical cues can be triggered from Common Lisp via [[Lispbuilder-SDL]].
 * [http://www.csounds.com/ CSound] has both Emacs Lisp and Common Lisp interoperability, with a range of interactive Emacs tools as well.
 
