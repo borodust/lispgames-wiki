@@ -1,1 +1,1 @@
-This is a strategy game implemented by CL, based on lispbuilder-sdl. More information about the game (and also the source code) can be found [https://github.com/xzpeter/starwar here].
+This is a strategy game implemented by CL, based on lispbuilder-sdl. More information about the game (and also the source code) can be found [http://xzpeter.github.com/starwar here].
