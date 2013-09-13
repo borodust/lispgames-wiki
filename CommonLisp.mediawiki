@@ -38,6 +38,7 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [[imago]] is an image manipulation library for Common Lisp
 * [http://cliki.net/cl-cairo2 cl-cairo2] is a graphics library that provides Common Lisp bindings for the [http://cairographics.org/ Cairo API].
 * [http://www.cliki.net/CLX CLX] provides an implementation of the X Window System protocol to Lisp graphics library[ies] and applications.
+* [http://github.com/cbaggers/cl-soil cl-soil] is a work-in-progress wrapper around the [http://www.lonesock.net/soil.html SOIL] library
 
 === Graphics Engines ===
 * [https://github.com/BradWBeer/CLinch CLinch] is a shader based graphics engine using CL-OpenGL. It has strong vector graphics support. It now has [https://github.com/BradWBeer/CLinch/wiki/CLinch-Tutorials tutorials].
