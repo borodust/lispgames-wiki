@@ -1,1 +1,1 @@
-This is a list of libraries that provide cross-platform window & [[OpenGL]] context managment and input handling. They abstract out platform-specific OpenGL setup and eventing code.
+This is a list of libraries that provide cross-platform window & [[Opengl]] context managment and input handling. They abstract out platform-specific OpenGL setup and eventing code. Some libraries provide other things (like [[OpenGL Wrappers]]) as well.
