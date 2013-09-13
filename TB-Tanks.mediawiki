@@ -17,3 +17,5 @@ A simple minded orthographic two player tank battle game written in [[Clojure]] 
 * [http://github.com/netguy204/1MonthLispGame Source Code]
 * [http://github.com/netguy204/1MonthLispGame/downloads Releases]
 * [http://wiki.github.com/netguy204/1MonthLispGame/ Screen Shots]
+
+[[Category:Game]]
