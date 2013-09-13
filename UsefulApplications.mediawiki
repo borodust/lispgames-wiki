@@ -18,13 +18,13 @@ extensibility or bindings.
 * [http://eca.cx/ecasound/ Ecasound] is easy to extend with Emacs Lisp. I would like to convert these to Common Lisp at some point.
 * [http://milkytracker.org/ Milkytracker], aside from being a lot of fun, produces XM music files whose musical cues can be triggered from Common Lisp via [[Lispbuilder-SDL]].
 * [http://www.csounds.com/ CSound] has both Emacs Lisp and Common Lisp interoperability, with a range of interactive Emacs tools as well.
+* [http://audacity.sourceforge.net Audacity] for sound editing. Plug-ins can be written in [http://audacity.sourceforge.net/help/nyquist Nyquist] - a dedicated Lisp dialect.
 
 =Useful, but not currently Lisp-extensible=
 
 Please correct any entries I'm wrong about.
 
 * [http://www.ardour.org/ Ardour] is a free digital audio workstation (DAW).
-* [http://audacity.sourceforge.net Audacity] for sound editing.
 * [http://www.blender.org Blender] is an open source 3D graphics suite.
 * [http://www.inkscape.org InkScape] is an open source vector graphics editor.
 * [http://puredata.info/ Pure Data] for audio synthesis and processing. 
