@@ -1,1 +1,3 @@
 Farmageddon is an iPhone game, written in [http://en.wikipedia.org/wiki/Gambit_(Scheme_implementation) Gambit Scheme].
+
+Announcement [[here | http://www.gamedev.net/blog/209/entry-2122586-farmageddon-is-released/]], with details on where to buy, gameplay video, and the author's confirmation that it is indeed written in Gambit Scheme. Also has broken links to the author's blog, and the game's site.
