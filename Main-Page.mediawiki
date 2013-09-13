@@ -16,7 +16,8 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Collecting Lisp [[Education]] resources.
 * Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
-* Reproducing and eventually squashing the [[Win64Crashes]] affecting some SBCL/SDL programs.
+* Reproducing and eventually fixing the [[Win64Crashes]] affecting some SBCL/SDL programs. 
+* Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
 * Identifying [[NeededDocumentation]].
 * Completing the [[ILGE2010|2010 International Lisp Games Expo]] and archiving postmortems and other writeups to this wiki.
