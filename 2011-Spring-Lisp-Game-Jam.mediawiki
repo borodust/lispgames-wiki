@@ -1,0 +1,31 @@
+The '''2011 Spring Lisp Game Jam''' is a seven-day-long global internet game creation festival---a semi-annual challenge for game designers to produce computer games using any variant of the [http://en.wikipedia.org/wiki/Lisp_(programming_language) Lisp programming language]. Both newcomers and experienced Lispers are welcome, and this wiki is full of educational resources for those who are exploring the Lisp family.
+
+== How and when ==
+
+The Jam begins Friday 22 April 2011, and ends the following Friday (29 April). 
+
+Participants must attempt to create a playable game in those 7 days, and then post their results and some kind of write-up or commentary. Whether or not you complete a playable game, please write a "Postmortem" about your work and what you learned during the process, and post links to whatever is completed (any code, assets, demos). 
+
+(Because of international date line issues and such, the "deadline" is reached upon the honor system among participants, and in practice most people are able to post their postmortems within a few days of the deadline.)
+
+The 2011 Spring Lisp Game Jam is open to all sentient beings with internet access. Chat about it on IRC at #lispgames on irc.freenode.net, and follow [http://twitter.com/lispgames lispgames on Twitter].
+
+== How you can participate ==
+
+* Post your info below in the Registration section, possibly with a note or two about yourself and what you plan to create.
+* Accomplish as much as you can during the 7-day work period
+* Write up your postmortem document and post it when it's all ready. (you can use the wiki for this.)
+* Check out other people's entries and postmortems, and provide comments and feedback. 
+* Have fun!
+
+== Registration Area ==
+
+List your name here, with possibly a bit of text about yourself and what you plan to make with Lisp.
+
+''List details below:''
+* David O'Toole --- I'd like to make a mini version of XONG with documented code so that I can show people an example of using [http://ioforms.org IOFORMS.]
+* Your Info Here
+* Your Info Here
+[[Category:Contest]]
+[[Category:Community Event]]
+__NOTOC__
