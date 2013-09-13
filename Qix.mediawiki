@@ -1,4 +1,4 @@
-The [http://wiki.github.com/BradWBeer/Qix/ Qix Universal Media Editor] is an experimental, three-dimensional development and productivity tool. Simply, it is Emacs abstracted to to edit text, 2D & 3D graphics, and sound. As such it is meant to be a ''media'' editor. It uses Pango and Cairo for text rendering. OpenGL for 3D, and SDL for the rest. I'm currently working on a REPL inside the 3D environment. 
+The [http://wiki.github.com/BradWBeer/Qix/ Qix Universal Media Editor] is an experimental, three-dimensional development and productivity tool. Simply, it is Emacs abstracted to to edit text, 2D & 3D graphics, and sound. As such it is meant to be a ''media'' editor. It uses Pango for text rendering, Cairo for vector graphics, FreeImage for bitmaps, OpenGL for 3D, and SDL for the rest. I'm currently working on a REPL inside the 3D environment. 
 
 Features:
 
