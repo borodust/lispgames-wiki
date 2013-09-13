@@ -3,3 +3,5 @@ Please add your ideas at the beginning of the list.
 * [[User:dto1138]] A simple challenge like make-a-game-in-seven-days could be cool. No frills.
 
 * [[User:sharps]]. Here's a random out-there idea: could we choose one (or, more likely, several) art asset collections from opengameart.org and base a theme around that? as in, "here's our theme and here's some art you can use for it if you want". it takes away one of the major excuses for not getting something done + released.
+
+* [[User:Smithzv]] Communal coding, or some help with finding team mates.  This is pretty easy to do with things like Google+ hangouts (you can share windows) and Github, I think.  How many of us are lone gunmen style coders but would like to try collaboration?
