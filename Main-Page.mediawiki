@@ -5,36 +5,39 @@ This wiki is for people sharing information, links, and discussions related to L
 See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing.
 If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
 
-== News ==
+== News for 2012-03-08 ==
 
-* [[2011 Spring Lisp Game Jam]] is over.
+* We've been updating the wiki to make it a more comprehensive
+resource for the Lispgames community. If you'd like to help out,
+please create an account and start adding ideas, questions, or links
+to your own or others' projects.
+* A call for [[2012 Spring Lisp Game Jam]] ideas!
+* [[Blocky]] is now in preliminary beta release.
 
 == Open issues and projects == 
 
-* [http://www.youtube.com/watch?v=43IiSvbyIZY Lisp Games Development Screencast 1]
-* [http://www.youtube.com/watch?v=Nr3piK3T6a8 DTO Game Design Retrospective Video]. Would anyone else like to make Lisp game video demonstrations to share?
-* [[CloMotion]] ideas and resources for motion control in Lisp gaming.
-* Collecting [[Education]] resources.
 * Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
+* [[CloMotion]] ideas and resources for motion control in Lisp gaming.
+* Collecting [[Education]] resources. [[ObstaclesToLispNewcomers]] [[GoodFreeDocumentationElsewhere]]
+* Identifying [[NeededDocumentation]].
+* Planning the [[Next Lisp Game Dev Competition]].
 * Reproducing and eventually fixing the [[Win64Crashes]] affecting some SBCL/SDL programs. 
 * Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
-* Identifying [[NeededDocumentation]].
-* Planning the [[Next Lisp Game Dev Competition]].
-* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]].
-* Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]] and also [[LispPak]].
+* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]]. [[MakingBinariesWithWine]]
+* Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]].
 * Working with others to add new platforms. [[PlatformSupport]]
 
 == Tools ==
 
-* Graphics: [[Lispbuilder-SDL]], [[PAL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
+* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[PAL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
 
 * Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
 
 * Physics: [[SquirL]] (2d), [[buclet]] (3d), [[cl-ode]]
 
-* Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
+* Game Engines: [[Blocky]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
 
 * Stock Art/Audio: 
 ** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
@@ -47,6 +50,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 Some games written using lisp-family languages.
 
 * [http://dto.github.com/notebook/xong.html XONG]
+* [http://sourceware.org/xconq/ Xconq] is a free strategy game that uses Lisp to define its war scenarios.
 * [[Common Worm]]
 * [[Farmageddon]]
 * See more in [[:Category:Game]]
