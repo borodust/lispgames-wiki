@@ -1,0 +1,8 @@
+This page collects links to various postmortem analyses from Lisp game
+development challenges hosted previously. 
+
+I would like to move the info for current and previous contests and
+postmortem links here when I have time. 
+
+* [http://dto.github.com/notebook/lgdc10-postmortem.html David O'Toole's LGDC2010 postmortem.]
+* Your link here
