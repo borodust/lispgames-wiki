@@ -1,0 +1,10 @@
+== Status ==
+
+The [[ILGE2010|2010 International Lisp Games Expo]] is the most recently held ILGE.  The next event has not been decided.
+
+== Ideas ==
+
+* Introduce a theme for all submissions
+** Keep the theme secret?
+* Run it for a week
+** 48 hours is too short, 4 weeks is too long
