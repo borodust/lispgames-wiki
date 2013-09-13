@@ -7,7 +7,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == News ==
 
-* '''[[2011 January Lispy Game Jam]] planned to begin on January 10th'''
+* '''[[2011 January Lispy Game Jam]] has begun'''
 * This site is now available on the domain lispgames.org
 * The [[2010 October Lisp Game Dev Competition]] has finished
 
