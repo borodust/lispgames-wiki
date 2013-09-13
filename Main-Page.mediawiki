@@ -9,7 +9,14 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 * A call for [[2012 Spring Lisp Game Jam]] ideas!
 * [[Blocky]] is now in preliminary beta release.
 
+== New about these parts? == 
+Sorry, these pages havent been written yet, but please check back soon.
+[[What is Lisp?]]
+[[Why use Lisp for games?]]
+
 == Resources, by dialect ==
+
+Lisp is a family of languages and each can have different libraries available. Check out what is particular to each dialect below.
 
 [[CommonLisp]], [[Scheme]], [[Clojure]], [[Clojurescript]], [[EmacsLisp]], [[Parenscript]]
 
