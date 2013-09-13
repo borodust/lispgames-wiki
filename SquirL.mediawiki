@@ -1,0 +1,5 @@
+SquirL is a 2d physics engine written in ANSI [[Common Lisp]]. It's a full, native port of the [http://code.google.com/p/chipmunk-physics/ Chipmunk Physics Engine].
+
+== Links ==
+* [http://github.com/sykopomp/squirl GitHub repo]
+* [http://redmine.sykosomatic.org/projects/squirl Project page]
