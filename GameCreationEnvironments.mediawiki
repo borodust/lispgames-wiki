@@ -22,5 +22,5 @@ Benefits could include:
 IDE proposals:
 
 * [[User:dto1138]] is working on [[Xiomacs]] (more info soon.)
-* [[User:WarWeasle]] is working on [http://lisp-qix.blogspot.com/ a yet-to-be-named 3D project.]
+* [[User:WarWeasle]] is working on the [[Qix]] media editor.
 * Your project link here...
