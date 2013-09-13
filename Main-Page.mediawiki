@@ -2,12 +2,7 @@
 
 This wiki is the Official Community Portal (TM) of the Lisp Games community, devoted to creating games and other interactive multimedia constructions with the programmable programming language, [[Lisp]], in its various dialects: [[CommonLisp]], [[Scheme]], [[Clojure]], [[Parenscript]], [[Clojurescript]], and others. These user-editable pages are for YOU: people sharing information, links, and discussions related to Lisp Games Development.
 
-We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create an account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone.
-
-=== How To Edit ===
-
-See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing.
-If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
+We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create an account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing. If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.])
 
 == News for 2012-03-08 ==
 
