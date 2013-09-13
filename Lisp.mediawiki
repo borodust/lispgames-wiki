@@ -1,0 +1,5 @@
+Lisp is cool for games because it's a great programming language to begin with. Also, Lisp is the traditional language of artificial intelligence, and games involve more AI than ever nowadays, so you may as well
+
+I'm speaking of Lisp as one entity. That's not entirely correct; there are really many dialects of Lisp, but any of them can be understood with a few key ideas that are common to them all. (That being said, some dialects are more beginner-friendly than others.)
+
+What makes writing Lisp different from writing any other language is its conceptual uniformity in treatment of both programs and data. This renders the distinction between you (the programmer) and the language designer (you, the programmer) nonexistent. You can redesign the language as you wish, by using ''Lisp macros'' to teach the compiler new tricks.
