@@ -3,3 +3,8 @@ Clojure is a new dialect of Lisp that runs on the Java Virtual Machine.
 * [http://clojure.org/ Clojure.org]
 * [https://vimeo.com/38372260/ A video about] using clojure with [[SLIMV]].
 * The letter tile game [https://github.com/rlonstein/wordwhiz WordWhiz] (github) is written in Clojure.
+
+
+=== Games ===
+
+* [http://thomcc.github.com/dunjeon/ Dunjeon] A small roguelike written in Clojure. ([https://github.com/thomcc/dunjeon source])
