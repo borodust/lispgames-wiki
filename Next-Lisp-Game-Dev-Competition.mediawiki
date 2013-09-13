@@ -1,9 +1,13 @@
 == Status ==
 
-The [[ILGE2010|2010 International Lisp Games Expo]] was the most recently held ILGE.  The next event has not been decided.
+The [[ILGE2010|2010 International Lisp Games Expo]] was the most recently held ILGE.  The next event is being planned here.
 
-== Ideas ==
+== To decide ==
 
 * Introduce a theme for all submissions
-* Run it for a week?
+** What is the theme going to be?
+* Run it for a week
 ** 48 hours is too short, 4 weeks is too long
+* When should it be held?
+** dto suggested 10/01
+*** too soon, I think [[User:Sharps|Sharps]] 10:40, 1 October 2010 (EDT)
