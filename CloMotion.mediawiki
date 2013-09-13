@@ -1,0 +1,1 @@
+This page is for ideas and links related to motion control, image processing, CL-V4L2, Playstation Move, Xbox Kinect, OpenCV, computer vision, motion detection, dance pads, MIDI, and more. The point is to begin integrating movement controls of various kinds into Common Lisp game libraries.
