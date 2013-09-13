@@ -1,1 +1,4 @@
 The October Lisp Game Dev Competition begins at 2010-10-24 00:01 UTC and runs for seven days.
+
+[[Category:Contest]]
+[[Category:Community Event]]
