@@ -11,7 +11,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Add links to your projects and games.
 * Add links to resources and articles.
 
-= Open issues and projects = 
+== Open issues and projects == 
 
 * Reproducing and eventually squashing the [[Win64Crashes]] affecting some SBCL/SDL programs.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
@@ -37,8 +37,3 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 * [http://lispgamesdev.blogspot.com/ David's lisp games blog]
 * Add your site here...
-
-= Getting started with MediaWiki =
-* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
-* [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]
-* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
