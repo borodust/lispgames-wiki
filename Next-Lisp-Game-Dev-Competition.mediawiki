@@ -4,10 +4,12 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 
 == To decide ==
 
-''' Introduce a theme for all submissions'''
+'''Introduce a theme for all submissions'''
 * What is the theme going to be?
 
-''' Run it for a week'''
+'''How long should it run for?'''
+* probably one week
+* IGLE2010 was 7 weeks
 * 48 hours is too short, 4 weeks is too long
 
 ''' When should it be held?'''
