@@ -5,4 +5,4 @@ Presumably a list of Lisp Game Community members should go here?
 * [[wubo]]
 * [[ericbb]]
 * [[WarWeasle]]
-* [[sharps]]
+* [[User:sharps]]
