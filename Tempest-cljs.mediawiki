@@ -6,3 +6,6 @@ Tempest-cljs is a web-based implementation of the classic arcade game Tempest.  
 
 == Play tempest-cljs ==
 [http://mrmekon.github.com/tempest-cljs/level1.html Play tempest-cljs]
+
+
+[[Category:Game]]
