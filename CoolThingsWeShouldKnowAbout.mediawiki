@@ -1,0 +1,6 @@
+Add cool things. Not strictly limited to Lisp.
+
+* [http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks SchemeBricks]
+* [http://www.pawfal.org/fluxus/ Fluxus Scheme]
+* [http://www.chirp.scratchr.org/blog/?p=24 Smalltalk Elements]
+* [http://byob.berkeley.edu Build Your Own Blocks]
