@@ -1,0 +1,1 @@
+Lisp macros allow you to write very expressive code, and runtime images allow the ability to change and add code live, giving you access to a full [http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop REPL] while your game is running.
