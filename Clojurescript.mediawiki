@@ -10,4 +10,4 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 * [http://thomcc.github.com/ld23/ Crashed on Minutiae Prime] Short top down adventure game written in 72 hours for Ludum Dare 23 ([https://github.com/thomcc/ld23 source]).
 * [http://thomcc.github.com/Argh/ Argh] Incomplete 3D game, written as both a stress test for ClojureScript and for practice.  Anybody interested in using [https://github.com/thomcc/Argh the source] for anything should feel free too.
 * [http://www.morgawr.eu/ld26 Art Attack] A short point and click adventure game developed for the 48 hours competition Ludum Dare 26 ([https://github.com/Morgawr/ld26 source]).
-* [https://github.com/yogthos/Clojure-Tetris] Tetris in ClojureScript
+* [https://github.com/yogthos/Clojure-Tetris Tetris in ClojureScript]
