@@ -1,0 +1,3 @@
+professional software engineer
+
+using common lisp at home, school, and work.
