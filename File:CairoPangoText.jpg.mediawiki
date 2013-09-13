@@ -1,0 +1,1 @@
+Another test of Pango and Cairo working together.
