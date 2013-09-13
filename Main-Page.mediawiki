@@ -14,7 +14,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 Here are some pages you could write or add to: 
 
 * Page generally describing [[Lisp]], hopefully written in a manner [[AccessibleToNewcomers]].
-* Pages to collect dialect-specific resources: [[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]] 
+* Collect more dialect-specific resources: [[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]] 
 * A permanent [[LispGamesArchive]] that people could donate things to, sort of like the Interactive Fiction Archive.
 * [[ObstaclesToLispNewcomers]], [[CoolThingsWeShouldKnowAbout]]
 
