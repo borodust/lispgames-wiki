@@ -21,11 +21,14 @@ The cl-opengl interface is usually quite close to the normal C one, but lispier 
 * What is the best way to render (straight functions, compile to primitives, etc.)
 
 * What are the strongest parts of Lisp Game Development?
+** In-engine read eval print loops. They are made of pure interactive rapid-development win.
 
 * What are the weakest parts of Lisp Game Development?
+** There can be an impedance mismatch between the lispy hardware interface you'd like to see and what the OS provides to C programs. Many libraries have CFFI bindings avalible that pave over the gaps, but it can be really hard to do correctly for everything. The places where they're missing - or 'raw' and un-lisp-like - will *hurt*.
 
 * What is the best Lisp to use for various goals?
 
 * What is the best way to distribute your game?
 
 * Are there ways to abstract game development?
+** [http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/ Component-entity frameworks]. Object Orientation is nice, but doesn't quite map to the way game entities/objects tend to be. Component-Entity Frameworks are designed to provide the advantages of OO (abstraction, encapsulation of data, coupling of data and the code that uses it, behaviours that any object can implement), but in a way more suited to game devlopment.
