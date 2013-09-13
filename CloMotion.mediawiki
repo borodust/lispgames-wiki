@@ -1,7 +1,7 @@
 This page is for ideas and links related to motion control, image processing, CL-V4L2, Playstation Move, Xbox Kinect, OpenCV, computer vision, motion detection, dance pads, MIDI, and more. The point is to begin integrating movement controls of various kinds into Common Lisp game libraries.
 
 
-== Motion Detection ==
+== Motion Detection, Image/Video Processing and Computer Vision ==
 * [http://www.ai.sri.com/~connolly/ Christopher I. Connolly's SRI page] has pretty advanced stuff including video tracking, event analysis and motion detection, mostly written in combination of Common Lisp and C++.
 ** [http://www.ai.sri.com/~connolly/sentient/index.html Sentient Environments] Video tracking and event analysis.
 ** [http://www.ai.sri.com/~connolly/freedius/basics.html FREEDIUS] FREEDIUS includes tools for developing image understanding algorithms, extracting geometric features from imagery, geolocation of imagery and features, construction of sensor models, and GUI development. [http://www.ai.sri.com/~connolly/freedius/basics.html]
@@ -12,3 +12,9 @@ This page is for ideas and links related to motion control, image processing, CL
 ** [http://13-49.blogspot.com/2009/08/video-processing.html Video Processing]
 ** [http://13-49.blogspot.com/2009/09/eye-region-tracking-in-common-lisp.html Eye region tracking in Common Lisp]
 * [http://code.google.com/p/nijiato/ Nijiato] - Simple fingers motion recognition using LISP, cl-v4l2 and colors-detection algorythm.
+* There seems to be an unmaintened [https://github.com/lispcar/cl-opencv attempt] to create a basic CL wrapper around OpenCV called cl-opencv.
+
+== Tools ==
+* [http://repo.or.cz/w/cl-v4l2.git cl-v4l2] is a CFFI interface to Video4Linux2
+* [http://linuxtv.org/wiki/index.php/Main_Page V4L2 Wiki]
+* [http://opencv.willowgarage.com/wiki/ OpenCV Wiki]
