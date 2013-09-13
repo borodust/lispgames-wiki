@@ -1,0 +1,7 @@
+Common Worm is a simple example game written in [[Common Lisp]]. The game is a clone of the classic snake game. There are currently two versions available: one written using [[Lispbuilder-SDL]], and one written with [[Until It Dies]]
+
+== Links ==
+* [http://github.com/sykopomp/common-worm Common Worm on GitHub]
+
+[[Category:Common Lisp]]
+[[Category:Game]]
