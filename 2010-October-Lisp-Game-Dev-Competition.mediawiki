@@ -7,7 +7,27 @@ The '''2010 October Lisp Game Dev Competition''' is a fun, seven-day, online cha
 
 == Post-mortems ==
 
-''Link to various write-ups and reports here'''
+
+===LGDC organizing post-mortem===
+
+* Planning some things a few weeks early helped a lot, even if they weren't all enacted this time.  When the proposed start date came, it was simply a matter of declaring that the competition was on.
+* ... except that no specific time had been discussed previously, so we agreed on an arbitrary time a few hours ahead, in order to keep things straightforward.
+* Such a short period was not quite enough for getting the word out.  As it happened, about half the entries were submitted a few days after the promotion drive.  It would have been better to have begun with 3-5 days of lead time.
+* Promotion was a mixed bag.
+** The regular lispgames channels (#lispgames, wiki and dto's blog) were good starting points, but mainly reached a familiar crowd.
+** The @lispgames Twitter account was still new, and posting about the LGDC helped gain ~15 followers.
+** Xach's blog post probably drove some traffic too.
+** We have no information on what announcing on #lisp, #clojure and #quicklisp did.
+** A post on lispforum.com didn't elicit any direct response but seemed to have brought more Twitter followers.
+** But all are worth repeating for the next event.
+* arbscht's private goal was to get 3 or 4 entries in total, so 5 is a great result.  5 is probably a good number for frequent LGDC events in the future, especially if it happens monthly or bi-monthly.
+* 7 days is about right.
+* Entry didn't close at the start, submissions could be made until the end.  This worked out well: some people entered late (perhaps toying with an idea privately before committing to a submission?), and too much pressure wouldn't have been fun anyway.
+* We left the deadline intentionally vague (Sunday...ish), which seems to have been a good idea given how many people entered late.  At least for this effort, we're interested in progress, not finished products.  But this seemed to confuse a few people, both entrants and observers.
+* Allowing entrants to work on existing projects rather than having to invent something from scratch also helped.  dto worked on an existing system, and humasect entered with something from a different, simultaneous competition.
+* No prizes on offer.  I'd like to see that change for a future event (maybe ILGE instead of LGDC).  Imagine giving something like a copy of Land of Lisp for the winner — fitting, and not unrealistically costly.
+
+''Add your post-mortem here''
 
 == How to enter ==
 
