@@ -10,8 +10,6 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 * [[Blocky]] is now in preliminary beta release.
 
 == New about these parts? == 
-Sorry, these two pages havent been written yet, but please check back soon.
-
 [[What is Lisp?]]
 
 [[Why use Lisp for games?]]
