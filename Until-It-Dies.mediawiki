@@ -1,0 +1,3 @@
+Until It Dies is a rapid-prototyping game engine for [[Common Lisp]], currently under development. It aims to be a solid platform for quickly putting together 2d and 3d games.
+
+UID is hosted on [http://github.com/sykopomp/until-it-dies GitHub]
