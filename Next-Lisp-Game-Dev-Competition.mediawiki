@@ -6,8 +6,13 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 
 * Introduce a theme for all submissions
 ** What is the theme going to be?
+
 * Run it for a week
 ** 48 hours is too short, 4 weeks is too long
+
 * When should it be held?
 ** dto suggested 10/10 in #lispgames
-*** too soon, I think [[User:Sharps|Sharps]] 10:40, 1 October 2010 (EDT)
+*** too soon, I think.  [[User:Sharps|Sharps]] 10:40, 1 October 2010 (EDT)
+
+* How will it be organised?
+** Should do registration page, keep a central list of people/games/writeups, then email reminders to people [[User:Sharps|Sharps]] 10:43, 1 October 2010 (EDT)
