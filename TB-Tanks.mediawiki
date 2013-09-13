@@ -1,6 +1,18 @@
-Placeholder for some sort of future information about TB Tanks.
+A simple minded orthographic two player tank battle game written in [[Clojure]] by [[wubo]].
+
+== Features ==
+
+* Orthographic View
+* Simple particle systems
+* Collision detection
+* Sound
+* Map editor
+
+== Screen Shots ==
 
 [[File:tbtanks.png]]
+
+== More Information ==
 
 * [http://github.com/netguy204/1MonthLispGame Source Code]
 * [http://github.com/netguy204/1MonthLispGame/downloads Releases]
