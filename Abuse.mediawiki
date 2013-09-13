@@ -1,0 +1,1 @@
+[http://en.wikipedia.org/wiki/Abuse_(computer_game) Abuse] is a 1995 commercial computer game that uses a custom lisp variant for the game logic. Some mods were created using this lisp dialect, but as it was undocumented, there were very few of them. The game assets and source are now in the public domain, It's currently maintained at [http://abuse.zoy.org/ abuse.zoy.org].
