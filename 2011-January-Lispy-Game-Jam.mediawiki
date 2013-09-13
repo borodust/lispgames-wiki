@@ -1,5 +1,10 @@
 The '''2011 January Lispy Game Jam''' is a fun, seven-day, online challenge for lisp hackers to produce computer games using a lisp variant.
 
+'''The Chosen Theme'''
+Thematic: Restaurant
+Gameplay: Side scrolling
+Technical: No bitmap (image files)
+
 == When and where ==
 
 * The event is penciled in to start on the 10th January (exact time TBC), and will run for 7 days.
