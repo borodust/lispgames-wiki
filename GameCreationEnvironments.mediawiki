@@ -17,4 +17,10 @@ Benefits could include:
 * Rapid development/prototyping
 * Easy to cross-compile self-contained .EXE, .DMG, [http://www.elementary-project.com/wiki/index.php?title=AppImages AppImage]
 * Building cross-platform game creation communities
-* More game s
+* More games
+
+IDE proposals:
+
+* [[User:dto1138]] is working on XIOMACS (more info soon.)
+* [[User:WarWeasle]] is working on [http://lisp-qix.blogspot.com/ a yet-to-be-named 3D project.]
+* Your project link here...
