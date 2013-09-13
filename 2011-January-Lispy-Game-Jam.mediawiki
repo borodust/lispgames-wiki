@@ -16,16 +16,16 @@ The '''2011 January Lispy Game Jam''' is a fun, seven-day, online challenge for 
 
 == Themes ==
 
-The theme will probably involve three elements, a combination of; one thematic, one gameplay & one technical, as outlined [http://globalgamejam.org/wiki/content-theme-competition-restraints-tracks here].
+The theme will probably involve three elements, a combination of; one thematic, one gameplay & one technical, as outlined [http://globalgamejam.org/wiki/content-theme-competition-restraints-tracks here]. Remember all themes are open to your interpretation, creativity is king. 
 
 '''Please add your theme element suggestions below''' (N.B. A random combination will be selected for the competition)
 
 ; Thematic
-: Love, Animals, Magic, Christmas, Living dead, Restaurant, Tanks, Darkness, Fairies, Fantasy, Gold, Turtles
+: Love, Animals, Magic, Christmas, Living dead, Restaurant, Tanks, Darkness, Fairies, Fantasy, Gold, Turtles, Space, Disease, War
 ; Gameplay
-: Minimal interaction, Management, Realtime, Turn-based, Side scrolling, Sidekick (co-pilot AI character or Player 2)
+: Minimal interaction, Management, Realtime, Turn-based, Side scrolling, Sidekick (co-pilot AI character or Player 2), Survival, One Life, regeneration
 ; Technical
-: Never the same play twice, Same game everytime, Things break if you hit them, Everything respawns, One of the powerups/items reverses the controls, Hexagonal maps, Constant speeding up of gameplay
+: Never the same play twice, Same game everytime, Things break if you hit them, Everything respawns, One of the powerups/items reverses the controls, Hexagonal maps, Constant speeding up of gameplay, No bitmap (image files), Procedural generation, Action Replay, World Wide Web, Minimal application deployment
 
 == Participation ==
 
