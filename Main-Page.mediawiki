@@ -35,6 +35,7 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
 ** [http://openclipart.org/tags/game OpenClipArt]
 ** [http://www.freesound.org/ FreeSound.org]
+** [http://game-icons.net/ game-icons.net]
 
 == Open issues and projects == 
 
