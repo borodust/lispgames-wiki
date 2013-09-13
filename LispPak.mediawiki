@@ -1,0 +1,7 @@
+LispPak is an asset packaging format for use in exchanging asset files and metadata between various game engines, asset editors, version control and Digital Asset Management systems, and other applications.
+
+A LispPak is a collection of related asset chunks (i.e. files) together with metadata about the chunks. The metadata define such attributes as media type, file format, encoding, language, licensing information, and so on. These attribute values are called properties, and are stored in a .PAK file alongside the described files. Chunk files can be in any format, binary or text. Chunk properties can include application-specific metadata for use by game engines or editors. Standard tools can be used to package asset directories with their corresponding PAK files into single-file compressed archives for easier interchange.
+
+See [http://github.com/dto/lisppak lisppak at github.com] for more details.
+
+Currently used only in [[XE2]] and [[Xiomacs]].
