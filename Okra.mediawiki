@@ -1,4 +1,4 @@
-Okra is a set of CFFI bindings to the [http://www.ogre3d.org/ Ogre3d] rendering engine.
+Okra is a set of [[CFFI]] bindings to the [http://www.ogre3d.org/ Ogre3d] rendering engine.
 
 == Links ==
 
