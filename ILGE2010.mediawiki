@@ -1,0 +1,3 @@
+The "International Lisp Games Expo" 2010.
+
+* [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
