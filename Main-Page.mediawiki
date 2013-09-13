@@ -31,7 +31,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 * Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
 
-* Physics: [[SquirL]] (2d), [[buclet]] (3d)
+* Physics: [[SquirL]] (2d), [[buclet]] (3d), [[cl-ode]]
 
 * Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [http://github.com/patzy/glaw glaw], [http://github.com/shr/pltcod PLTCOD]
 
