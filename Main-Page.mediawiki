@@ -25,6 +25,8 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 * Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[cl-devil]], [[cl-glfw]], [[CLX]], [[okra]], [[imago]], [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], [http://github.com/patzy/glop glop]
 
+* Audio: [[Lispbuilder-SDL]], [[cl-openal]]
+
 * Physics: [[SquirL]] (2d), [[buclet]] (3d)
 
 * Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [http://github.com/patzy/glaw glaw]
