@@ -9,4 +9,3 @@ CL-DevIL is a set of [[Common Lisp]] [[CFFI]] bindings to the [http://openil.sou
 [[Category:CFFI bindings]]
 [[Category:Library]]
 [[Category:Graphics]]
-[[Category:OpenGL]]
