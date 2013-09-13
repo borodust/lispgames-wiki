@@ -38,6 +38,7 @@ List your name if you are considering entering the competition. You may enter at
 * Puzzle Dance Party Extreme --- David O'Toole, source here https://github.com/dto/puzzle-dance/tree/develop
 * Something Shiny, by Brian "wubo" Taylor
 * A game-like, by Lyndon "humasect" Tremblay
+* --, by Daniel "valium97592" Valio
 [[Category:Contest]]
 [[Category:Community Event]]
 __NOTOC__
