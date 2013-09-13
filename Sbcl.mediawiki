@@ -2,7 +2,7 @@
 
 It is one of the fastest lisp implementations, due to it's highly optimized native code compiler. By default, executables shipped with SBCL are larger than those built with other implementations. 
 
-If you try to ship Windows executable images ('applications') with SBCL, beware the [KittenOfDeath].
+If you try to ship Windows executable images ('applications') with SBCL, beware the [[KittenOfDeath]].
 
 == Links ==
 
