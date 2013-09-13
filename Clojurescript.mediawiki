@@ -1,3 +1,9 @@
 Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of the JVM.
 
 * [https://github.com/clojure/clojurescript Clojurescript on Github]
+
+
+=== Games ===
+* [[tempest-cljs]]
+* [http://nakkaya.com/2012/01/31/clojurescript-canvas-a-simple-breakout-implementation/ Breakout clone]
+* [http://marrowboy.co.uk/pacman/pacman.html Pacman clone]
