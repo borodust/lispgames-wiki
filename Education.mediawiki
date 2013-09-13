@@ -3,3 +3,4 @@ Educational pages for those getting started with Lisp Game development.
 * [[Learning Common Lisp]] - for people getting started with lisp
 * [[Learning Clojure]]
 * [[Opengl Resources]] - has tutorials, introductions, and other material for learning OpenGL
+* [[Learning Linear Algebra]]
