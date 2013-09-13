@@ -5,3 +5,5 @@ SquirL is a 2d physics engine written in ANSI [[Common Lisp]]. It's a full, nati
 * [http://redmine.sykosomatic.org/projects/squirl Project page]
 
 [[Category:Physics]]
+[[Category:Common Lisp]]
+[[Category:Library]]
