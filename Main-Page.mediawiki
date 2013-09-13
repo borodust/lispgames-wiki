@@ -37,11 +37,11 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
 
 * Arts/Sound: 
-    * [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
-    * [http://opengameart.org Open Game Art]
-    * [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
-    * [http://openclipart.org/tags/game OpenClipArt]
-    * [http://www.newgrounds.com NewGrounds]
+** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
+** [http://opengameart.org Open Game Art]
+** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
+** [http://openclipart.org/tags/game OpenClipArt]
+** [http://www.newgrounds.com NewGrounds]
 
 == Sites ==
 
