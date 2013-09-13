@@ -8,11 +8,24 @@ The '''2011 January Lispy Game Jam''' is a fun, seven-day, online challenge for 
 == How to enter ==
 
 * Build a game using a lisp language while the competition is on, and publish it somewhere.
-* Register on this wiki and add your details below by Sunday, October 31.
+* Register on this wiki and add your details below by the day before the competition, currently Sunday, January 9th.
 
 == Rules ==
 
 * Use a lisp variant as the primary language to build your game within the chosen theme.  That can include Common Lisp, Scheme, Clojure, Emacs Lisp, or even your own lisp-like invention.  The rest of the technology is up to you.
+
+== Themes ==
+
+The theme will probably involve three elements, a combination of one thematic, one gameplay & one technical, as outlined [http://globalgamejam.org/wiki/content-theme-competition-restraints-tracks here title].
+
+Please add your theme element suggestions below (N.B. A random combination will be selected for the competition)
+
+; Thematic
+: Love
+; Gameplay
+: Minimal interaction
+; Technical
+: Never the same play twice
 
 == Entries ==
 
