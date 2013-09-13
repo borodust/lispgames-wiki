@@ -1,0 +1,5 @@
+This page is for Lisp-based game programming articles. 
+
+== Professional Lisp Games ==
+
+[http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp Game Oriented Assembly Lisp (Goal)] used by Naughty Dog Inc.
