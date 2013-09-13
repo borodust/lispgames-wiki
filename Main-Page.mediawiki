@@ -1,4 +1,4 @@
-'''Welcome to the Lisp Games Wiki!.'''
+'''Welcome to the Lisp Games Wiki!'''
 
 This wiki is for people sharing information, links, and discussions related to Lisp Games development.
 
