@@ -1,0 +1,3 @@
+[http://erleuchtet.org/2008/03/project-overview-perfectstorm.html#more perfectstorm] is an RTS game in Common Lisp, in development as of 2008.
+
+[[Category:Game]]
