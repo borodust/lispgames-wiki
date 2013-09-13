@@ -3,3 +3,4 @@ Presumably a list of Lisp Game Community members should go here?
 * [[dto]]
 * [[sykopomp]]
 * [[wubo]]
+* [[ericbb]]
