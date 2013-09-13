@@ -3,3 +3,5 @@ Hey, my name is Sharps and I'm doing demoscene related stuff in lisp, which over
 Currently I'm working on an engine in Common Lisp, using [[cl-glfw]] for windowing/events/opengl-context and [[cl-opengl]] for rendering. I've got CFFI bindings to BASSMOD in development, due for release soon, poke me if you're interested.
 
 Eventually I'm planning to evolve my demoengine into a live-coding platform. Livecoding looks like great fun, but although there's Scheme tools for it (Impromptu, Fluxus), I want a Common Lisp one. Besides, I think there are better ways to do livecoding audio than what Impromptu and Fluxus provide.
+
+Oh, and I hate spambots.
