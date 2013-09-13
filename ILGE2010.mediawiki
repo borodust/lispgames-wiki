@@ -16,5 +16,8 @@ These will be completed once the context concludes.
 == Links ==
 
 * [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
+* [http://www.cliki.net/Gentoo/InternationalLispGameExpo2010 CLiki]
+
 
 [[Category:Contest]]
+[[Category:Community Event]]
