@@ -3,7 +3,7 @@ The '''2010 October Lisp Game Dev Competition''' is a fun, seven-day, online cha
 == When and where ==
 
 * Currently '''in progress'''! The event began on Sunday, October 24 at 2010-10-24 00:01 UTC and will run '''until Sunday, October 31'''. Entries are accepted until the competition closes.
-* The competition is entirely run online.  Chat about it on IRC at #lispgames on irc.freenode.net and follow [http://twitter.com/lispgames lispgames on Twitter].
+* The competition is entirely run online.  Chat about it on IRC at #lispgames on chat.freenode.net and follow [http://twitter.com/lispgames lispgames on Twitter].
 
 == How to enter ==
 
