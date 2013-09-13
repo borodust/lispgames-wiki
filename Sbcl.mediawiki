@@ -1,0 +1,9 @@
+'''SBCL''' is an open source [Common Lisp] implementation noted for it's high performance. Probably the most widely used common lisp implementation, certainly the most widely used free one. It has very good library and tools support, and good documentation.
+
+It is one of the fastest lisp implementations, due to it's highly optimized native code compiler. By default, executables shipped with SBCL are larger than those built with other implementations. 
+
+== Links ==
+
+[http://www.sbcl.org/ SBCL Homepage]
+[http://sourceforge.net/projects/sbcl/ Sourceforge]
+[http://www.cliki.net/SBCL CLiki]
