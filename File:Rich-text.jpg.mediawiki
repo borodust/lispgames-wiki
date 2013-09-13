@@ -1,0 +1,1 @@
+An example of Rich Text with Pango, Cairo, and OpenGL.
