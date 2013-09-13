@@ -1,7 +1,27 @@
-LispPak is an asset packaging format for use in exchanging asset files and metadata between various game engines, asset editors, version control and Digital Asset Management systems, and other applications.
+LispPak is an asset packaging format for use in exchanging asset files and metadata between various game engines, asset editors, version control and Digital [[AssetManagement]] systems, and other [[UsefulApplications]].
 
 A LispPak is a collection of related asset chunks (i.e. files) together with metadata about the chunks. The metadata define such attributes as media type, file format, encoding, language, licensing information, and so on. These attribute values are called properties, and are stored in a .PAK file alongside the described files. Chunk files can be in any format, binary or text. Chunk properties can include application-specific metadata for use by game engines or editors. Standard tools can be used to package asset directories with their corresponding PAK files into single-file compressed archives for easier interchange.
 
 See [http://github.com/dto/lisppak lisppak at github.com] for more details.
 
 Currently used only in [[XE2]] and [[Xiomacs]].
+
+A few entries from Xong's PAK file:
+
+ (:name ".default-font" :type :font :properties (:height 14 :width 7) :data "7x14b")
+ (:name "explode" :type :sample :file "explode.wav" :properties (:volume 10))
+ (:name "player" :type :image :file "player.png")
+ (:name "player-empty" :type :image :file "player-empty.png")
+ (:name "gate-open" :type :image :file "gate-open.png")
+ (:name "gate-closed" :type :image :file "gate-closed.png")
+ (:name "bulkhead" :type :image :file "bulkhead.png")
+ (:name "wire-east" :type :image :file "wire-right.png")
+ (:name "wire-south" :type :alias :data ":rotate 90:wire-east")
+ (:name "wire-west" :type :alias :data ":rotate 90:wire-south")
+ (:name "wire-north" :type :alias :data ":rotate 90:wire-west")
+ (:name "bounce" :type :sample :file "bounce.wav" :properties (:volume 8))
+ (:name "sparqq" :type :music :file "sparqq.ogg" :properties (:volume 100))
+ (:name "voronoia" :type :music :file "voronoia.ogg" :properties (:volume 100))
+ (:name "invierov" :type :music :file "invierov.ogg" :properties (:volume 100))
+ (:name "player-lisp" :type :lisp :file "player.lisp" :properties (:autoload t))
+ (:name "enemy-lisp" :type :lisp :file "enemy.lisp" :properties (:autoload t))
