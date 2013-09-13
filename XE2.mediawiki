@@ -35,10 +35,10 @@ longer-term concern.
 
 == Links ==
 
+* [http://dto.github.com/notebook/xe2.html XE2 homepage with documentation.]
+* [http://dto.github.com/notebook/games.html Information about my games made with XE2]
 * [http://github.com/dto/xe2 XE2 Github repository]
 * [http://github.com/dto/clon CLON Github repository]
-* [http://dto.github.com/notebook/games.html Information about my games made with XE2]
-* [http://dto.github.com/notebook/xe2-reference.html XE2 developer's reference.] Needs work.
 
 [[Category:Common Lisp]]
 [[Category:2D]]
