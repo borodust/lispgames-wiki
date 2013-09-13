@@ -26,6 +26,7 @@ List your name here, with possibly a bit of text about yourself and what you pla
 * David O'Toole --- I'd like to make a mini version of XONG with documented code so that I can show people an example of using [http://ioforms.org IOFORMS.]
 * Jeremiah Stoddard (jstoddard) --- I'll be working on a side-scrolling game along the lines of either Super Mario Bros. or Duke Nukem.
 * Josh Marchán (sykopomp) --- Continuing work on Sykosomatic. Specifically, adding a new input system and actual game objects to make the toy more of a game. Hopefully have a few rooms and a short playtest session.
+* Andrew Stine --- Trivial rogue-like, curses based.
 * Your Info Here
 [[Category:Contest]]
 [[Category:Community Event]]
