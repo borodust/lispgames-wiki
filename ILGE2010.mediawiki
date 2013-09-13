@@ -11,6 +11,7 @@ The contest is <s>in progress</s> now over, check out the [http://www.cliki.net/
 * [[User:wubo|wubo]]'s [http://common-lisp.net/pipermail/lisp-game-dev/2010-August/000099.html TB Tanks]
 * patzy's [http://github.com/patzy/push/blob/master/postmortem.org push]
 * Schell Scivally's [http://efnx.com/bourtange-postmortem/ Bourtange!]
+* Olexiy Zamkoviy's [http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life Game of Life] [http://olexiy.info/article/7 implementation]
 * To add: [[User:Dto1138|dto]]'s Void Mission postmortem, when it goes up
 * To add: your writeup of your IGLE2010 entry
 
