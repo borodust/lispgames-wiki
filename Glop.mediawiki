@@ -2,6 +2,13 @@ The goal is to provide simple [[Opengl|OpenGL]] window and context manipulation 
 
 Direct FFI bindings to system functions are used so no third party C lib is required except system libraries.
 
+glop currently supports Windows and X11.
+
 == Links ==
 
 * [http://github.com/patzy/glop GitHub]
+
+[[Category:Common Lisp]]
+[[Category:Library]]
+[[Category:CFFI bindings]]
+[[Category:OpenGL]]
