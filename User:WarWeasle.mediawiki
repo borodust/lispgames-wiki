@@ -6,9 +6,8 @@ I work with C, C++, HTML, Javascript, ASP, PHP, Visual Basic, SQL, Assembly Lang
 
 == Quote ==
 
-"Like everything else in life, X is just a primitive, degenerate form of Lisp."
-
-    -Greenspun's Tenth Rule blended with Bender
+    "Like everything else in life, X is just a primitive, degenerate form of Lisp."
+          -Greenspun's Tenth Rule blended with Bender
 
 == Pictures of My Work ==
 
