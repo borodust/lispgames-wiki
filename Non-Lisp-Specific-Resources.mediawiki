@@ -1,0 +1,35 @@
+'''Non Lisp Specific Resources'''
+
+Many challenges in game development are relevant to all languages. The links below are not necessarily about Lisp but may be very useful.
+These links are those that are suitably lisp agnostic or are written in another language entirely.
+
+=== Functional Game Programming ===
+* [http://www.haskell.org/haskellwiki/Yampa Functional Reactive Programming with Yampa (Haskell)]
+* [http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/ John Carmack on functional programming in c++]
+* [http://www.idt.mdh.se/utbildning/exjobb/files/TR0811.pdf HaGPipe A DSL for programming the entire graphical pipeline (Haskell) (pdf)]
+* [http://www.cse.unsw.edu.au/~pls/thesis/munc-thesis.pdf Functional Programming and 3D Games (pdf) (haskell)]
+
+=== Graphics ===
+* [http://en.wikibooks.org/wiki/OpenGL_Programming#Modern_OpenGL Modern OpenGL (gl) (wiki or pdf)] This creative commons wikibook is a good place to get started with opengl as it uses v2.1 which is common and also the programmable pipeline, which is essential to modern game graphics.
+
+=== Procedural Media Generation  ===
+* [http://www.ii.uib.no/~knute/lsystems/lsystems.final.ps.gz L-Systems, Twinning Plants, Lisp (postscript) (cmucl)] LSystems were introduced as a mathematical model for cellular plant growth and are commonly used in the games industry for generating all manner of plants from tiny flowers to palm trees.
+
+=== Pages of Links ===
+Some people have collected a fantastic swathe of links themselves. Rather than reproduce them all here go have a gander at their sites.
+* [http://www-cs-students.stanford.edu/~amitp/gameprog.html Amit's Games Programming Information]
+
+=== Code ===
+Some code is so well written it can be read for inspiration for your own Lisp projects, if you want to see working implementations of game elements, see the following
+* [http://www.ogre3d.org/ Ogre3D] Ogre is written in c++ and is incredibly clean and readable as well as being open source.
+
+=== Help! ===
+Although there isn't much lisp specific info in the sites below, many issues crop up in all languages so these are worth a gander.
+* [http://gamedev.stackexchange.com/ Game Development Stack Exchange]
+
+== Books ==
+Unfortunately, unless you are some kind of digital bloodhound, you may struggle to piece together all the disparate information regarding game development online. Sometimes you just can't beat a good book.
+
+* [http://www.amazon.com/Essential-Mathematics-Interactive-Applications-Edition/dp/0123742978 Essential Mathematics for Games and Interactive Applications]
+* [http://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1568814135 Game Engine Architecture]
+* [http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240 Real-Time Rendering]
