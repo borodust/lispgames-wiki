@@ -8,16 +8,25 @@ This page is for opengl resources, tutuorials, articles, and other helpful OpenG
 
 == General OpenGL == 
 
+=== Web & PDF Based Resource ===
 
-
-*'''Tutorials'''
-** [http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html An Intro to Modern Opengl] - because nehe and other resources are often not up-to-date
-** [http://nehe.gamedev.net/ NeHe] The canonical (yet old) opengl online learing resource. Has a wide range of tutuorials and examples of opengl features, with source code in C++ (and ports to other languages) mixed with comments.
+* '''Programmable Pipeline (v2.0+)
+** [http://en.wikibooks.org/wiki/OpenGL_Programming#Modern_OpenGL Modern OpenGL Wikibook ]
+** [http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html An Intro to Modern Opengl]
 ** [http://sites.google.com/site/opengltutorialsbyaks/home OpenGL (3.x/4.x) Tutorials by Aks]
 ** [http://www.arcsynthesis.org/gltut/ more GL 3.x+ tutorials]
-*'''Communities'''
-** [http://www.gamedev.net/community/forums/forum.asp?forum_id=25 Gamedev.net OpenGL forums]
-** There is an [http://www.opengl.org/wiki/Main_Page Official OpenGL wiki]
+
+* '''Fixed Function Pipeline (v1.0 -> v1.5)
+** [http://nehe.gamedev.net/ NeHe] The canonical (yet old) opengl online learing resource. Has a wide range of tutuorials and examples of opengl features, with source code in C++ (and ports to other languages) mixed with comments.
+
+
+=== Videos ===
+
+* [http://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0&feature=plcp Introduction to Graphics Architecture (UC Davis)]
+
+=== Communities ==
+* [http://www.gamedev.net/community/forums/forum.asp?forum_id=25 Gamedev.net OpenGL forums]
+* There is an [http://www.opengl.org/wiki/Main_Page Official OpenGL wiki]
 
 [[Category:OpenGL]]
 [[Category:Resources]]
