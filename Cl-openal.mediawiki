@@ -1,0 +1,4 @@
+cl-openal is a set of CFFI bindings to the [http://connect.creativelabs.com/openal/default.aspx OpenAL] API.
+
+== Links ==
+* [http://github.com/sykopomp/cl-openal cl-openal on GitHub]
