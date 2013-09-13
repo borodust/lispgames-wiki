@@ -1,0 +1,11 @@
+cl-ode provides [[CFFI]] bindings to the Open Dynamics Engine [[Physics]] library.
+
+== Links ==
+
+* [http://common-lisp.net/project/cl-ode/ Project page on common-lisp.net]
+* [http://www.cliki.net/cl-ode CLiki]
+
+[[Category:Common Lisp]]
+[[Category:Library]]
+[[Category:CFFI bindings]]
+[[Category:Physics]]
