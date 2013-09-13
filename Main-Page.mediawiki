@@ -1,7 +1,8 @@
 '''Welcome to the Lisp Games Wiki!.'''
 
-This wiki is for people sharing information, links, and discussions related to Lisp Games. 
+This wiki is for people sharing information, links, and discussions related to Lisp Games development.
 
+See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing.
 For information on editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.
 
 == Things you can do ==
@@ -22,7 +23,6 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 
 == Lisp game development resources ==
 
-
 * Graphics: lispbuilder-sdl, cl-opengl, [http://repo.or.cz/w/cl-devil.git cl-devil at repo.or.cz],  cl-glfw, clx, okra, imago, [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d]
 
 * Physics: [http://github.com/sykopomp/squirl squirl], buclet
@@ -33,8 +33,10 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 * Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
 
 
+== Sites ==
 
-
+* [http://lispgamesdev.blogspot.com/ David's lisp games blog]
+* Add your site here...
 
 
 = Getting started with MediaWiki =
