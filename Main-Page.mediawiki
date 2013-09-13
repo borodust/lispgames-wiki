@@ -20,7 +20,6 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[BuildingGames]], [[DistributingGames]].
 * Engine and language-agnostic DAM (digital asset management) tools. [[AssetManagement]]
 * Working with others to add new platforms. [[Platforms]]
-* DESCRIBE / LINK YOUR PROJECT HERE...
 
 == Lisp game development resources ==
 
