@@ -16,3 +16,5 @@ These will be completed once the context concludes.
 == Links ==
 
 * [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
+
+[[Category:Contests]]
