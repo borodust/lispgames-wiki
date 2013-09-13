@@ -33,6 +33,12 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [[glop]] provides simple OpenGL window and context manipulation code as well as system input handling
 * [[cl-glfw]] is an open source, multi-platform library for opening a window, creating an OpenGL context and managing input.
 
+=== File Handling ===
+* [[cl-devil]]
+* [[imago]]
+* [http://cliki.net/cl-cairo2 cl-cairo2] is a graphics library that provides Common Lisp bindings for the [http://cairographics.org/ Cairo API].
+* [[CLX]]
+
 == Audio == 
 * [[Lispbuilder-SDL]]
 * [[cl-openal]]
