@@ -1,8 +1,37 @@
 '''Welcome to the Lisp Games Wiki!.'''
 
-For editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
+This wiki is for people sharing information, links, and discussions related to Lisp Games. 
 
-== Getting started with MediaWiki ==
+For information on editing this wiki via Emacs, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.
+
+== Open issues and projects == 
+
+* Reproducing and eventually squashing the [Win64Crashes].
+* Using/improving [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack]
+* Identify [NeededDocumentation].
+* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [QuickLisp].
+* Engine and language-agnostic DAM (digital asset management) tools. [AssetManagement]
+* Working with others to add new platforms. [Platforms]
+* DESCRIBE / LINK YOUR PROJECT HERE...
+
+== Lisp game development resources ==
+
+
+* Graphics: lispbuilder-sdl, cl-opengl, [http://repo.or.cz/w/cl-devil.git cl-devil at repo.or.cz],  cl-glfw, clx, okra, imago, [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d]
+
+* Physics: [http://github.com/sykopomp/squirl squirl], buclet
+
+* Game Engines: [http://dto.github.com/notebook/xe2-reference.html XE2] [http://github.com/dto/xe2 (also at github)], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], 
+[http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [http://github.com/sykopomp/until-it-dies Until It Dies]
+
+* Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
+
+
+
+
+
+
+= Getting started with MediaWiki =
 * [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
 * [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]
 * [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
