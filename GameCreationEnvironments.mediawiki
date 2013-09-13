@@ -8,7 +8,7 @@ the following features:
 * Engine-agnostic asset and asset metadata management. Some [http://github.com/dto/hypo/raw/master/hypo.org notes and code] on the subject. See also [http://orgmode.org/worg/org-contrib/babel/ Org-babel].
 * Workflow management. See [http://orgmode.org Org mode].
 * Editing assets of various types through either included code (for example engine-specific [http://www.youtube.com/watch?v=E5KmZxQxiJ0 level editors], or by working with external programs like [http://www.gimp.org GIMP] and [http://audacity.sourceforge.net/ Audacity].
-* Easy exchange of different asset packs with included metadata.
+* Easy exchange of different asset packs with included metadata. See [[LispPak]].
 
 Benefits could include:
 
