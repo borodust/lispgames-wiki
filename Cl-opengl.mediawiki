@@ -1,0 +1,4 @@
+cl-opengl is a set of idiomatic [[CFFI]] bindings for the OpenGL API.
+
+== Links ==
+* [http://common-lisp.net/project/cl-opengl/ cl.net project page]
