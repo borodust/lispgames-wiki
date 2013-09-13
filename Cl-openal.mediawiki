@@ -2,3 +2,8 @@ cl-openal is a set of CFFI bindings to the [http://connect.creativelabs.com/open
 
 == Links ==
 * [http://github.com/sykopomp/cl-openal cl-openal on GitHub]
+
+[[Category:Audio]]
+[[Category:Common Lisp]]
+[[Category:Library]]
+[[Category:CFFI bindings]]
