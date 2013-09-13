@@ -56,4 +56,4 @@ Some games written using lisp-family languages.
 * [[Articles| Lisp Game Development Articles]]
 * [[Lessons Learned|Lessons learned, Questions and Answers]]
 * [http://lispgamesdev.blogspot.com/ David's lisp games blog]
-* [http://lisp-qix.blogspot.com// WarWeasle's 3DMACS Tool Blog]
+* [http://lisp-qix.blogspot.com// WarWeasle's Qix Blog]
