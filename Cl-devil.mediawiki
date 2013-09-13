@@ -3,3 +3,9 @@ CL-DevIL is a set of [[Common Lisp]] [[CFFI]] bindings to the [http://openil.sou
 == Get It ==
 * [http://github.com/sykopomp/cl-devil GitHub] -- These are the most up-to-date bindings.
 * [http://repo.or.cz/w/cl-devil.git repo.or.cz] -- Original author's repository.
+
+[[Category:Common Lisp]]
+[[Category:CFFI bindings]]
+[[Category:Library]]
+[[Category:Graphics]]
+[[Category:OpenGL]]
