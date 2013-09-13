@@ -39,6 +39,10 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [http://cliki.net/cl-cairo2 cl-cairo2] is a graphics library that provides Common Lisp bindings for the [http://cairographics.org/ Cairo API].
 * [[CLX]]
 
+=== Graphics Engines ===
+* [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE]
+* [http://github.com/anwyn/cl-horde3d CL-Horde3d] is a wrapper around the open source graphics [http://horde3d.org/home.html Horde3d]
+
 == Audio == 
 * [[Lispbuilder-SDL]]
 * [[cl-openal]]
