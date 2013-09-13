@@ -23,7 +23,7 @@ This page is for opengl resources, tutuorials, articles, and other helpful OpenG
 
 * [http://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0&feature=plcp Introduction to Graphics Architecture (UC Davis)]
 
-=== Communities ==
+=== Communities ===
 * [http://www.gamedev.net/community/forums/forum.asp?forum_id=25 Gamedev.net OpenGL forums]
 * There is an [http://www.opengl.org/wiki/Main_Page Official OpenGL wiki]
 
