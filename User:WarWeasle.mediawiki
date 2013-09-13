@@ -11,3 +11,6 @@ WarWeasle is currently working on a 3D game engine/Editor in Lisp using OpenGL, 
 
 [[File:Lisp-alpha.jpg]]
 * Testing Loading Images with FreeImage and Alpha.
+
+[[File:Logo.jpg]]
+* A spinning logo, Vector Graphics test in Cairo on the fly.
