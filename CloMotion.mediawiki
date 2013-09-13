@@ -14,6 +14,7 @@ This page is for ideas and links related to motion control, image processing, CL
 * [http://code.google.com/p/nijiato/ Nijiato] - Simple fingers motion recognition using LISP, cl-v4l2 and colors-detection algorythm.
 * There seems to be an unmaintened [https://github.com/lispcar/cl-opencv attempt] to create a basic CL wrapper around OpenCV called cl-opencv.
 
+
 == Tools and Resources ==
 * [http://repo.or.cz/w/cl-v4l2.git cl-v4l2] is a CFFI interface to Video4Linux2
 * [http://linuxtv.org/wiki/index.php/Main_Page V4L2 Wiki]
