@@ -1,0 +1,5 @@
+WarWeasle is currently working on a 3D game engine/Editor in Lisp using OpenGL, SDL, Pango, Cairo, and FreeImage. Here are some pictures of my current work to date.
+
+[[File:Rich_text.jpg]]
+
+[[File:CairoPangoText.jpg]]
