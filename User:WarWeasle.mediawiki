@@ -1,13 +1,13 @@
 WarWeasle is currently working on a 3D game engine/Editor in Lisp using OpenGL, SDL, Pango, Cairo, and FreeImage. Here are some pictures of my current work to date.
 
 [[File:Monkey1.jpg]]
-The Blender Monkey rendered with a VBO.
+* The Blender Monkey rendered with a VBO.
 
 [[File:Rich_text.jpg]]
-Cairo/Pango/Lisp Rich Text
+* Cairo/Pango/Lisp Rich Text
 
 [[File:CairoPangoText.jpg]]
-Testing Cairo and Pango in Lisp
+* Testing Cairo and Pango in Lisp
 
 [[File:Lisp-alpha.jpg]]
-Testing Loading Images with FreeImage and Alpha.
+* Testing Loading Images with FreeImage and Alpha.
