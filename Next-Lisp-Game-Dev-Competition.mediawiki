@@ -6,13 +6,13 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 
 '''Introduce a theme for all submissions'''
 * What is the theme going to be?
-** Ludum Dare votes on themes. Some of their failed candidates seem promising (e.g. "Unwanted Powers") so we could recycle them. Voting itself may be overkill for us.
+** Ludum Dare votes on themes. Some of their failed candidates seem promising (e.g. "Unwanted Powers") so we could recycle them. Voting itself may be overkill for us. [[User:Arbscht|Arbscht]] 10:56, 1 October 2010 (EDT)
 ** dto likes "UFO"
 
 '''How long should it run for?'''
 * probably one week
 * IGLE2010 was 7 weeks
-* 48 hours is too short, 4 weeks is too long
+* 48 hours is too short, 4 weeks is too long. [[User:Arbscht|Arbscht]] 10:56, 1 October 2010 (EDT)
 
 ''' When should it be held?'''
 * dto suggested 10/10 in #lispgames
