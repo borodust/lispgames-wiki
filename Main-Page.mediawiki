@@ -21,11 +21,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Engine and language-agnostic DAM (digital asset management) tools. [[AssetManagement]]
 * Working with others to add new platforms. [[Platforms]]
 
-== Lisp game development resources ==
-
-* Learning: [http://lispgames.ath.cx/index.php/Articles Lisp Game Development Articles]
-
-* Community: irc.freenode.net #lispgames and #lisp, [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
+== Tools ==
 
 * Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[cl-devil]], [[cl-glfw]], [[CLX]], [[okra]], [[imago]], [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], [http://github.com/patzy/glop glop]
 
@@ -40,7 +36,10 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 ** [http://openclipart.org/tags/game OpenClipArt]
 ** [http://www.newgrounds.com NewGrounds]
 
-== Sites ==
+== Community and Resources ==
 
+* IRC: irc.freenode.net #lispgames and #lisp
+* [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
+* Learning: [http://lispgames.ath.cx/index.php/Articles Lisp Game Development Articles]
 * [http://lispgamesdev.blogspot.com/ David's lisp games blog]
 * [http://lisp-qix.blogspot.com// WarWeasle's 3DMACS Tool Blog]
