@@ -2,7 +2,7 @@ The "International Lisp Games Expo" 2010.
 
 == Entries ==
 
-The contest is in progress so check out the [http://www.cliki.net/InternationalLispGameExpo2010 Official Site] for the freshest information.
+The contest is <s>in progress</s> now over, check out the [http://www.cliki.net/InternationalLispGameExpo2010 Official Site] for the freshest information.
 
 == Game Postmortems ==
 
