@@ -7,6 +7,6 @@ Common Lisp has a great community and great library support for things like SDL,
 
 * Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
 
-* Physics: [[SquirL]] (2d), [[buclet]] (3d), [[cl-ode]]
+* Physics: [[SquirL]] (2d), [https://github.com/aerique/buclet buclet] (3d), [[cl-ode]]
 
 * Game Engines: [[Blocky]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
