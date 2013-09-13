@@ -22,17 +22,19 @@ Lisp is a family of languages and each can have different libraries available. C
 
 [[CommonLisp]], [[Scheme]], [[Clojure]], [[Clojurescript]], [[EmacsLisp]], [[Parenscript]]
 
-== Non Lisp Resources == 
+== Non Lisp Specific Resources == 
 
-Many challenges in game development are relevant to all languages. The links below are not about Lisp but may be very useful.
+Many challenges in game development are relevant to all languages. The links below are not necessarily about Lisp but may be very useful.
+These links are those that are suitably lisp agnostic or are written in another language entirely.
 
 === Functional Game Programming ===
 * [http://www.haskell.org/haskellwiki/Yampa Functional Reactive Programming with Yampa (Haskell)]
 * [http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/ John Carmack on functional programming in c++]
 * [http://www.idt.mdh.se/utbildning/exjobb/files/TR0811.pdf HaGPipe A DSL for programming the entire graphical pipeline (Haskell) (pdf)]
+* [http://www.cse.unsw.edu.au/~pls/thesis/munc-thesis.pdf Functional Programming and 3D Games (pdf) (haskell)]
 
 === Procedural Media Generation  ===
-* Coming soon
+* [http://www.ii.uib.no/~knute/lsystems/lsystems.final.ps.gz L-Systems, Twinning Plants, Lisp (postscript) (cmucl)] LSystems were introduced as a mathematical model for cellular plant growth and are commonly used in the games industry for generating all manner of plants from tiny flowers to palm trees.
 
 === Pages of Links ===
 Some people have collected a fantastic swathe of links themselves. Rather than reproduce them all here go have a gander at their sites.
