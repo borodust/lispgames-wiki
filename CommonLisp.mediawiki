@@ -5,7 +5,7 @@ So what is Common Lisp? Heres the [http://en.wikipedia.org/wiki/Common_Lisp wiki
 
 The thing that really scares off some new people when they come to Common Lisp is that they went on a mental journey something along the lines of:
 
-''"What is this lisp thing then?"''
+''"What is this Lisp thing then?"''
 
 ''<googling happens here>''
 
@@ -34,7 +34,6 @@ Here are some more links to resource to help you with Common lisp
 * [[imago]]
 * cl-cairo2
 * [http://github.com/anwyn/cl-horde3d CL-Horde3d]
-* various [[OpenGL Wrappers]].
 
 == Audio == 
 * [[Lispbuilder-SDL]]
