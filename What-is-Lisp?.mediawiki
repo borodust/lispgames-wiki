@@ -1,0 +1,1 @@
+Lisp is a large family of programming languages, whose syntax consists of nested "S-expressions." Initially seeing this programming notation may seem foreign and strange, but its this unique aspect that allows Lisp to enjoy its powerful and flexible macro system. For more information, see the Wikipedia page: http://en.wikipedia.org/wiki/Lisp_(programming_language)
