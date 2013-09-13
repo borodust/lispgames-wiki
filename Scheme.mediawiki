@@ -10,7 +10,7 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 * [http://docs.racket-lang.org/sgl/index.html 3D OpenGL documentation] for Racket
 * [https://gitorious.org/guile-figl Foreign Interface to OpenGL "guile-figl"] for GNU Guile
 * [http://www.gnu.org/software/guile-sdl/ An Interface to SDL] for GNU Guile
-* [https://github.com/davexunit/guile-2d A WIP game-engine/library] for GNU Guile
+* [https://github.com/davexunit/guile-2d Guile-2d, A game-engine/library] for GNU Guile
 
 === Games ===
 
