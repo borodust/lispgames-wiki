@@ -22,7 +22,6 @@ List your name and project (with links) if you are entering the competition.  Yo
 * XIOBEAT, by [http://lispgamesdev.blogspot.com dto]. Here's the [http://dto.github.com/notebook/xiobeat.html XIOBEAT page]. See also the [http://www.youtube.com/watch?v=BTveUHQoyyc video trailer].
 * Parenchute, by [[User:Arbscht|arbscht]]. ''Description forthcoming''.
 * huma4drl, by [[User:humasect|humasect]]. progress at [http://humasect.github.com/huma4drl huma4drl]
-* [http://norstrulde.org/sparklemotion/index.html Sparkle Motion], by [[User:ericbb|ericbb]].  An experiment in animation
 * Asteroid Jumper, by [[User:smithzv|smithzv]].  A gameplay mix of Asteroids and a side-scroller (didn't come together...)
 * ''Game'', by ''Author''. ''Description''.
 
