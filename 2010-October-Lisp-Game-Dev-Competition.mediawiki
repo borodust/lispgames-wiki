@@ -22,7 +22,7 @@ List your name and project (with links) if you are entering the competition.  Yo
 * XIOBEAT, by [http://lispgamesdev.blogspot.com dto]. See [http://www.youtube.com/watch?v=BTveUHQoyyc video trailer].
 * Parenchute, by [[User:Arbscht|arbscht]]. ''Description forthcoming''.
 * huma4drl, by [[User:humasect|humasect]]. progress at [http://humasect.github.com/huma4drl huma4drl]
-* Sparkle Motion, by [[User:ericbb|ericbb]].  An experiment in animation: [http://norstrulde.org/sparklemotion/index.html]
+* Sparkle Motion, by [[User:ericbb|ericbb]].  An experiment in animation: [http://norstrulde.org/sparklemotion/index.html site]
 * ''Game'', by ''Author''. ''Description''.
 
 [[Category:Contest]]
