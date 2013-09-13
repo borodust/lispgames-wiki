@@ -13,6 +13,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == Open issues and projects == 
 
+* Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
 * Reproducing and eventually squashing the [[Win64Crashes]] affecting some SBCL/SDL programs.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
