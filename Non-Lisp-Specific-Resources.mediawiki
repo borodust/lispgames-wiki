@@ -22,6 +22,13 @@ Some people have collected a fantastic swathe of links themselves. Rather than r
 Some code is so well written it can be read for inspiration for your own Lisp projects, if you want to see working implementations of game elements, see the following
 * [http://www.ogre3d.org/ Ogre3D] Ogre is written in c++ and is incredibly clean and readable as well as being open source.
 
+=== Maths ===
+Games are made of math! The better grasp you have on how the maths works, the easier some of the mental juggling of game mechanics can be.
+* [http://www.khanacademy.org/math/linear-algebra Khan Academy - Linear Algebra] This is not game orientated but a lot of what you learn here will be directly relevent to game programming. Also Khan's teaching style is excelent.
+* [http://www.euclideanspace.com/ Martin Baker's All-Inclusive Learning Site For 3D Math, Graphics, Physics, Computational Geometry, And More.] Includes topics on learning how to program games.
+* [http://www.gamedev.net/page/resources/_/technical/math-and-physics/a-simple-quaternion-based-camera-r1997A Simple Quaternion-based Camera]
+* [http://cxc.cfa.harvard.edu/mta/ASPECT/matrix_quat_faq/ Matrix and Quaternion FAQ]lots of info on matrix transformations & quaternion rotations. 
+
 === Help! ===
 Although there isn't much lisp specific info in the sites below, many issues crop up in all languages so these are worth a gander.
 * [http://gamedev.stackexchange.com/ Game Development Stack Exchange]
@@ -32,3 +39,5 @@ Unfortunately, unless you are some kind of digital bloodhound, you may struggle 
 * [http://www.amazon.com/Essential-Mathematics-Interactive-Applications-Edition/dp/0123742978 Essential Mathematics for Games and Interactive Applications]
 * [http://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1568814135 Game Engine Architecture]
 * [http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240 Real-Time Rendering]
+
+A big thank-you to all those wrote wrote and compiled these links (big shout out to ogre wiki also which has been the source for a load of the above)
