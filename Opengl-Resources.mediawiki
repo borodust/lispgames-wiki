@@ -1,4 +1,4 @@
-This page is for opengl resources, tutuorials, articles, and other helpful links.
+This page is for opengl resources, tutuorials, articles, and other helpful OpenGL-related links.
 
 == In Lisp == 
 
