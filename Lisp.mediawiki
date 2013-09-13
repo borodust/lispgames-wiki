@@ -36,8 +36,8 @@ Objects (as in Object Oriented) were not always a part of Lisp.
 Users simply created that functionality with macros. 
 Now the Lisp standard contains the Common Language Object System (CLOS), but the users never had to wait for the standard to be written.
 If you require prolog style constructs, you can add them. 
-If you require a completely different Language, you can modify lisp to become that language. 
-Lisp bends towards solutions rather than forcing you to bend the solution towards the language.
+If you require a completely different language, you can modify lisp to become that language. 
+Lisp bends towards solutions rather than forcing you to bend the solution towards it.
 
 Lisp is full of features like arbitrarily large numbers, rational number, a parser you can modify, threading, packages, garbage collection, etc.
 But at its heart, it is the simple macro which allows these new parts to be grafted with ease.
