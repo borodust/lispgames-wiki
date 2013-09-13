@@ -6,12 +6,13 @@ The contest is in progress so check out the [http://www.cliki.net/InternationalL
 
 == Game Postmortems ==
 
-[http://3bb.cc/blog/2010/07/08/igle%202010%20postmortem/]
-[http://aerique.blogspot.com/2010/08/ilge-2010-post-mortem-engine-troubles.html]
-[http://common-lisp.net/pipermail/lisp-game-dev/2010-August/000099.html]
-[http://github.com/patzy/push/blob/master/postmortem.org]
-
-[http://efnx.com/bourtange-postmortem/ Schell Scivally's Bourtange!]
+* [[User:3b]]'s [http://3bb.cc/blog/2010/07/08/igle%202010%20postmortem/ in-browser wannabe-isometric-rpg thing]
+* [[User:aerique]]'s [http://aerique.blogspot.com/2010/08/ilge-2010-post-mortem-engine-troubles.html Engine Trouble over Tentacle Planet]
+* [[User:wubo]]'s [http://common-lisp.net/pipermail/lisp-game-dev/2010-August/000099.html TB Tanks]
+* [[User:patzy]]'s [http://github.com/patzy/push/blob/master/postmortem.org push]
+* Schell Scivally's [http://efnx.com/bourtange-postmortem/ Bourtange!]
+* To add: [[User:Dto1138]]'s Void Mission postmortem, when it goes up
+* To add: your writeup of your IGLE2010 entry
 
 == Media / Blog Coverage ==
 
