@@ -1,10 +1,51 @@
-Lisp is cool for games because it's a great programming language to begin with. Also, Lisp is the traditional language of artificial intelligence, and games involve more AI than ever nowadays.
+The Lisp Family of languages has been described as the "Programmable Programming Language". 
+This phrase captures the spirit of Lisp very well, however, it doesn't explain the power it exposes. 
+I often see questions about what specifically make Lisp better than language X. 
+If I must give only one, I must say "Macros". 
 
-I'm speaking of Lisp as one entity. That's not entirely correct; there are really many dialects of Lisp, but any of them can be understood with a few key ideas that are common to them all. (That being said, some dialects are more beginner-friendly than others.)
+If you have used C, Assembly Language, or even spreadsheets and word processors then you have some idea what a macro is.
+Generally, it's code that does something for you.
+In programming, it is code which can write code. 
+C has a simple search and replace macro system. 
+C++ expands this somewhat with templates.
+The Boost Library has even created a Turing Complete set of Templates for C++.
+The problem is these macro languages are different from the base language. 
+To run C code at compile time, you need to write a compiler. 
+Because of this, you must first learn a new language to write the other language in.
+To make matters worse, your macros can not be used at runtime and your functions can not be used at compile time. 
+Often this leads to two versions of a routine, one for compile time and one for run time.
 
-What makes writing Lisp different from writing any other language is its conceptual uniformity in treatment of both programs and data. This renders the distinction between you (the programmer) and the language designer (you, the programmer) nonexistent. You can redesign the language as you wish, by using ''Lisp macros'' to teach the compiler new tricks.
+Lisp is different. 
+Because of the regular structure of its code, it can return structures of code.
+You may write a function (although one is already available) to replace an item in a tree of data with another one.
+This function can then be called at compile or run time. 
+One language to learn and you can share the tools between them.
+This necessitates lisp containing its own compiler, which is odd to C/C++ developers.
+There are hidden benefits to this: 
 
-All the rest is finding an efficient path to the hardware and to other applications. 
+# The compiler is written in lisp so all its components are available to the programmer.
+# Lisp contains its own debugger.
+# Lisp can interpret itself, so most developers use a command line like system called a REPL (Read-Eval-Print-Loop)
+# The programmer can use the REPL to peek into their program as it is running and make changes accordingly.
+
+I often compare edit/compile/run style languages to REPL ones as flying a remote control airplane to sitting in the cockpit. 
+I can see what is going on, and as soon as I make a change I can test it. 
+Beyond that, I can write macro which write macros, which is really all the compiler is.
+Because of this, any language features can be incorporated into Lisp just by adding macros.
+Objects (as in Object Oriented) were not always a part of Lisp.
+Users simply created that functionality with macros. 
+Now the Lisp standard contains the Common Language Object System (CLOS), but the users never had to wait for the standard to be written.
+If you require prolog style constructs, you can add them. 
+If you require a completely different Language, you can modify lisp to become that language. 
+Lisp bends towards solutions rather than forcing you to bend the solution towards the language.
+
+Lisp is full of features like arbitrarily large numbers, rational number, a parser you can modify, threading, packages, garbage collection, etc.
+But at its heart, it is the simple macro which allows these new parts to be grafted with ease.
+Many people discount Lisp after seeing it because of the parentheses or the s-expression syntax.
+But that syntax is simple, unambiguous, and necessary for powerful macro system.
+Besides, if you don't like it, make a macro to change it. 
+We don't mind. Really.
+
 
 Please see our dialect-specific pages for more information and links about Lisp in its various guises:
 
