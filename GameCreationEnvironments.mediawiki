@@ -21,6 +21,6 @@ Benefits could include:
 
 IDE proposals:
 
-* [[User:dto1138|dto]] is working on [[Xiomacs]] (more info soon.)
+* [[User:dto1138|dto]] is working on [[Blocky]] 
 * [[User:WarWeasle|WarWeasle]] is working on the [[Qix]] universal media editor.
 * Your project link here...
