@@ -11,9 +11,8 @@ programming games with CLON has a bit of the "plug anything into
 anything" flavor that people attribute to "entity systems". However,
 CLON is not an entity system, and is rather more Smalltalk-inspired.
 Instead of class inheritance relationships determining control flow,
-objects can discriminate amongst themselves and make decisions by
-using category "tags" such as "actor" "opaque" "obstacle" "enemy" and
-so on.
+objects can discriminate amongst themselves by categorizing each other
+with "tags" such as "actor" "opaque" "obstacle" "enemy" and so on.
 
 CLON and XE2 are presently in beta, but
 [http://dto.github.com/notebook/games.html several working games] have
