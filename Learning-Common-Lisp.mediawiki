@@ -1,3 +1,9 @@
-The [http://en.wikipedia.org/wiki/Common_Lisp wikipedia page on Common Lisp] has an overview, code examples, and links. Browsing through the examples there will familiarize you with the syntax, which will help a lot in getting started. Here is an interesting [http://abhishek.geek.nz/docs/features-of-common-lisp/ Common Lisp feature list]. There are also many [http://www.lispmachine.net/ free lisp books] and other educational resources. Another option is this [http://www.cliki.net/Education cliki page] about getting started with Common Lisp.
+'''Learning Common Lisp''' is a permanent condition, affecting even the most experienced hackers. But for those who are just beginning, the following resources will be helpful.
 
-If you have general common lisp questions, you can ask comp.lang.lisp on usenet, lispforum.com, or #lisp on irc.freenode.org.
+== Resources ==
+
+* Start with the Common Lisp Wiki (or CLiki) [http://www.cliki.net/Education Education page].
+* The [http://en.wikipedia.org/wiki/Common_Lisp Wikipedia page on Common Lisp] has an overview, code examples, and links. Browsing through the examples there will familiarize you with the syntax, which will help a lot in getting started.
+* Here is an interesting [http://abhishek.geek.nz/docs/features-of-common-lisp/ Common Lisp feature list].
+* There are also many [http://www.lispmachine.net/ free lisp books] and other educational resources.
+* If you have general common lisp questions, you can ask comp.lang.lisp on usenet, lispforum.com, or #lisp on irc.freenode.org.
