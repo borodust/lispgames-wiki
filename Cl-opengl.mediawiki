@@ -1,5 +1,7 @@
 cl-opengl is a set of idiomatic [[CFFI]] bindings for the OpenGL API.
 
+cl-opengl also includes bindings to the GLU and GLUT libraries. You can use just the opengl parts, though. It is know to work using any of [[lispbuilder-sdl]], [[cl-glfw]], and [[glop]] instead of the included GLUT.
+
 == See also == 
 * [[Opengl Resources]] - has tutorials for cl-opengl as well as other useful things
 
