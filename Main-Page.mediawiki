@@ -15,6 +15,7 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 
 == Open issues and projects == 
 
+* [[EditorSupportForLisp]] 
 * Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
 * [[CloMotion]] ideas and resources for motion control in Lisp gaming.
