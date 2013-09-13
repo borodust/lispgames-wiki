@@ -21,11 +21,11 @@ The theme will probably involve three elements, a combination of; one thematic, 
 '''Please add your theme element suggestions below''' (N.B. A random combination will be selected for the competition)
 
 ; Thematic
-: Love, Animals, Magic, Christmas, Living dead
+: Love, Animals, Magic, Christmas, Living dead, Restaurant
 ; Gameplay
 : Minimal interaction, Management, Realtime, Turn-based, Side scrolling
 ; Technical
-: Never the same play twice, Same game everytime, Things break if you hit them, Everything respawns
+: Never the same play twice, Same game everytime, Things break if you hit them, Everything respawns, One of the powerups/items reverses the controls
 
 == Entries ==
 
