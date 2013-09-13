@@ -1,3 +1,18 @@
 The "International Lisp Games Expo" 2010.
 
+= Entries =
+
+The contest is in progress so check out the [http://www.cliki.net/InternationalLispGameExpo2010 Official Site] for the freshest information.
+
+= Game Postmortems =
+
+These will be completed once the context concludes.
+
+= Media / Blog Coverage =
+
+* [http://www.slashdot.org Slashdot] covered the [http://games.slashdot.org/story/10/07/18/227243/Remix-This-Game-mdash-a-Free-Software-Experiment?art_pos=1 Remix this Game] portion of the contest.
+* [http://lispgamesdev.blogspot.com/ LispGamesDev] (written by the contest organizer [[User:Dto1138|Dave O'Toole]]) posted progress reports as the contest progressed.
+
+= Links =
+
 * [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
