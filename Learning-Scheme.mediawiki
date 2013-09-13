@@ -1,0 +1,7 @@
+'''Learning Scheme''' is a powerful sentence, a permanent condition that affects even the most experienced hackers. But for those who are just beginning, the following resources will be helpful.
+
+== Resources ==
+
+* Start with the Learning Scheme pages on [http://community.schemewiki.org/?category-learning-scheme Learning Scheme (Scheme Wiki)].
+* The [http://en.wikipedia.org/wiki/Scheme_(programming_language) Wikipedia page on Scheme] has an overview, code examples, and links. Browsing through the examples there will familiarize you with the syntax, which will help a lot in getting started.
+* If you have general Scheme questions, you can ask on #scheme on irc.freenode.org.
