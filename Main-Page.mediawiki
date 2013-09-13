@@ -42,7 +42,7 @@ Here are some pages you could write or add to:
 
 == Resources, by dialect ==
 
-[[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]]
+[[CommonLisp]], [[Scheme]], [[Clojure]], [[Clojurescript]], [[EmacsLisp]], [[Parenscript]]
 
 === Other resources ===
 
