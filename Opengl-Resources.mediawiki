@@ -1,0 +1,13 @@
+This page is for opengl resources, tutuorials, articles, and other helpful links.
+
+== In Lisp == 
+
+*'''Using [[Cl-OpenGL]]'''
+** [http://3bb.cc/tutorials/cl-opengl/index.html 3b's introduction to opengl] - uses lispbuilder-sdl for windowing.
+** [http://nklein.com/2010/06/nehe-tutorials-for-cl-opengl/ 1][http://nklein.com/2010/06/nehe-tutorial-02-drawing-triangles-and-quadrilaterals/ 2] [http://nklein.com/2010/06/nehe-tutorial-03-color/ 3] [http://nklein.com/2010/06/nehe-tutorial-04-rotation/ 4] [http://nklein.com/2010/06/nehe-tutorial-05-solids/ 5] [http://nklein.com/2010/06/nehe-tutorial-06-textured-solids/ 6] Patrick Stein has ported the first six NeHe tutorials to cl-opengl - Uses cl-opengl's glut bindings for windowing.
+
+== General OpenGL == 
+
+* [http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html An Intro to Modern Opengl] - because nehe and other resources are often not up-to-date
+* [http://nehe.gamedev.net/ NeHe] The canonical (yet old) opengl online learing resource. Has a wide range of tutuorials and examples of opengl features, with source code in C++ (and ports to other languages) mixed with comments.
+* [http://www.gamedev.net/community/forums/forum.asp?forum_id=25 Gamedev.net OpenGL forums]
