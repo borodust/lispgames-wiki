@@ -1,0 +1,30 @@
+You probably noticed all the parentheses. The heavy use of parentheses marks Lisp off from 
+other languages and makes it feel unfamiliar. But once you are able to 
+read and write the basics, it all falls together naturally. The 
+unusual syntax of Lisp is actually the key to many of its coolest 
+features. 
+ 
+Matching up parentheses and indenting things properly is best handled 
+automatically by a text editor with support for editing Lisp code, 
+such as [http://www.vim.org Vim], which can be used with [http://www.vim.org/scripts/script.php?script_id=2531 Slimv] --- the Superior Lisp 
+Interaction Mode for Vim. I myself use the [http://www.gnu.org/software/emacs GNU Emacs] text editor along 
+with [http://common-lisp.net/project/slime/ Slime], the Superior Lisp Interaction Mode for Emacs.
+
+* New link: [https://vimeo.com/38372260/ A video about] using clojure with [[SLIMV]].
+ 
+As far as [http://en.wikipedia.org/wiki/Free_software Free software] goes, one of these two options---Emacs with Slime, or Vim with Slimv---is 
+probably the best way to develop and test Lisp code.
+With Slime or Slimv you can edit Lisp code efficiently, send 
+commands to the underlying Lisp environment, or redefine methods and functions in order to alter object behaviors 
+while the system is running.  
+ 
+Both Emacs and Vim are highly customizable development environments, 
+not just text editors. They're worth learning. Furthermore, Emacs and Vim are [http://en.wikipedia.org/wiki/Free_software Free software], will run on basically 
+any platform, are of very high quality, and have large, friendly user 
+communities. 
+ 
+That being said, you can edit Lisp code in basically any text editor, 
+and it's quite possible that the text editor you already use has a 
+plugin or script available for editing Lisp code and matching those 
+parentheses. If you're unsure about Vim and Emacs, try looking around 
+to see if you can find Lisp support for your existing editor.
