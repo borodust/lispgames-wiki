@@ -1,4 +1,4 @@
-A simple minded orthographic two player tank battle game written in [[Clojure]] by [[wubo]].
+A simple minded orthographic two player tank battle game written in [[Clojure]] by [[User:Wubo|wubo]] for [[ILGE2010]].
 
 == Features ==
 
