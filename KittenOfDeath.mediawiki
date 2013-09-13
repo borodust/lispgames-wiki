@@ -1,1 +1,13 @@
-Dumped executables from SBCL on Win32 open a useless terminal window with the message "Your kitten of death awaits." User nyef from #lisp seems to have had a patch for this.
+Dumped executables from SBCL on Win32 open a useless terminal window with the message "Your kitten of death awaits." User nyef from #lisp sent me this, but I haven't tried it yet:
+
+ (with-open-file (exe #p"path/to/game.exe" :direction :io :element-type '(unsigned-byte 8))
+   (file-position exe #x3c)
+   (let* ((b0 (read-byte exe))
+	  (b1 (read-byte exe))
+	  (b2 (read-byte exe))
+	  (b3 (read-byte exe))
+	  (pe-header (dpb (dpb b3 (byte 8 8) b2)
+			  (byte 16 16)
+			  (dpb b1 (byte 8 8) b0))))
+     (file-position exe (+ pe-header #x5c))
+     (write-byte 3 exe)))
