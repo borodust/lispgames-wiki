@@ -1,0 +1,16 @@
+
+This page is for sharing information, ideas, and experience from using Lisp for creating games.
+
+== Questions ==
+
+* What is the best way to render (straight functions, compile to primitives, etc.)
+
+* What are the strongest parts of Lisp Game Development?
+
+* What are the weakest parts of Lisp Game Development?
+
+* What is the best Lisp to use for various goals?
+
+* What is the best way to distribute your game?
+
+* Are there ways to abstract game development?
