@@ -4,6 +4,17 @@ This page is for sharing information, ideas, and experience from using Lisp for 
 
 * The fix for [[KittenOfDeath| "Your kitten of death awaits."]] on Windows SBCL Distributions.
 
+== [[cl-opengl]] ==
+
+The cl-opengl interface is usually quite close to the normal C one, but lispier (function names without type suffixes, functions with optional args, etc). However, there are some places where the normal OpenGL interface does C things that don't map nicely onto lisp. cl-opengl will provide a more lispy interface, or provide a lisp interface instead of a C one. In rare cases, OpenGL features are not supported.
+
+* with-macros are provided, like gl:with-pushed-matrix and gl:with-primitives. These are always in addition to the two-function way of doing things, like gl:push-matrix/gl:pop-matrix and gl:begin/gl:end.
+
+* The interface to [[Vertex Arrays]], [[Vertex Buffer Objects]], and other kinds of OpenGL buffer objects is very different. Many C functions (gl:bind-buffers, gl:buffer-data, gl:vertex-attribute-pointer) are not exported and you should use the lisp ones (gl:bind-gl-vertex-array, gl:define-gl-array-format, gl:glaref, etc) instead. The main difference is in how data is represented, which on the lisp side uses a new type called a gl-array and much magic and macrology to make these map to the right C types and functions. cl-opengl has a usage example for the new interface in "examples/misc/opengl-arrays.lisp". You can also read the source (gl/opengl.lisp, search for "2.9 Buffer Objects"), but it's rather hairy.
+
+* Some more uncommon parts of the OpenGL API with some of the harder to bind interfaces are unimplemented. You probably won't need or want them or even know they're not there. But if you run into the lack of them, good luck. Examples: 
+** The GLU tesselator.
+** Feedback and selection render modes.
 
 == Questions ==
 
