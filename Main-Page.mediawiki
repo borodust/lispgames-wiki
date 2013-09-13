@@ -81,3 +81,4 @@ Some games written using lisp-family languages.
 * [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 * [http://twitter.com/lispgames lispgames on Twitter]
 * [http://blocky.io/blog dto's Blocky blog]
+* [http://lisp-qix.blogspot.com WarWeasle's Qix/CLinch blog]
