@@ -17,4 +17,9 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 ** too soon, I think.  [[User:Sharps|Sharps]] 10:40, 1 October 2010 (EDT)
 
 ''' How will it be organised?'''
-* Should do registration page, keep a central list of people/games/writeups, then email reminders to people [[User:Sharps|Sharps]] 10:43, 1 October 2010 (EDT)
+* Should do registration page, keep a central list of people/games/writeups, then email reminders to people.  [[User:Sharps|Sharps]] 10:43, 1 October 2010 (EDT)
+
+
+
+[[Category:Contest]]
+[[Category:Community Event]]
