@@ -1,0 +1,21 @@
+IMAGO is an image manipulation library for [[Common Lisp]]. It offers:
+
+* Image data structures
+* File loading/saving in various formats
+* Image manipulation functionalities
+
+IMAGO is distributed under the terms of the Lisp Lesser General Public License ( LLGPL).
+
+Unlike [[cl-devil]], IMAGO is written in Lisp, so there are no external C dependencies to worry about.
+
+== Current Status ==
+* Supported file formats: PNG, PNM, TGA.
+* Macros for iteration over images, regions, lines.
+* Convolution-based filters: blur, sharpen, edge detect, emboss, user-defined.
+* Composition: basic (replacing pixels).
+* Conversions: RGB / indexed / grayscale.
+* Drawing: point, line, rectangle, circle.
+* Misc. operations: copy (image or region), flip, resize, scale.
+
+== Links ==
+* [http://common-lisp.net/project/imago/ Project page]
