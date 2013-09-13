@@ -7,7 +7,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == Things you can do ==
 
-* Put some facts about yourself on your [[Special:ActiveUsers|User page]].
+* Put some facts about yourself on your [[Special:ActiveUsers|user page]].
 * Add links to your projects and games.
 * Add links to resources and articles.
 
