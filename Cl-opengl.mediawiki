@@ -6,9 +6,9 @@ cl-opengl is a set of idiomatic [[CFFI]] bindings for the OpenGL API.
 ** [http://nklein.com/2010/06/nehe-tutorials-for-cl-opengl/ Tutorial 1] - Setup cl-opengl.
 ** [http://nklein.com/2010/06/nehe-tutorial-02-drawing-triangles-and-quadrilaterals/ Tutorial 2] - Drawing triangles and quadrilaterals.
 ** [http://nklein.com/2010/06/nehe-tutorial-03-color/ Tutorial 3] - Bright and beautiful (Adding colour).
-** [http://nklein.com/2010/06/nehe-tutorial-04-rotation/ Tutorial 4] - Putting a new spin on it (Rotation)
-** [http://nklein.com/2010/06/nehe-tutorial-05-solids/ Tutorial 5] - Adding some meat (Solids)
-** [http://nklein.com/2010/06/nehe-tutorial-06-textured-solids/ Tutorial 6] - Pretty Picture (Textured solids)
+** [http://nklein.com/2010/06/nehe-tutorial-04-rotation/ Tutorial 4] - Putting a new spin on it (Rotation).
+** [http://nklein.com/2010/06/nehe-tutorial-05-solids/ Tutorial 5] - Adding some meat (Solids).
+** [http://nklein.com/2010/06/nehe-tutorial-06-textured-solids/ Tutorial 6] - Pretty Picture (Textured solids).
 
 * 3b's Tutorial series:
 ** [http://3bb.cc/tutorials/cl-opengl/index.html Tutorial]
