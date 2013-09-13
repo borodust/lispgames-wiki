@@ -19,7 +19,7 @@ The '''2010 October Lisp Game Dev Competition''' is a fun, seven-day, online cha
 
 List your name and project (with links) if you are entering the competition.  You can enter at any time until Sunday, October 31, but we like to see works in progress.
 
-* XIOBEAT, by [http://lispgamesdev.blogspot.com dto]. See [http://www.youtube.com/watch?v=BTveUHQoyyc video trailer].
+* XIOBEAT, by [http://lispgamesdev.blogspot.com dto]. Here's the [http://dto.github.com/notebook/xiobeat.html XIOBEAT page]. See also the [http://www.youtube.com/watch?v=BTveUHQoyyc video trailer].
 * Parenchute, by [[User:Arbscht|arbscht]]. ''Description forthcoming''.
 * huma4drl, by [[User:humasect|humasect]]. progress at [http://humasect.github.com/huma4drl huma4drl]
 * [http://norstrulde.org/sparklemotion/index.html Sparkle Motion], by [[User:ericbb|ericbb]].  An experiment in animation
