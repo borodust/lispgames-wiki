@@ -5,11 +5,9 @@ This wiki is for people sharing information, links, and discussions related to L
 See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing.
 If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.]
 
-== Things you can do ==
+== News ==
 
-* Put some facts about yourself on your [[Special:ActiveUsers|user page]].
-* Add links to your projects and games.
-* Add links to resources and articles.
+* The [[October Lisp Game Dev Competition]] begins Sunday (2010-10-24 00:01 UTC).
 
 == Open issues and projects == 
 
