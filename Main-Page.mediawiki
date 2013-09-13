@@ -4,10 +4,12 @@ This wiki is the Official Community Portal (TM) of the Lisp Games community, dev
 
 We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create an account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing. If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.])
 
-== News for 2012-03-08 ==
+== Current News 2013-08-07 ==
+[[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in [[GNU Guile Scheme]].
 
-* A call for [[2012 Spring Lisp Game Jam]] ideas!
-* [[Blocky]] is now in preliminary beta release.
+[[User:dto|dto]] is working on a "howto" to build [[2x0ng]] on GNU/Linux, OSX and Windows.
+
+In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems with Windows 7 64-bit crashes was solved. Supposedly the Vista version isn't perfectly fixed yet, as been reported by [[User:dto|dto]].
 
 == New about these parts? == 
 [[What is Lisp?]]
@@ -46,7 +48,6 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 * Collecting [[Education]] resources. [[ObstaclesToLispNewcomers]] [[GoodFreeDocumentationElsewhere]]
 * Identifying [[NeededDocumentation]].
 * Planning the [[Next Lisp Game Dev Competition]].
-* Reproducing and eventually fixing the [[Win64Crashes]] affecting some SBCL/SDL programs. 
 * Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
 * Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]]. [[MakingBinariesWithWine]]
@@ -78,7 +79,7 @@ Some games written using lisp-family languages.
 
 == Community ==
 
-* IRC: chat.freenode.net #lispgames and #lisp
+* IRC: chat.freenode.net #lispgames #lisp and #scheme
 * [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 * [http://twitter.com/lispgames lispgames on Twitter]
 * [http://blocky.io/blog dto's Blocky blog]
