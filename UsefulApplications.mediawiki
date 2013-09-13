@@ -21,6 +21,7 @@ extensibility or bindings.
 
 Please correct any entries I'm wrong about.
 
+* [http://www.ardour.org/ Ardour] is a free digital audio workstation (DAW).
 * [http://audacity.sourceforge.net Audacity] for sound editing.
 * [http://puredata.info/ Pure Data] for audio synthesis and processing. 
 * [http://dssi.sourceforge.net/hexter.html Hexter] is a free Yamaha DX-7 software emulator.
