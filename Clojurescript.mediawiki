@@ -1,5 +1,3 @@
-Clojure is a new dialect of Lisp that runs on the Java Virtual Machine.
+Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of the JVM.
 
- * [http://clojure.org/ Clojure.org]
-
-We need more information about Clojure.
+* [https://github.com/clojure/clojurescript Clojurescript on Github]
