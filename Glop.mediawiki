@@ -13,3 +13,4 @@ glop currently supports [[Windows]] and [[X11]] using [[clisp]], [[sbcl]] or [[c
 [[Category:Library]]
 [[Category:CFFI bindings]]
 [[Category:OpenGL]]
+[[Category:OpenGL Portability Layer]]
