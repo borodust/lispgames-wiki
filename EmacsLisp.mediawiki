@@ -1,4 +1,4 @@
-Emacs Lisp is the Lisp dialect used to write [http://www.gnu.org/software/emacs GNU Emacs] and its universe of extraordinary add-ons, some of which are games. Emacs itself includes a number of games such as Tetris, and you can mess around with the source code if you're learning the basics of Lisp and want something you can use immediately with Emacs.
+Emacs Lisp is the Lisp dialect used to write [http://www.gnu.org/software/emacs GNU Emacs] and its universe of extraordinary add-ons, some of which are games. Emacs itself includes a number of games such as [http://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/play/tetris Tetris] and [http://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/play/pong.el Pong],  and you can mess around with the source code if you're learning the basics of Lisp and want something you can use immediately with Emacs.
 
 * [http://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/play Source code to Emacs included games and amusements]
 * [http://www.ifarchive.org/if-archive/infocom/interpreters/emacs/malyon.el Inform Z-Machine interpreter for interactive fiction]
