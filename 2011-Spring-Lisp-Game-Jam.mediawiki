@@ -27,7 +27,7 @@ List your name here, with possibly a bit of text about yourself and what you pla
 * Jeremiah Stoddard (jstoddard) --- I'll be working on a side-scrolling game along the lines of either Super Mario Bros. or Duke Nukem.
 * Josh Marchán (sykopomp) --- Continuing work on Sykosomatic. Specifically, adding a new input system and actual game objects to make the toy more of a game. Hopefully have a few rooms and a short playtest session.
 * Andrew Stine --- Trivial rogue-like, curses based.
-* Inaimathi --- Port of Elite to Common Lisp (by way of Elite for Emacs). I've been half-heartedly working on this for a little while, but I'll put together a writeup for the game jam if it's ok. The [https://github.com/Inaimathi/cl-leet github page] lists project goals and details. In a nutshell: browser-based space trading game.
+* Inaimathi --- Port of Elite to Common Lisp (by way of Elite for Emacs). I've been half-heartedly working on this for a little while, but I'll put together a writeup for the game jam if it's ok. The [https://github.com/Inaimathi/cl-leet github page] lists project goals and details. In a nutshell: browser-based space trading game. [http://langnostic.blogspot.com/2011/04/game-jam.html Postmortem]
 * John Process (esologic) - I have been working on a Common Lisp roguelike off and on for awhile now named Detome ([https://github.com/nowl/detome github]). I will be continuing with that and will do a write-up.
 * Eric Bergstrome (ericbb) --- [http://norstrulde.org/slgj11/ Henri's Reef] in non-Euclidean space.  [http://norstrulde.org/slgj11/postmortem.html Postmortem].
 * Your Info Here
