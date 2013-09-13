@@ -4,3 +4,4 @@ Presumably a list of Lisp Game Community members should go here?
 * [[sykopomp]]
 * [[wubo]]
 * [[ericbb]]
+* [User:WarWeasle WarWeasle]
