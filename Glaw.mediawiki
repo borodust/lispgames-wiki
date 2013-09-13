@@ -1,5 +1,3 @@
-= Glaw =
-
 Glaw is not really a game engine but a collection of utilities to write games.
 
 Its core only depend on [http://github.com/3b/cl-opengl cl-opengl] for graphics and [http://github.com/sykopomp/cl-openal cl-openal] for sound.
