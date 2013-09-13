@@ -43,6 +43,12 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE]
 * [http://github.com/anwyn/cl-horde3d CL-Horde3d] is a wrapper around the open source graphics [http://horde3d.org/home.html Horde3d]
 
+== Input Handling ==
+Some of these are a repeat from the graphics sections as libraries like sdl have many features
+* [[Lispbuilder-SDL]] provides a set of bindings and Lispy abstractions for graphics, sound, input and other features
+* [[glop]] provides simple OpenGL window and context manipulation code as well as system input handling
+* [[cl-glfw]] is an open source, multi-platform library for opening a window, creating an OpenGL context and managing input.
+
 == Audio == 
 * [[Lispbuilder-SDL]]
 * [[cl-openal]]
