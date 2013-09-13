@@ -42,7 +42,7 @@ Lisp bends towards solutions rather than forcing you to bend the solution toward
 Lisp is full of features like arbitrarily large numbers, rational number, a parser you can modify, threading, packages, garbage collection, etc.
 But at its heart, it is the simple macro which allows these new parts to be grafted with ease.
 Many people discount Lisp after seeing it because of the parentheses or the s-expression syntax.
-But that syntax is simple, unambiguous, and necessary for powerful macro system.
+But that syntax is simple, unambiguous, and necessary for the powerful macro system.
 Besides, if you don't like it, make a macro to change it. 
 We don't mind. Really.
 
