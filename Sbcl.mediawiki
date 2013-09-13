@@ -7,3 +7,7 @@ It is one of the fastest lisp implementations, due to it's highly optimized nati
 [http://www.sbcl.org/ SBCL Homepage]
 [http://sourceforge.net/projects/sbcl/ Sourceforge]
 [http://www.cliki.net/SBCL CLiki]
+
+
+[[Category:Common Lisp]]
+[[Category:Implementation]]
