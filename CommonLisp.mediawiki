@@ -37,7 +37,7 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [[cl-devil]] provides bindings to the DevIL image loading and manipulation library
 * [[imago]] is an image manipulation library for Common Lisp
 * [http://cliki.net/cl-cairo2 cl-cairo2] is a graphics library that provides Common Lisp bindings for the [http://cairographics.org/ Cairo API].
-* [[CLX]]
+* [http://www.cliki.net/CLX CLX] provides an implementation of the X Window System protocol to Lisp graphics library[ies] and applications.
 
 === Graphics Engines ===
 * [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE]
