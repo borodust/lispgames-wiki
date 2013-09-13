@@ -1,0 +1,5 @@
+Clojure is a new dialect of Lisp that runs on the Java Virtual Machine.
+
+ * [http://clojure.org/ Clojure.org]
+
+We need more information about Clojure.
