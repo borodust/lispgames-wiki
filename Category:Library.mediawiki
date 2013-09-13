@@ -1,0 +1,1 @@
+Libraries are not standalone programs. They are written as packaged-up tools that larger applications may use to get things done without having to reinvent the wheel.
