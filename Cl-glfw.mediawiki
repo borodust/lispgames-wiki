@@ -7,6 +7,7 @@ cl-glfw also includes automatically generated opengl and glu bindings, but you c
 * [http://www.cliki.net/CL-GLFW cliki]
 * [http://repo.or.cz/w/cl-glfw.git Git]
 
+[[Category:Common Lisp]]
 [[Category:Library]]
 [[Category:CFFI bindings]]
 [[Category:OpenGL]]
