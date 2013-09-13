@@ -2,7 +2,9 @@ This page is for ideas and links related to motion control, image processing, CL
 
 
 == Motion Detection ==
-* [http://www.ai.sri.com/~connolly/] - Christopher I. Connolly's SRI page has pretty advanced stuff including video tracking, event analysis and motion detection, mostly written in combination of Common Lisp and C++.
-** [http://www.ai.sri.com/~connolly/sentient/index.html Sentient Environments] and 
-** [http://www.ai.sri.com/~connolly/freedius/basics.html FREEDIUS] titles are especially interesting.
+* http://www.ai.sri.com/~connolly/ - Christopher I. Connolly's SRI page has pretty advanced stuff including video tracking, event analysis and motion detection, mostly written in combination of Common Lisp and C++.
+** [http://www.ai.sri.com/~connolly/sentient/index.html Sentient Environments] Video tracking and event analysis.
+** [http://www.ai.sri.com/~connolly/freedius/basics.html FREEDIUS] FREEDIUS includes tools for developing image understanding algorithms, extracting geometric features from imagery, geolocation of imagery and features, construction of sensor models, and GUI development. [http://www.ai.sri.com/~connolly/freedius/basics.html]
 * [http://jandmworks.com/ J. K. Cunningham's page] has information on motion detection and a Common Lisp motion detection project using [http://www.ljosa.com/~ljosa/software/cl-png/ cl-png].
+** [http://jandmworks.com/motion.html Motion 1] - Motion Detection Using Image Processing
+** [http://jandmworks.com/motion2.html Motion 2] - Motion Detection using [http://www.ljosa.com/~ljosa/software/cl-png/ CL-PNG].
