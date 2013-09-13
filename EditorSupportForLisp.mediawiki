@@ -1,22 +1,22 @@
-You probably noticed all the parentheses. The heavy use of parentheses marks Lisp off from 
+You probably noticed all the parentheses. The heavy use of parentheses marks [[Lisp]] off from 
 other languages and makes it feel unfamiliar. But once you are able to 
 read and write the basics, it all falls together naturally. The 
-unusual syntax of Lisp is actually the key to many of its coolest 
+unusual syntax of [[Lisp]] is actually the key to many of its coolest 
 features. 
  
 Matching up parentheses and indenting things properly is best handled 
-automatically by a text editor with support for editing Lisp code, 
+automatically by a text editor with support for editing [[Lisp]] code, 
 such as [http://www.vim.org Vim], which can be used with [http://www.vim.org/scripts/script.php?script_id=2531 Slimv] --- the Superior Lisp 
-Interaction Mode for Vim. I myself use the [http://www.gnu.org/software/emacs GNU Emacs] text editor along 
-with [http://common-lisp.net/project/slime/ Slime], the Superior Lisp Interaction Mode for Emacs.
+Interaction Mode for Vim. Lots of people use the [http://www.gnu.org/software/emacs GNU Emacs] text editor along 
+with [http://common-lisp.net/project/slime/ Slime], the Superior Lisp Interaction Mode for Emacs---both written in [[EmacsLisp]].
 
 * New link: [https://vimeo.com/38372260/ A video about] using clojure with [[SLIMV]].
  
 As far as [http://en.wikipedia.org/wiki/Free_software Free software] goes, one of these two options---Emacs with Slime, or Vim with Slimv---is 
-probably the best way to develop and test Lisp code.
+probably the best way to develop and test [[Lisp]] code.
 With Slime or Slimv you can edit Lisp code efficiently, send 
 commands to the underlying Lisp environment, or redefine methods and functions in order to alter object behaviors 
-while the system is running.  
+while the system is running. (You don't get this benefit of instant updates if you don't have an editor that can communicate with your running Lisp application.)
  
 Both Emacs and Vim are highly customizable development environments, 
 not just text editors. They're worth learning. Furthermore, Emacs and Vim are [http://en.wikipedia.org/wiki/Free_software Free software], will run on basically 
