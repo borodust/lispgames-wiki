@@ -23,7 +23,7 @@ Here are some more links to resource to help you with Common lisp
 [[Learning Common Lisp]]
 
 == Graphics ==
-Games come in many shapes, genres & sizes but almost all are visual to some degree. Common Lisp has a nice selection of libraries to help you wrangle with file formats, manage you game window and render all that 2D or 3D goodness to the screen.
+Games come in many shapes, genres & sizes but almost all are visual to some degree. Common Lisp has a nice selection of libraries to help you wrangle with file formats, manage your game window and render all that 2D or 3D goodness to the screen.
 
 === APIs ===
 * [[cl-opengl]] If your writing games in common lisp you are almost certainly going to be using OpenGl. This wrapper enables common lisp to access almost every feature of opengl.
