@@ -19,3 +19,4 @@ Unlike [[cl-devil]], IMAGO is written in Lisp, so there are no external C depend
 
 == Links ==
 * [http://common-lisp.net/project/imago/ Project page]
+* [http://www.cliki.net/IMAGO CLiki]
