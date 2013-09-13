@@ -7,10 +7,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == News for 2012-03-08 ==
 
-* We've been updating the wiki to make it a more comprehensive
-resource for the Lispgames community. If you'd like to help out,
-please create an account and start adding ideas, questions, or links
-to your own or others' projects.
+* We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create an account and start adding ideas, questions, or links to your own or others' projects.
 * A call for [[2012 Spring Lisp Game Jam]] ideas!
 * [[Blocky]] is now in preliminary beta release.
 
