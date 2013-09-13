@@ -35,7 +35,7 @@ List your name if you are considering entering the competition. You may enter at
 * Clonkadonk, by Marcus "schmrkc" Eskilsson.
 * Littleedge Game Cauldron, Michael "Guthur" Compton
 * -, by Eric "ericbb" Bergstrome
-* Puzzle Dance Party Extreme --- David O'Toole
+* Puzzle Dance Party Extreme --- David O'Toole, source here https://github.com/dto/puzzle-dance/tree/develop
 * Something Shiny, by Brian "wubo" Taylor
 * A game-like, by Lyndon "humasect" Tremblay
 [[Category:Contest]]
