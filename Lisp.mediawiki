@@ -30,7 +30,7 @@ There are hidden benefits to this:
 
 I often compare edit/compile/run style languages to REPL ones as flying a remote control airplane to sitting in the cockpit. 
 I can see what is going on, and as soon as I make a change I can test it. 
-Beyond that, I can write macro which write macros, which is really all the compiler is.
+Beyond that, I can write macros which write macros, which is really all the compiler is.
 Because of this, any language features can be incorporated into Lisp just by adding macros.
 Objects (as in Object Oriented) were not always a part of Lisp.
 Users simply created that functionality with macros. 
