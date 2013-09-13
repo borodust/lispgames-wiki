@@ -1,6 +1,7 @@
-== When ==
+== When and where ==
 
-The October Lisp Game Dev Competition begins on '''Sunday''' at '''2010-10-24 00:01 UTC''' and runs for '''seven days'''.
+* The October Lisp Game Dev Competition begins on '''Sunday''' at '''2010-10-24 00:01 UTC''' and runs for '''seven days'''.
+* The competition is entirely run online.  Chat about it on IRC at #lispgames on irc.freenode.net.
 
 == How to enter ==
 
