@@ -7,5 +7,10 @@ the opposite approach and uses Lisp to tie together existing
 [[UsefulApplications]] such as the GIMP, GNU Emacs, ImageMagick, and
 so on. 
 
+XIOMACS uses [[OrgMode]] to manage a hierarchical tree of entries,
+each with embedded asset chunks, workflow information, and metadata in
+the form of Org entry properties. These asset libraries can be
+compiled to LispPak format for use by external applications.
+
 See [http://dto.github.com/notebook/xiomacs.html the XIOMACS page] for
 a description of the project.
