@@ -2,6 +2,7 @@ Lispbuilder-SDL is a game development resource for [[Common Lisp]]. It provides 
 
 == Links ==
 * [http://code.google.com/p/lispbuilder/wiki/LispbuilderSDL Project page]
+* [http://www.cliki.net/lispbuilder-sdl CLiki]
 
 [[Category:Common Lisp]]
 [[Category:Game Engine]]
