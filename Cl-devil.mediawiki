@@ -1,8 +1,9 @@
 CL-DevIL is a set of [[Common Lisp]] [[CFFI]] bindings to the [http://openil.sourceforge.net/ DevIL] image loading and manipulation library, previously known as OpenIL. DevIL provides speedy loading and saving features for a wide range of image formats, as well as support for various OpenGL and DirectX features.
 
-== Get It ==
+== Links ==
 * [http://github.com/sykopomp/cl-devil GitHub] -- These are the most up-to-date bindings.
 * [http://repo.or.cz/w/cl-devil.git repo.or.cz] -- Original author's repository.
+* [http://www.cliki.net/cl-devil CLiki]
 
 [[Category:Common Lisp]]
 [[Category:CFFI bindings]]
