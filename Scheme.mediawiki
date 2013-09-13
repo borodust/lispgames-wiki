@@ -1,5 +1,7 @@
-[[Scheme]] has more multimedia prowess than you might expect.
+Want to learn Scheme? Check out [[Learning Scheme]].
 
+
+[[Scheme]] has more multimedia prowess than you might expect.
 
 * [http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks Scheme Bricks]
 * [http://www.pawfal.org/dave/index.cgi?Projects/Fluxus Fluxus]
