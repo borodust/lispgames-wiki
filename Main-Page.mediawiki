@@ -25,17 +25,15 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 * Learning: [http://lispgames.ath.cx/index.php/Articles Lisp Game Development Articles]
 
-* Chat: irc.freenode.net #lispgames and #lisp
+* Community: irc.freenode.net #lispgames and #lisp, [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 
-* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[cl-devil]], [[cl-glfw]], [[CLX]], [[okra]], [[imago]], [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d]
+* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[cl-devil]], [[cl-glfw]], [[CLX]], [[okra]], [[imago]], [http://github.com/ztellman/penumbra penumbra (idiomatic opengl for clojure], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], [http://github.com/patzy/glop glop]
 
 * Physics: [[SquirL]] (2d), [[buclet]] (3d)
 
-* Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]]
+* Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [http://github.com/patzy/glaw glaw]
 
-* Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
-
-* Arts/Sound: 
+* Stock Art/Audio: 
 ** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
 ** [http://opengameart.org Open Game Art]
 ** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
