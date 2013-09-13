@@ -1,12 +1,58 @@
-Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme, though.
+Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme though luckily there are excelent free and resources available.
 
-* [http://en.wikipedia.org/wiki/Common_Lisp Common Lisp on wikipedia]
-* [[Learning Common Lisp]] resources on this wiki
+== Getting Started ==
+So what is Common Lisp? Heres the [http://en.wikipedia.org/wiki/Common_Lisp wikipedia definition] but if this is your first dip into lisp and you want to get stuck in you may want to look into the charming [http://www.lisperati.com/casting.html Casting SPELs in Lisp].
 
-* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[PAL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
+The thing that really scares off some new people when they come to Common Lisp is that they went on a mental journey something along the lines of:
 
-* Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
+''"What is this lisp thing then?"''
 
-* Physics: [[SquirL]] (2d), [https://github.com/aerique/buclet buclet] (3d), [[cl-ode]]
+''<googling happens here>''
 
-* Game Engines: [[Blocky]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
+''"Hmm there seem to be lots of them...Ah well Common Lisp doesnt sound too threatening"''
+
+''<google some more>''
+
+''"HOLD ON THERE DIFFERENT TYPES OF COMMON LISP?"''
+
+Yeah, Common Lisp is a standard (like Ada and C) so there can be many implementations. The easiest way to pick one is to have a good google, see what resources you find that 'speak your language' and go with that version.
+What? You want to be told which version? Well SBCL is fast, close the the standard and easy to get installed. Honestly there will be many that have excelent and precise reasons for their choice of implementation, don't let it bog you down!
+
+Here are some more links to resource to help you with Common lisp
+
+[[Learning Common Lisp]]
+
+== Graphics ==
+* [[Lispbuilder-SDL]]
+* [[cl-opengl]]
+* [[PAL]]
+* [[cl-devil]]
+* [[cl-glfw]]
+* [[glop]]
+* [[CLX]]
+* [[okra]]
+* [[imago]]
+* cl-cairo2
+* [http://github.com/anwyn/cl-horde3d CL-Horde3d]
+* various [[OpenGL Wrappers]].
+
+== Audio == 
+* [[Lispbuilder-SDL]]
+* [[cl-openal]]
+* [http://thirdcog.eu/apps/cfxr cfxr]
+
+== Physics == 
+* [[SquirL]] (2d)
+* [https://github.com/aerique/buclet buclet] (3d)
+* [[cl-ode]]
+
+== Game Engine Architecture == 
+
+=== Game Engines Written in Lisp ===
+* [[Blocky]]
+* [http://code.google.com/p/blackthorn-engine/ blackthorn]
+* [http://code.google.com/p/lisp-game-engine/ lisp-game-engine]
+* [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD]
+* [[Until It Dies]]
+* [[glaw]]
+* [http://github.com/shr/pltcod PLTCOD]
