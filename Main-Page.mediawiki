@@ -13,6 +13,8 @@ In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems 
 
 [[User:add|add]] have revived [[User:cupe|cupe]]'s old project perfectstorm along with the other active members on lispgames. Link to the original blogpost: [http://erleuchtet.org/2008/03/project-overview-perfectstorm.html erleuchtet.org] and to the current repo on github: [https://github.com/lispgames/perfectstorm lispgames/perfectstorm]
 
+In other news, [[User:dto|dto]] have renamed blocky to *drumroll* xelf. Link here: [http://xelf.me/ xelf homepage] and here: [https://github.com/dto/xelf on github]
+
 == New about these parts? == 
 [[What is Lisp?]]
 
