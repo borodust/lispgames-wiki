@@ -23,7 +23,7 @@ The contest is <s>in progress</s> now over, check out the [http://www.cliki.net/
 
 == Links ==
 
-* [http://www.cliki.net/InternationalLispGameExpo2010 Official Site]
+* [http://dto.github.com/notebook/2010expo.html Official Site]
 * [http://www.cliki.net/Gentoo/InternationalLispGameExpo2010 CLiki]
 
 [[Category:Contest]]
