@@ -26,4 +26,4 @@ It have an awesome community, of course, not as huge as Python, C or even Java, 
 And most of all, it's fun and a good way to learn new things.
 
 == Credits? ==
-Of course, if you haven't already noticed, I took the "template" for this page from [[User:Arbscht]], thank you Arbscht!
+Of course, if you haven't already noticed, I took the "template" for this page from [[User:Arbscht|Arbscht]], thank you Arbscht!
