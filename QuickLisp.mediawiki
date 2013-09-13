@@ -1,1 +1,9 @@
-QuickLisp is a promising Lisp delivery platform, currently in early development. [http://www.quicklisp.org/ QuickLisp home page.]
+QuickLisp is a promising Lisp delivery platform, currently in open beta. It was written and is maintained by Zach Beane. 
+
+== Links ==
+
+* [http://www.quicklisp.org/ Quicklisp home]
+* [http://www.quicklisp.org/beta/ The beta] - with instructions on downloading and installing
+* [http://blog.quicklisp.org/ Zach's Quicklisp blog]
+* [http://www.quicklisp.org/beta/releases.html List of provided systems]
+* [https://github.com/quicklisp/ Quicklisp on GitHub]
