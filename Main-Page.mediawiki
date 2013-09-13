@@ -32,7 +32,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 * Physics: [[SquirL]] (2d), [[buclet]] (3d)
 
-* Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [http://github.com/patzy/glaw glaw]
+* Game Engines: [[XE2]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [http://github.com/patzy/glaw glaw], [http://github.com/shr/pltcod PLTCOD]
 
 * Stock Art/Audio: 
 ** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
