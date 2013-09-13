@@ -1,1 +1,8 @@
 This page is for ideas and links related to motion control, image processing, CL-V4L2, Playstation Move, Xbox Kinect, OpenCV, computer vision, motion detection, dance pads, MIDI, and more. The point is to begin integrating movement controls of various kinds into Common Lisp game libraries.
+
+
+== Motion Detection ==
+* [http://www.ai.sri.com/~connolly/] - Christopher I. Connolly's SRI page has pretty advanced stuff including video tracking, event analysis and motion detection, mostly written in combination of Common Lisp and C++.
+** [http://www.ai.sri.com/~connolly/sentient/index.html Sentient Environments] and 
+** [http://www.ai.sri.com/~connolly/freedius/basics.html FREEDIUS] titles are especially interesting.
+* [http://jandmworks.com/ J. K. Cunningham's page] has information on motion detection and a Common Lisp motion detection project using [http://www.ljosa.com/~ljosa/software/cl-png/ cl-png].
