@@ -53,6 +53,16 @@ Unfortunately, unless you are some kind of digital bloodhound, you may struggle 
 * [http://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1568814135 Game Engine Architecture]
 * [http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240 Real-Time Rendering]
 
+== Free Art & Audio Assets ==
+Though it's very unlikely you'd be able to find enough free assets to make your game from while keeping a consistent style, free art assets can be very handy as placeholders in your game to help give others (and yourself!) a glimpse of where the game is heading. It can be very hard to inspire people to the noble effort of a orphan cube, battling for justice and vengeance against the hoards of malevolent spheres!
+
+* Stock Art/Audio: 
+** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
+** [http://opengameart.org Open Game Art]
+** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
+** [http://openclipart.org/tags/game OpenClipArt]
+** [http://www.freesound.org/ FreeSound.org]
+
 == Open issues and projects == 
 
 * [[EditorSupportForLisp]] 
@@ -79,15 +89,6 @@ Here are some pages you could write or add to:
 * Collect more dialect-specific resources: [[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]] 
 * A permanent [[LispGamesArchive]] that people could donate things to, sort of like the Interactive Fiction Archive.
 * [[ObstaclesToLispNewcomers]], [[CoolThingsWeShouldKnowAbout]]
-
-=== Other resources ===
-
-* Stock Art/Audio: 
-** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
-** [http://opengameart.org Open Game Art]
-** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
-** [http://openclipart.org/tags/game OpenClipArt]
-** [http://www.freesound.org/ FreeSound.org]
 
 == Games ==
 Some games written using lisp-family languages.
