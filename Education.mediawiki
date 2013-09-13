@@ -1,4 +1,4 @@
-Information for those getting started with Lisp Game development.
+Educational pages for those getting started with Lisp Game development. 
 
 * [[Learning Common Lisp]] - for people getting started with lisp
 * [[Learning Clojure]]
