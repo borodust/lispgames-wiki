@@ -3,3 +3,5 @@ WarWeasle is currently working on a 3D game engine/Editor in Lisp using OpenGL, 
 [[File:Rich_text.jpg]]
 
 [[File:CairoPangoText.jpg]]
+
+[[File:Lisp-alpha.jpg]]
