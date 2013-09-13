@@ -28,10 +28,9 @@ For information on editing this wiki via Emacs, see [http://www.emacswiki.org/em
 * Physics: [http://github.com/sykopomp/squirl squirl], buclet
 
 * Game Engines: [http://dto.github.com/notebook/xe2-reference.html XE2] [http://github.com/dto/xe2 (also at github)], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], 
-[http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [http://github.com/sykopomp/until-it-dies Until It Dies]
+[http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]]
 
 * Other: [http://github.com/patzy/glop glop], [http://github.com/patzy/glaw glaw]
-
 
 == Sites ==
 
