@@ -8,6 +8,7 @@ extensibility or bindings.
 * [http://www.vim.org/ VIM (VI Improved)] is a vi-like editor popular with people who don't like Emacs, which also has a SLIME-like [http://www.vim.org/scripts/script.php?script_id=2531 Lisp tool called SLIMV].
 * [http://projects.gnome.org/gedit/ Gedit] is the official general-purpose text editor of GNOME.
 * [http://en.wikipedia.org/wiki/Vile_(editor) VILE] adds some features of Emacs to a vi-like editor.
+* [http://bitfauna.com/projects/cusp/ CUSP] is a Lisp Plugin for Eclipse (so more of an IDE than a Text Editor) which includes a REPL, although the last release appears to have been over 12 months ago (July 2009) so it may not be in active development.
 
 =Lisp-extensible applications=
 
