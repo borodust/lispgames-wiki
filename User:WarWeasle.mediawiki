@@ -1,4 +1,19 @@
-WarWeasle is currently working on a 3D game engine/Editor in Lisp using OpenGL, SDL, Pango, Cairo, and FreeImage. Here are some pictures of my current work to date.
+== Overview ==
+
+WarWeasle is currently working on a [[Qix]], a universal media editor in Lisp using OpenGL, SDL, Pango, Cairo, and FreeImage. I have a blog at [http://lisp-qix.blogspot.com//| Lisp-Qix] where I post my updates and such. I have a degree in electronics engineering, am a professional programmer, and am currently working as an internal applications web developer and general computer/electronics problem-solver.  I enjoy Lisp, 3D graphics, video games, and spending time with my family. 
+
+I work with C, C++, HTML, Javascript, ASP, PHP, Visual Basic, SQL, Assembly Language, Scheme, and of course, Lisp. My favorite tools are Emacs, Blender, Inkscape, and Gimp.
+
+== Quote ==
+
+"Like everything else in life, X is just a primitive, degenerate form of Lisp."
+
+    -Greenspun's Tenth Rule blended with Bender
+
+== Pictures of My Work ==
+
+Here are some pictures of my current work to date.
+
 
 [[File:Monkey1.jpg]]
 * The Blender Monkey rendered with a VBO.
