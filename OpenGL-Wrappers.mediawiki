@@ -2,5 +2,6 @@ Libraries that wrap OpenGL functionality and provide it to Lisp in a way that st
 
 * [[penumbra]]
 * [[cl-opengl]]
+* [[cl-glfw]]
 
 [[Category:OpenGL]]
