@@ -41,7 +41,7 @@ longer-term concern.
 * [http://github.com/dto/clon CLON Github repository]
 
 [[Category:Common Lisp]]
-[[Category:2D]]
+[[Category:2d]]
 [[Category:Game Engine]]
 [[Category:Library]]
 [[Category:Graphics]]
