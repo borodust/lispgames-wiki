@@ -49,7 +49,7 @@ Some games written using lisp-family languages.
 
 == Community and Resources ==
 
-* IRC: irc.freenode.net #lispgames and #lisp
+* IRC: chat.freenode.net #lispgames and #lisp
 * [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 * [http://twitter.com/lispgames lispgames on Twitter]
 * [[Articles| Lisp Game Development Articles]]
