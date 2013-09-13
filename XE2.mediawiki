@@ -1,7 +1,20 @@
-XE2 is a Common Lisp game engine developed by [[User:dto1138]]. It
+XE2 is a Common Lisp 2D game engine developed by [[User:dto1138]]. It
 uses its own custom object system called CLON, based on prototypes
-instead of classes. CLON and XE2 are both being upgraded and revised
-to make improvements in ease of use and developer documentation.
+instead of classes.
+
+CLON and XE2 are both being upgraded and revised to make improvements
+in ease of use and developer documentation. I will update the links
+below with updated info as it becomes available. 
+
+== Features ==
+
+* 2D grid-based worlds, with additional sprite support
+* Basic procedural content tools
+* Map editor (working, but in progress: see [http://www.youtube.com/watch?v=E5KmZxQxiJ0 this video] for a demo.)
+* Both turnbased and real-time play supported
+* GUI widgets: formatted text output, simple text editing, 
+* Ray-casting based lighting effects and line-of-sight
+* A-star pathfinding (still being ported)
 
 == Links ==
 
@@ -10,6 +23,7 @@ to make improvements in ease of use and developer documentation.
 * [http://dto.github.com/notebook/xe2-reference.html XE2 developer's reference.] Needs work.
 
 [[Category:Common Lisp]]
+[[Category:2D]]
 [[Category:Game Engine]]
 [[Category:Library]]
 [[Category:Graphics]]
