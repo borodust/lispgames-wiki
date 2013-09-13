@@ -4,3 +4,12 @@ PAL (Pixel Art Library) is a portable Common Lisp graphics and sound library for
 
 * [http://common-lisp.net/project/pal/ Project page on common-lisp.net]
 * [http://www.cliki.net/PAL CLiki]
+
+
+[[Category:Common Lisp]]
+[[Category:Audio]]
+[[Category:Graphics]]
+[[Category:Library]]
+[[Category:OpenGL]]
+[[Category:SDL]]
+[[Category:2d]]
