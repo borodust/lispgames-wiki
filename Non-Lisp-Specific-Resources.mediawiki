@@ -8,6 +8,7 @@ These links are those that are suitably lisp agnostic or are written in another 
 * [http://www.cse.unsw.edu.au/~pls/thesis/munc-thesis.pdf Functional Programming and 3D Games (pdf) (haskell)]
 
 === Graphics ===
+* [[Opengl Resources]]
 * [http://en.wikibooks.org/wiki/OpenGL_Programming#Modern_OpenGL Modern OpenGL (gl) (wiki or pdf)] This creative commons wikibook is a good place to get started with opengl as it uses v2.1 which is common and also the programmable pipeline, which is essential to modern game graphics.
 
 === Procedural Media Generation  ===
