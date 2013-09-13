@@ -20,7 +20,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 * Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
 * Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
 * Identifying [[NeededDocumentation]].
-* Planning the [[Next International Lisp Games Expo]].
+* Planning the [[Next Lisp Game Dev Competition]].
 * Completing the [[ILGE2010|2010 International Lisp Games Expo]] and archiving postmortems and other writeups to this wiki.
 * Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]].
 * Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]] and also [[LispPak]].
