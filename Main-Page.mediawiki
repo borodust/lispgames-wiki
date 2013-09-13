@@ -10,7 +10,7 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 * [[Blocky]] is now in preliminary beta release.
 
 == New about these parts? == 
-Sorry, these pages havent been written yet, but please check back soon.
+Sorry, these two pages havent been written yet, but please check back soon.
 
 [[What is Lisp?]]
 
@@ -90,7 +90,7 @@ Here are some pages you could write or add to:
 * A permanent [[LispGamesArchive]] that people could donate things to, sort of like the Interactive Fiction Archive.
 * [[ObstaclesToLispNewcomers]], [[CoolThingsWeShouldKnowAbout]]
 
-== Games ==
+== Lisp Games In The Wild ==
 Some games written using lisp-family languages.
 
 * [http://dto.github.com/notebook/xong.html XONG]
