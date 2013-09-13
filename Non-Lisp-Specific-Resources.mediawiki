@@ -40,4 +40,5 @@ Unfortunately, unless you are some kind of digital bloodhound, you may struggle 
 * [http://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1568814135 Game Engine Architecture]
 * [http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240 Real-Time Rendering]
 
+== Thanks ==
 A big thank-you to all those wrote wrote and compiled these links (big shout out to ogre wiki also which has been the source for a load of the above)
