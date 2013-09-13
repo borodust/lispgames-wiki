@@ -1,0 +1,1 @@
+Dumped executables from SBCL on Win32 open a useless terminal window with the message "Your kitten of death awaits." User nyef from #lisp seems to have had a patch for this.
