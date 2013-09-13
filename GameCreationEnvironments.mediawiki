@@ -1,0 +1,20 @@
+Several people have independently discussed and worked toward creating
+user-friendly game creation IDE's with Lisp. Such an IDE might have
+the following features:
+
+* Integrated [[Game Engines]].
+* Lisp code editing, browsing/folding, execution, debugging. [http://www.gnu.org/software/emacs GNU Emacs] and [http://common-lisp.net/project/slime/ SLIME] are useful here, but other approaches are possible.
+* Easy installation on any platform. [[QuickLisp]] and [http://code.google.com/p/blackthorn-engine/wiki/QuickstartGuide Blackthorn Starter Pack] are candidates.
+* Engine-agnostic asset and asset metadata management. Some [http://github.com/dto/hypo/raw/master/hypo.org notes and code] on the subject. See also [http://orgmode.org/worg/org-contrib/babel/ Org-babel].
+* Workflow management. See [http://orgmode.org Org mode].
+* Editing assets of various types through either included code (for example engine-specific [http://www.youtube.com/watch?v=E5KmZxQxiJ0 level editors], or by working with external programs like [http://www.gimp.org GIMP] and [http://audacity.sourceforge.net/ Audacity].
+* Easy exchange of different asset packs with included metadata.
+
+Benefits could include:
+
+* Lower barrier to entry for creators
+* Eliminating platform lock-in for creators
+* Rapid development/prototyping
+* Easy to cross-compile self-contained .EXE, .DMG, [http://www.elementary-project.com/wiki/index.php?title=AppImages AppImage]
+* Building cross-platform game creation communities
+* More game s
