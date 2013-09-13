@@ -24,7 +24,7 @@ List your name here, with possibly a bit of text about yourself and what you pla
 
 ''List details below:''
 * David O'Toole --- I'd like to make a mini version of XONG with documented code so that I can show people an example of using [http://ioforms.org IOFORMS.]
-* Your Info Here
+* Jeremiah Stoddard (jstoddard) --- I'll be working on a side-scrolling game along the lines of either Mario or Duke Nukem.
 * Your Info Here
 [[Category:Contest]]
 [[Category:Community Event]]
