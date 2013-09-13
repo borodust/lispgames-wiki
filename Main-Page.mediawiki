@@ -13,7 +13,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == Open issues and projects == 
 
-* Collecting Lisp [[Education]] resources.
+* Collecting [[Education]] resources.
 * Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
 * Reproducing and eventually fixing the [[Win64Crashes]] affecting some SBCL/SDL programs. 
