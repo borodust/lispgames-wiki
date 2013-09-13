@@ -29,7 +29,7 @@ Many challenges in game development are relevant to all languages. The links bel
 === Functional Game Programming ===
 * [http://www.haskell.org/haskellwiki/Yampa Functional Reactive Programming with Yampa (Haskell)]
 * [http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/ John Carmack on functional programming in c++]
-* [www.idt.mdh.se/utbildning/exjobb/files/TR0811.pdf] HaGPipe A DSL for programming the entire graphical pipeline (Haskell) (pdf)
+* [www.idt.mdh.se/utbildning/exjobb/files/TR0811.pdf HaGPipe A DSL for programming the entire graphical pipeline (Haskell) (pdf)]
 
 === Procedural Media Generation  ===
 * Coming soon
