@@ -37,3 +37,4 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 == Sites ==
 
 * [http://lispgamesdev.blogspot.com/ David's lisp games blog]
+* [http://lisp-qix.blogspot.com// WarWeasle's 3DMACS Tool Blot]
