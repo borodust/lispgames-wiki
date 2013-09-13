@@ -1,0 +1,1 @@
+Farmageddon is an iPhone game, written in [http://en.wikipedia.org/wiki/Gambit_(Scheme_implementation) Gambit Scheme].
