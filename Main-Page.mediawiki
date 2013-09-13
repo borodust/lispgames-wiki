@@ -11,9 +11,9 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == Open issues and projects == 
 
-* NEW: [http://www.youtube.com/watch?v=43IiSvbyIZY Lisp Games Development Screencast 1]
-* NEW: [http://www.youtube.com/watch?v=Nr3piK3T6a8 DTO Game Design Retrospective Video]. Would anyone else like to make Lisp game video demonstrations to share?
-* NEW: [[CloMotion]] ideas and resources for motion control in Lisp gaming.
+* [http://www.youtube.com/watch?v=43IiSvbyIZY Lisp Games Development Screencast 1]
+* [http://www.youtube.com/watch?v=Nr3piK3T6a8 DTO Game Design Retrospective Video]. Would anyone else like to make Lisp game video demonstrations to share?
+* [[CloMotion]] ideas and resources for motion control in Lisp gaming.
 * Collecting [[Education]] resources.
 * Identifying [[UsefulApplications]] for Lisp game developers.
 * Building various [[GameCreationEnvironments]].
