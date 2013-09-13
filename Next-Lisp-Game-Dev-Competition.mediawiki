@@ -10,6 +10,12 @@ There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Ex
 * What is the theme going to be?
 ** Ludum Dare votes on themes. Some of their failed candidates seem promising (e.g. "Unwanted Powers") so we could recycle them. Voting itself may be overkill for us. [[User:Arbscht|Arbscht]] 10:56, 1 October 2010 (EDT)
 ** dto likes "UFO"
+** LD17 Suggestions: http://old.ludumdare.com/wiki/ld17:themes
+*** batteries not included (or "some assembly required")
+*** breaking laws (of physics)
+*** conservation of energy
+*** demoscene
+*** management
 
 '''How long should it run for?'''
 * probably one week
