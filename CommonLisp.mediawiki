@@ -1,0 +1,11 @@
+Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme, though.
+
+* [http://en.wikipedia.org/wiki/Common_Lisp Common Lisp on wikipedia]
+
+* Graphics: [[Lispbuilder-SDL]], [[cl-opengl]], [[PAL]], [[cl-devil]], [[cl-glfw]], [[glop]], [[CLX]], [[okra]], [[imago]], cl-cairo2, [http://github.com/anwyn/cl-horde3d CL-Horde3d], various [[OpenGL Wrappers]].
+
+* Audio: [[Lispbuilder-SDL]], [[cl-openal]], [http://thirdcog.eu/apps/cfxr cfxr]
+
+* Physics: [[SquirL]] (2d), [[buclet]] (3d), [[cl-ode]]
+
+* Game Engines: [[Blocky]], [http://code.google.com/p/blackthorn-engine/ blackthorn], [http://code.google.com/p/lisp-game-engine/ lisp-game-engine], [http://bitbucket.org/eeeickythump/cl-tcod/ CL-TCOD], [[Until It Dies]], [[glaw]], [http://github.com/shr/pltcod PLTCOD]
