@@ -1,4 +1,6 @@
-Libraries for accessing OpenGL from Lisp family languages
+Libraries that wrap OpenGL functionality and provide it to Lisp in a way that still looks familiar those with a [http://www.opengl.org/documentation/red_book/ Red Book].
 
 * [[penumbra]]
 * [[cl-opengl]]
+
+[[Category:OpenGL]]
