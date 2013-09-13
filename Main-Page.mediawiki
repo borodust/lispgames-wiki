@@ -7,7 +7,7 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 == Current News 2013-08-07 ==
 [[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in [[GNU Guile Scheme]].
 
-[[User:dto|dto]] is working on a "howto" to build [[2x0ng]] on GNU/Linux, OSX and Windows.
+[[User:dto|dto]] is working on a "howto" to build any lisp program on GNU/Linux, OSX and Windows with [[2x0ng]] as an example.
 
 In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems with Windows 7 64-bit crashes was solved. Supposedly the Vista version isn't perfectly fixed yet, as been reported by [[User:dto|dto]].
 
