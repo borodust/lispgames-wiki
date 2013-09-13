@@ -19,7 +19,6 @@ This page is for opengl resources, tutuorials, articles, and other helpful OpenG
 * '''Fixed Function Pipeline (v1.0 -> v1.5)
 ** [http://nehe.gamedev.net/ NeHe] The canonical (yet old) opengl online learing resource. Has a wide range of tutuorials and examples of opengl features, with source code in C++ (and ports to other languages) mixed with comments.
 
-
 === Videos ===
 
 * [http://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0&feature=plcp Introduction to Graphics Architecture (UC Davis)]
