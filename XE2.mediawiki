@@ -27,7 +27,7 @@ longer-term concern.
 * 2D grid-based worlds, with additional sprite support. Very useful for grid-based roguelike-ish games, but the sprite support has been changing that and making it more broadly useful.
 * Uses [[Lispbuilder-SDL]] for cross-platform 2D graphics, sound effects, ogg and xm music, et cetera.
 * Basic procedural content tools, including turtle graphics, generating sentences from context-free grammars, and plasma noise.
-* Map editor (working, but in progress: see [http://www.youtube.com/watch?v===E5KmZxQxiJ0 this video] for a demo.)
+* Map editor (working, but in progress: see [http://www.youtube.com/watch?vE5KmZxQxiJ0 this video] for a demo.)
 * Both turnbased and real-time play supported
 * GUI widgets: formatted text output, simple text editing, an extensible interactive command prompt, and more.
 * Ray-casting based lighting effects and line-of-sight.
