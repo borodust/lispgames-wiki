@@ -1,4 +1,4 @@
-PAL (Pixel Art Library) is a portable graphics and sound library for 2d games.
+PAL (Pixel Art Library) is a portable Common Lisp graphics and sound library for [[2d games]]. It uses [[CFFI]] to interface with [[SDL]] and [[OpenGL]], but is not SDL/OpenGL bindings - it provides a higher-level api.
 
 == Links == 
 
