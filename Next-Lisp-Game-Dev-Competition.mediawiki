@@ -1,5 +1,7 @@
 == Status ==
 
+The [[2010 October Lisp Game Dev Competition]] is on.
+
 There has been no LGDC recently. The [[ILGE2010|2010 International Lisp Games Expo]] was the most recently held compo. The next LGDC event is being planned here.
 
 == To decide ==
