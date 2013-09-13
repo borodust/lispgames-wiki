@@ -7,7 +7,7 @@ Features:
 * A stand alone development environment.
 * A single application for displaying and editing various forms of data.
 
-There are some pictures of my work so far on my user page [[User:WarWeasle]] any my blog:  [http://lisp-qix.blogspot.com/ Lisp-Qix.]
+There are some pictures of my work so far on my user page [[User:WarWeasle]] and my blog:  [http://lisp-qix.blogspot.com/ Lisp-Qix.]
 
 Here is a screenshot of user generated text displayed in 3D as a rectangle. 
 
