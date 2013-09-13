@@ -21,6 +21,6 @@ Benefits could include:
 
 IDE proposals:
 
-* [[User:dto1138]] is working on XIOMACS (more info soon.)
+* [[User:dto1138]] is working on [[Xiomacs]] (more info soon.)
 * [[User:WarWeasle]] is working on [http://lisp-qix.blogspot.com/ a yet-to-be-named 3D project.]
 * Your project link here...
