@@ -1,0 +1,33 @@
+= Glaw =
+
+Glaw is not really a game engine but a collection of utilities to write games.
+
+Its core only depend on [http://github.com/3b/cl-opengl cl-opengl] for graphics and [http://github.com/sykopomp/cl-openal cl-openal] for sound.
+Source code with examples is available [http://github.com/patzy/glaw here].
+
+Glaw provides facilities for:
+* resources/assets management
+* input
+* scheduling
+* 2D rendering (shapes, tilemap, sprites)
+* animation (keyframed)
+* particle systems
+* pathfinding (A*, navigation mesh)
+* game state management (''screens'')
+* sound (native wave/riff support)
+* text (bitmap fonts from images or ''fonttool'' files)
+* GUI (windows, button, ...)
+* in-game console/REPL
+
+Extensions are available for:
+* image loading using [[imago]]
+* lb-sdl integration
+
+A few tools are included:
+* fonttool: create bitmap font files using freetype
+* shapedit: 2D shape editor (output in s-exp based file format with native support in glaw)
+
+Small games written using glaw include:
+* [http://github.com/patzy/outbreak outbreak]: a simple breakout clone
+* [http://github.com/patzy/kayou kayou]: asteroid clone
+* [http://github.com/patzy/push push]: on-button game (entry for ILGE2010)
