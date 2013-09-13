@@ -38,6 +38,12 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 ** [http://openclipart.org/tags/game OpenClipArt]
 ** [http://www.newgrounds.com NewGrounds]
 
+== Games ==
+Some games written using lisp-family languages.
+
+* [[Xong]]
+* [[Common Worm]]
+
 == Community and Resources ==
 
 * IRC: irc.freenode.net #lispgames and #lisp
