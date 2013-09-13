@@ -11,6 +11,8 @@ Interaction Mode for Vim. Lots of people use the [http://www.gnu.org/software/em
 with [http://common-lisp.net/project/slime/ Slime], the Superior Lisp Interaction Mode for Emacs---both written in [[EmacsLisp]].
 
 * New link: [https://vimeo.com/38372260/ A video about] using clojure with [[SLIMV]].
+* [http://www.youtube.com/watch?v=BKFcznZ28BE Video about Emacs and Slime]
+* [http://www.youtube.com/watch?v=_B_4vhsmRRI Longer, more comprehensive Slime video]
  
 As far as [http://en.wikipedia.org/wiki/Free_software Free software] goes, one of these two options---Emacs with Slime, or Vim with Slimv---is 
 probably the best way to develop and test [[Lisp]] code.
