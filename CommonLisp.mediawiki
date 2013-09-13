@@ -1,4 +1,4 @@
-Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme though luckily there are excelent free tutorials and resources available.
+Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme though luckily there are excellent free tutorials and resources available.
 
 == Getting Started ==
 So what is Common Lisp? Heres the [http://en.wikipedia.org/wiki/Common_Lisp wikipedia definition] but if this is your first dip into lisp and you want to get stuck in you may want to look into the charming [http://www.lisperati.com/casting.html Casting SPELs in Lisp].
