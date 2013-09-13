@@ -1,1 +1,1 @@
-QuickLisp is a promising Lisp delivery platform, currently in beta. [http://www.quicklisp.org/ QuickLisp home page.]
+QuickLisp is a promising Lisp delivery platform, currently in early development. [http://www.quicklisp.org/ QuickLisp home page.]
