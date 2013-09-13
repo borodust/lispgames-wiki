@@ -23,5 +23,7 @@ Please correct any entries I'm wrong about.
 
 * [http://www.ardour.org/ Ardour] is a free digital audio workstation (DAW).
 * [http://audacity.sourceforge.net Audacity] for sound editing.
+* [http://www.blender.org Blender] is an open source 3D graphics suite.
+* [http://www.inkscape.org InkScape] is an open source vector graphics editor.
 * [http://puredata.info/ Pure Data] for audio synthesis and processing. 
 * [http://dssi.sourceforge.net/hexter.html Hexter] is a free Yamaha DX-7 software emulator.
