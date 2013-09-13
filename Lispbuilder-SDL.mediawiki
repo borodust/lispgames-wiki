@@ -1,0 +1,4 @@
+Lispbuilder-SDL is a game development resource for [[Common Lisp]]. It provides a set of bindings and Lispy abstractions for graphics, sound, and other features, using [[SDL]].
+
+== Links ==
+* [http://code.google.com/p/lispbuilder/wiki/LispbuilderSDL Project page]
