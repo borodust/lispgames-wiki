@@ -2,7 +2,7 @@ This page is for opengl resources, tutuorials, articles, and other helpful links
 
 == In Lisp == 
 
-*'''Using [[Cl-OpenGL]]'''
+*'''Using [[Cl-opengl]]'''
 ** [http://3bb.cc/tutorials/cl-opengl/index.html 3b's introduction to opengl] - uses lispbuilder-sdl for windowing.
 ** [http://nklein.com/2010/06/nehe-tutorials-for-cl-opengl/ 1][http://nklein.com/2010/06/nehe-tutorial-02-drawing-triangles-and-quadrilaterals/ 2] [http://nklein.com/2010/06/nehe-tutorial-03-color/ 3] [http://nklein.com/2010/06/nehe-tutorial-04-rotation/ 4] [http://nklein.com/2010/06/nehe-tutorial-05-solids/ 5] [http://nklein.com/2010/06/nehe-tutorial-06-textured-solids/ 6] Patrick Stein has ported the first six NeHe tutorials to cl-opengl - Uses cl-opengl's glut bindings for windowing.
 
