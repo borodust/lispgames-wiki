@@ -23,9 +23,9 @@ The theme will probably involve three elements, a combination of; one thematic, 
 ; Thematic
 : Love, Animals, Magic
 ; Gameplay
-: Minimal interaction, Management, Realtime, Turn-based
+: Minimal interaction, Management, Realtime, Turn-based, Side scrolling
 ; Technical
-: Never the same play twice, Same game everytime
+: Never the same play twice, Same game everytime, Things break if you hit them
 
 == Entries ==
 
