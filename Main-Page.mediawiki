@@ -72,6 +72,7 @@ Some games written using lisp-family languages.
 * Jak and Daxter (Naughty Dog) was apparently partly written in a custom Lisp dialect called [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL]. See also this [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
 * [[Common Worm]]
 * [[Farmageddon]]
+* [[Starwar]]
 * See more in [[:Category:Game]]
 
 == Community ==
