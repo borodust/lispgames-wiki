@@ -12,7 +12,7 @@ The October Lisp Game Dev Competition begins on '''Sunday''' at '''2010-10-24 00
 * Use a lisp variant as the primary language to build your game.  That can include Common Lisp, Scheme, Clojure, Emacs Lisp, or even your own lisp-like invention.  The rest of the technology is up to you.
 * Work on your project substantially during the competition.  You may continue developing a project you started before the competition, but we want to see some new work being done on it.
 
-== Enties ==
+== Entries ==
 
 List your name and project (with links) if you are entering the competition.  You can enter at any time until Sunday, October 31, but we like to see works in progress.
 
