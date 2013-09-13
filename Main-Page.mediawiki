@@ -7,7 +7,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 
 == News ==
 
-* The [[2010 October Lisp Game Dev Competition]] begins Sunday (2010-10-24 00:01 UTC).
+* '''The [[2010 October Lisp Game Dev Competition]] begins Sunday (2010-10-24 00:01 UTC).'''
 
 == Open issues and projects == 
 
