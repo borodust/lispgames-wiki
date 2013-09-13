@@ -40,7 +40,6 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 ** [http://opengameart.org Open Game Art]
 ** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
 ** [http://openclipart.org/tags/game OpenClipArt]
-** [http://www.newgrounds.com NewGrounds]
 
 == Games ==
 Some games written using lisp-family languages.
