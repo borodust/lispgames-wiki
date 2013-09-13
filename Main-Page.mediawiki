@@ -41,7 +41,7 @@ If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org
 == Games ==
 Some games written using lisp-family languages.
 
-* [[Xong]]
+* [http://dto.github.com/notebook/xong.html XONG]
 * [[Common Worm]]
 
 == Community and Resources ==
