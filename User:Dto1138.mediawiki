@@ -1,1 +1,1 @@
-I am David O'Toole. My home page is [http://dto.github.com/notebook/ over at github.]
+I am David O'Toole. My home page is [http://dto.github.com/notebook/ over at github.] My primary Lisp Games project is [[Blocky]], and I have released [http://dto.github.com/notebook/games.html games written in Common Lisp.]
