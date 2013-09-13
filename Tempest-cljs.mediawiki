@@ -1,11 +1,12 @@
-Tempest-cljs is a web-based implementation of the classic arcade game Tempest.  It is written by [http://www.trevorbentley.com Trevor Bentley], in ClojureScript, and renders to an HTML5 canvas element. 
-
-
-== Source Code at GitHub ==
-[https://github.com/mrmekon/tempest-cljs/ tempest-cljs on GitHub]
+Tempest-cljs is a web-based implementation of the classic arcade game Tempest.  It is written by [http://www.trevorbentley.com Trevor Bentley], in [[Clojurescript]], and renders to an HTML5 canvas element. 
 
 == Play tempest-cljs ==
 [http://mrmekon.github.com/tempest-cljs/level1.html Play tempest-cljs]
 
+== Source Code at GitHub ==
+[https://github.com/mrmekon/tempest-cljs/ tempest-cljs on GitHub]
+
+== Annotated, "Literate" Source Code ==
+[http://mrmekon.github.com/tempest-cljs/doc.html Marginalia Documentation]
 
 [[Category:Game]]
