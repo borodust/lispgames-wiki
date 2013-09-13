@@ -1,4 +1,4 @@
-XIOMACS is an attempt by [User:dto1138 David O'Toole] at a "format
+XIOMACS is an attempt by [[User:dto1138]] at a "format
 agnostic" media creation and processing suite suitable for making
 games and other experiences. 
 
