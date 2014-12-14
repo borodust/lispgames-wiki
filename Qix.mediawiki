@@ -11,4 +11,4 @@ There are some pictures of my work so far on my user page [[User:WarWeasle]] and
 
 Here is a graph explaining how text and lists become 3D objects which can be displayed. Remember, this is only the data (which can contain Lisp code) and doesn't include the Qix code itself.
 
-[[File:QixDataTransformations.png]]
+[[images/QixDataTransformations.png]]
