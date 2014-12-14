@@ -1,7 +1,7 @@
 Cataclysm is a small tile-based Adventure/Shooter created for the purpose of teaching its author [[Lispbuilder-SDL]]. The author is currently learning cl-gtk2 in order to build a map editor to design a more complex world for the game.
 
 == Screen Shot ==
-[[File:Screenshot-Cataclysm.png]]
+[[images/Screenshot-Cataclysm.png]]
 
 == Links ==
 * [http://www.jeremiahstoddard.com/Projects/cataclysm.html Cataclysm Homepage]
