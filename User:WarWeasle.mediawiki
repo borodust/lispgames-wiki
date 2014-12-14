@@ -21,13 +21,13 @@ Also, yes.
 
 Here are some pictures of my current work to date.
 
-[[File:Monkey1.jpg| The Blender Monkey rendered with a VBO.]]
+[[images/Monkey1.jpg| The Blender Monkey rendered with a VBO.]]
 
-[[File:Rich_text.jpg|Cairo/Pango/Lisp Rich Text]]
+[[images/Rich_text.jpg|Cairo/Pango/Lisp Rich Text]]
 
 
-[[File:CairoPangoText.jpg|Testing Cairo and Pango in Lisp]]
+[[images/CairoPangoText.jpg|Testing Cairo and Pango in Lisp]]
 
-[[File:Lisp-alpha.jpg|Testing Loading Images with FreeImage and Alpha.]]
+[[images/Lisp-alpha.jpg|Testing Loading Images with FreeImage and Alpha.]]
 
-[[File:Logo.jpg|A spinning logo, Vector Graphics test in Cairo on the fly.]]
+[[images/Logo.jpg|A spinning logo, Vector Graphics test in Cairo on the fly.]]
