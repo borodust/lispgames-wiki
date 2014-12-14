@@ -1,1 +1,1 @@
-![logo](https://raw.githubusercontent.com/wiki/lispgames/lispgames.github.io/images/PacLogo.png)
+[![logo](https://raw.githubusercontent.com/wiki/lispgames/lispgames.github.io/images/PacLogo.png)](Home)
