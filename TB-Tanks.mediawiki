@@ -10,7 +10,7 @@ A simple minded orthographic two player tank battle game written in [[Clojure]] 
 
 == Screen Shots ==
 
-[[File:tbtanks.png]]
+[[images/tbtanks.png]]
 
 == More Information ==
 
