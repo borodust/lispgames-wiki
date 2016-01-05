@@ -6,9 +6,9 @@
     ** [https://github.com/3b/cl-opengl cl-opengl]
     ** [https://github.com/lispgames/glkit glkit]
 * Art
-  ** [https://www.blender.org/ Blender]
-  ** [https://www.gimp.org/ GIMP]
-  ** [https://inkscape.org/en/ Inkscape]
+    ** [https://www.blender.org/ Blender]
+    ** [https://www.gimp.org/ GIMP]
+    ** [https://inkscape.org/en/ Inkscape]
 * 3D Modeling
-  ** [https://www.blender.org/ Blender]
-  ** [https://github.com/assimp/assimp Assimp] (with [https://github.com/3b/classimp classimp])
+    ** [https://www.blender.org/ Blender]
+    ** [https://github.com/assimp/assimp Assimp] (with [https://github.com/3b/classimp classimp])
