@@ -5,9 +5,9 @@ This wiki is the Official Community Portal (TM) of the Lisp Games community, dev
 We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create an account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [http://www.mediawiki.org/wiki/Help:Formatting MediaWiki's formatting help page] for hints on editing. If you would prefer to use Emacs to edit the site, see [http://www.emacswiki.org/emacs/MediaWikiMode the EmacsWiki page on MediaWikiMode.])
 
 == Current News ==
-[[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in [[GNU Guile Scheme]].
+[[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in GNU Guile Scheme.
 
-[[User:dto|dto]] is working on a "howto" to build any lisp program on GNU/Linux, OSX and Windows with [[2x0ng]] as an example.
+[[User:dto|dto]] is working on a "howto" to build any lisp program on GNU/Linux, OSX and Windows with [ https://github.com/dto/2x0ng 2x0ng] as an example.
 
 In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems with Windows 7 64-bit crashes was solved. Supposedly the Vista version isn't perfectly fixed yet, as been reported by [[User:dto|dto]].
 
@@ -40,7 +40,6 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 * Stock Art/Audio: 
 ** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
 ** [http://opengameart.org Open Game Art]
-** [http://www.flyingyogi.com/fun/spritelib.html SpriteLib GPL]
 ** [http://openclipart.org/tags/game OpenClipArt]
 ** [http://www.freesound.org/ FreeSound.org]
 ** [http://game-icons.net/ game-icons.net]
@@ -52,11 +51,10 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 * Building various [[GameCreationEnvironments]].
 * [[CloMotion]] ideas and resources for motion control in Lisp gaming.
 * Collecting [[Education]] resources. [[ObstaclesToLispNewcomers]] [[GoodFreeDocumentationElsewhere]]
-* Identifying [[NeededDocumentation]].
 * Planning the [[Next Lisp Game Dev Competition]].
 * Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
-* Using [http://code.google.com/p/blackthorn-engine/wiki/BlackthornStarterPack Blackthorn Starter Pack].
-* Automating build process and packaging of binaries/libs/assets for all available platforms. See also [[QuickLisp]], [[DistributingGames]]. [[MakingBinariesWithWine]]
+* Using [https://bitbucket.org/elliottslaughter/blackthorn-engine Blackthorn Starter Pack].
+* Automating build process and packaging of binaries/libs/assets for all available platforms. See [[QuickLisp]].
 * Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]].
 * Working with others to add new platforms. [[PlatformSupport]]
 * Writing [[Articles| Lisp Game Development Articles]].
@@ -74,21 +72,17 @@ Here are some pages you could write or add to:
 == Lisp Games In The Wild ==
 Some games written using lisp-family languages.
 
-* [http://dto.github.com/notebook/xong.html XONG]
 * [http://sourceware.org/xconq/ Xconq] is a free strategy game that uses GDL (a declarative Lisp-like syntax) to define its war scenarios.
 * [http://en.wikipedia.org/wiki/Abuse_%28video_game%29 Abuse] was a great action game that used Lisp for scripting its game logic.
 * Jak and Daxter (Naughty Dog) was apparently partly written in a custom Lisp dialect called [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL]. See also this [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
 * [[Common Worm]]
 * [[Farmageddon]]
 * [[Starwar]]
-* See more in [[:Category:Game]]
 
 == Community ==
 
 * IRC: chat.freenode.net #lispgames #lisp and #scheme
-* [http://common-lisp.net/mailman/listinfo/lisp-game-dev mailing list]
 * [http://twitter.com/lispgames lispgames on Twitter]
-* [http://blocky.io/blog dto's Blocky blog]
 * [http://lisp-qix.blogspot.com WarWeasle's Qix/CLinch blog]
 
 ----
