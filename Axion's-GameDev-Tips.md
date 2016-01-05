@@ -1,14 +1,14 @@
 ## Useful Software
 
 * Essential 
-    ** [https://www.libsdl.org/download-2.0.php](SDL2) (with [https://github.com/lispgames/cl-sdl2](cl-sdl2))
-    ** [https://github.com/lispgames/sdl2kit](sdl2kit)
-    ** [https://github.com/3b/cl-opengl](cl-opengl)
-    ** [https://github.com/lispgames/glkit](glkit])
+    ** [SDL2](https://www.libsdl.org/download-2.0.php) (with (cl-sdl2)[https://github.com/lispgames/cl-sdl2])
+    ** [sdl2kit](https://github.com/lispgames/sdl2kit)
+    ** [cl-opengl](https://github.com/3b/cl-opengl)
+    ** [glkit](https://github.com/lispgames/glkit)
 * Art
-    ** [https://www.blender.org/](Blender)
-    ** [https://www.gimp.org/](GIMP)
-    ** [https://inkscape.org/en/](Inkscape)
+    ** [Blender](https://www.blender.org/)
+    ** [GIMP](https://www.gimp.org/)
+    ** [Inkscape](https://inkscape.org/en/)
 * 3D Modeling
-    ** [https://www.blender.org/](Blender)
-    ** [https://github.com/assimp/assimp](Assimp) (with [https://github.com/3b/classimp](classimp))
+    ** [Blender](https://www.blender.org/)
+    ** [Assimp](https://github.com/assimp/assimp] (with [classimp](https://github.com/3b/classimp))
