@@ -21,4 +21,4 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 
 === Games ===
 
-* [W https://github.com/thomcc/W/downloads]: Written in Racket in 72 hours for Ludum Dare 22
+* [https://github.com/thomcc/W/downloads W]: Written in Racket in 72 hours for Ludum Dare 22
