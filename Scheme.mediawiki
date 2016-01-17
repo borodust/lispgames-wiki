@@ -8,10 +8,13 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 * [http://en.wikipedia.org/wiki/Scheme_%28programming_language%29 Scheme on Wikipedia]
 * [http://en.wikipedia.org/wiki/Racket_%28programming_language%29 Racket on Wikipedia]
 * [http://docs.racket-lang.org/sgl/index.html 3D OpenGL documentation] for Racket
+* [https://github.com/ntoronto/pict3d Pict3D, a 3D engine] with a purely functional API, for Racket
 * [https://gitorious.org/guile-figl Foreign Interface to OpenGL "guile-figl"] for GNU Guile
 * [http://www.gnu.org/software/guile-sdl/ An Interface to SDL] for GNU Guile
 * [https://github.com/davexunit/guile-2d Guile-2d, A game-engine/library] for GNU Guile
-* [http://www.nongnu.org/gzochi/ Gzochi, a framework for developing MMO-games] made with GNU Guile.
+* [http://www.nongnu.org/gzochi/ Gzochi, a framework for developing MMO-games] made with GNU Guile
+* [http://wiki.call-cc.org/eggref/4/hypergiant Hypergiant, an OpenGL-based library] for games and other interactive media applications, in Chicken Scheme
+* [http://wiki.call-cc.org/eggref/4/doodle Doodle, a minimal game 'framework'] inspired by loeve, in Chicken Scheme
 
 === Games ===
 
