@@ -16,8 +16,6 @@ The cl-opengl interface is usually quite close to the normal C one, but lispier 
 ** The GLU tesselator.
 ** Feedback and selection render modes.
 
-* CL-OpenGL with SBCL on Linux may lockup your computer IF you do not include (declare (optimize () (speed 3) (size 0) (debug 0))) for the main loop.
-
 == Questions ==
 
 * What is the best way to render (straight functions, compile to primitives, etc.)
