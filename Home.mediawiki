@@ -15,6 +15,8 @@ In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems 
 
 [[User:psilord|psilord]] has made recent updates to his schmup [https://github.com/psilord/option-9 option-9].
 
+[[User:BradWBeer|warweasle]] is updating the [https://github.com/BradWBeer/clinch Clinch Game Engine] and approaching release 0.5. This will be a transition from Clinch being just a graphics engine to being a game engine. Features will include automatic garbage collection, SDL2 integration, cl-ODE Physics plugin, Slime integration, Frame Buffer Objects, modern nodes, and tools to make shaders simpler. 
+
 In other news, [[User:dto|dto]] have renamed blocky to *drumroll* xelf. Link here: [http://xelf.me/ xelf homepage] and here: [https://github.com/dto/xelf on github]
 
 [[User:vydd|vydd]] is working on [https://github.com/vydd/sketch Sketch].
