@@ -17,6 +17,8 @@ In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems 
 
 In other news, [[User:dto|dto]] have renamed blocky to *drumroll* xelf. Link here: [http://xelf.me/ xelf homepage] and here: [https://github.com/dto/xelf on github]
 
+[[User:vydd|vydd]] is working on [https://github.com/vydd/sketch Sketch].
+
 == New about these parts? == 
 [[What is Lisp?]]
 
