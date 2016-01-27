@@ -59,7 +59,7 @@ Some of these are a repeat from the graphics sections as libraries like SDL have
 == Physics == 
 * [[SquirL]] (2d)
 * [https://github.com/aerique/buclet buclet] (3d)
-* [[cl-ode]]
+* [[cl-ode]] (3D/2D)
 
 == Game Engine Architecture == 
 
