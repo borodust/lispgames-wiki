@@ -72,6 +72,7 @@ Here are some pages you could write or add to:
 * Collect more dialect-specific resources: [[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]] 
 * A permanent [[LispGamesArchive]] that people could donate things to, sort of like the Interactive Fiction Archive.
 * [[ObstaclesToLispNewcomers]], [[CoolThingsWeShouldKnowAbout]]
+* [[AboutThisWiki]] with information describing the administrative details and history of this wiki, website and domain (who, what, how, when)
 
 == Lisp Games In The Wild ==
 Some games written using lisp-family languages.
