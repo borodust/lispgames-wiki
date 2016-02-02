@@ -56,7 +56,6 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 * [[CloMotion]] ideas and resources for motion control in Lisp gaming.
 * Collecting [[Education]] resources. [[ObstaclesToLispNewcomers]] [[GoodFreeDocumentationElsewhere]]
 * Planning the [[Next Lisp Game Dev Competition]].
-* Removing the [[KittenOfDeath]] message and spurious terminal window from Win32/SBCL executables.
 * Using [https://bitbucket.org/elliottslaughter/blackthorn-engine Blackthorn Starter Pack].
 * Automating build process and packaging of binaries/libs/assets for all available platforms. See [[QuickLisp]].
 * Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]].
