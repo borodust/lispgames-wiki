@@ -21,6 +21,9 @@ In other news, [[User:dto|dto]] have renamed blocky to *drumroll* xelf. Link her
 
 [[User:vydd|vydd]] is working on [https://github.com/vydd/sketch Sketch].
 
+
+[[User:axionix|axion]] is working on a set of game utilities, such as a [http://git.axity.net/axion/crawler random dungeon generator], random encounter generator, and other generic things that could be used in mostly any genre.
+
 == New about these parts? == 
 [[What is Lisp?]]
 
