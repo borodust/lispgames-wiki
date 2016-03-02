@@ -50,6 +50,7 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [http://openclipart.org/tags/game OpenClipArt]
 ** [http://www.freesound.org/ FreeSound.org]
 ** [http://game-icons.net/ game-icons.net]
+** [https://archive.org/details/Sound_Effects], [https://archive.org/details/Sound_Effects_2]
 
 == Open issues and projects == 
 
