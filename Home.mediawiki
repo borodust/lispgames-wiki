@@ -78,7 +78,7 @@ Here are some pages you could write or add to:
 * [[AboutThisWiki]] with information describing the administrative details and history of this wiki, website and domain (who, what, how, when)
 
 == #lispgames games == 
-* [https://github.com/TatriX/lispstone Lispstone] is an arcade card game written in Common Lisp using cl-sdl2.
+* [[Lispstone]] is an arcade card game written in Common Lisp using cl-sdl2.
 
 == Lisp Games In The Wild ==
 Some games written using lisp-family languages.
