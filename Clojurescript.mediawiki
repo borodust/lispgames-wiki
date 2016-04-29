@@ -11,5 +11,5 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 * [http://thomcc.github.com/Argh/ Argh] Incomplete 3D game, written as both a stress test for ClojureScript and for practice.  Anybody interested in using [https://github.com/thomcc/Argh the source] for anything should feel free too.
 * [http://www.morgawr.eu/ld26 Art Attack] A short point and click adventure game developed for the 48 hours competition Ludum Dare 26 ([https://github.com/Morgawr/ld26 source]).
 * [https://github.com/yogthos/Clojure-Tetris Tetris in Clojure/ClojureScript]
-* [GH4ST](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=31638) Turn-based puzzle game based on the Pacman AI. Entry for Ludum Dare 33
-* [Parens of the Dead](http://www.parens-of-the-dead.com/) Free screencast series developing a Clojure/ClojureScript game.
+* [http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=31638 GH4ST] Turn-based puzzle game based on the Pacman AI. Entry for Ludum Dare 33
+* [http://www.parens-of-the-dead.com/ Parens of the Dead] Free screencast series developing a Clojure/ClojureScript game.
