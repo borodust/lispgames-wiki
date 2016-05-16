@@ -79,6 +79,7 @@ Here are some pages you could write or add to:
 
 == #lispgames games == 
 * [[Lispstone]] is an arcade card game written in Common Lisp using cl-sdl2.
+* [[sudoku-lisp]] is a simple sudoku player written in Common Lisp using lispbuilder-sdl.
 
 == Lisp Games In The Wild ==
 Some games written using lisp-family languages.
