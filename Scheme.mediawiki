@@ -5,19 +5,19 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 * [http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks Scheme Bricks]
 
 * [http://call-cc.org/ Chicken Scheme]
-** [http://wiki.call-cc.org/eggref/4/hypergiant Hypergiant, an OpenGL-based library] for games and other interactive media applications
-** [http://wiki.call-cc.org/eggref/4/doodle Doodle, a minimal game 'framework'] inspired by LÖVE
+** [http://wiki.call-cc.org/eggref/4/hypergiant Hypergiant], an OpenGL-based library for games and other interactive media applications
+** [http://wiki.call-cc.org/eggref/4/doodle Doodle], a minimal game 'framework' inspired by LÖVE
 
 * [https://www.gnu.org/software/guile/ GNU Guile]
 ** [http://www.gnu.org/software/guile-sdl/ An Interface to SDL]
-** [https://dthompson.us/pages/software/sly.html Sly, a fun 2D/3D game engine] which encourages functional reactive programming (formerly [https://github.com/davexunit/guile-2d Guile-2D])
-** [http://www.nongnu.org/gzochi/ Gzochi, a framework for developing MMO-games]
+** [https://dthompson.us/pages/software/sly.html Sly], a fun 2D/3D game engine which encourages functional reactive programming (formerly [https://github.com/davexunit/guile-2d Guile-2D])
+** [http://www.nongnu.org/gzochi/ Gzochi], a framework for developing MMO-games
 ** [https://gitorious.org/guile-figl Foreign Interface to OpenGL "guile-figl"] (dead link)
 
 * [http://racket-lang.org/ Racket]
 ** [http://docs.racket-lang.org/sgl/index.html 3D OpenGL documentation]
-** [https://github.com/ntoronto/pict3d Pict3D, a 3D engine] with a purely functional API
-** [http://www.pawfal.org/fluxus/ Fluxus, a 3D game engine for livecoding worlds into existence]
+** [https://github.com/jeapostrophe/pict3d Pict3D], a 3D engine with a purely functional API
+** [http://www.pawfal.org/fluxus/ Fluxus], a 3D game engine for livecoding worlds into existence
 
 === Games ===
 
