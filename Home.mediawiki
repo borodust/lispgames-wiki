@@ -99,6 +99,13 @@ Some games written using lisp-family languages.
 
 == Interesting Paper References ==
 
+These papers are of neat, interesting, or seminal works concerning the field of computer graphics, game design,
+game theory, mathematics, sound, sound design, art materials and techniques, and anything else related to 
+game design in all aspects. 
+
+If a paper describes an algorithm and it states it is patent free, it should be notated in the linked description.
+Also, please denote the year of the paper. 
+
 * Splat Based Rendering
 ** [http://graphics.ucsd.edu/~matthias/Papers/HighQualitySplattingOnGPUs.pdf High-Quality Surface Splatting on Today’s GPUs (2005)]
 
