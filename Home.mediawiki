@@ -97,6 +97,10 @@ Some games written using lisp-family languages.
 * [http://twitter.com/lispgames lispgames on Twitter]
 * [http://lisp-qix.blogspot.com WarWeasle's Qix/CLinch blog]
 
+== Interesting Paper References ==
+
+* [http://graphics.ucsd.edu/~matthias/Papers/HighQualitySplattingOnGPUs.pdf Splat Based Rendering]
+
 ----
 
 (ᗧ*) Lisp Games Wiki
