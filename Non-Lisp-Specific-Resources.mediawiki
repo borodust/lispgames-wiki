@@ -53,22 +53,22 @@ Also, please denote the year of the paper.
 ** [http://graphics.ucsd.edu/~matthias/Papers/HighQualitySplattingOnGPUs.pdf High-Quality Surface Splatting on Today’s GPUs (2005)]
 
 
-## PBR
+== PBR ==
 
 http://www.frostbite.com/wp-content/uploads/2014/11/course_notes_moving_frostbite_to_pbr_v2.pdf
 http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_notes_v2.pdf
 
-## The Rendering Pipeline
+== The Rendering Pipeline ==
 
 https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
 this is a near unparalled resourse on how your GL/DirectX and your GPU are doing stuff.
 This is still relevent today (2016)
 
-## Polygonization of Voxel Fields
+== Polygonization of Voxel Fields ==
 
 https://www.cs.rice.edu/~jwarren/papers/dmc.pdf a big improvement over marching cubes
 
-## Tonemapping
+== Tonemapping ==
 
 http://filmicgames.com/archives/75 really nice code samples for tonemapping
 
