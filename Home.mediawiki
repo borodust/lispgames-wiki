@@ -99,7 +99,8 @@ Some games written using lisp-family languages.
 
 == Interesting Paper References ==
 
-* [http://graphics.ucsd.edu/~matthias/Papers/HighQualitySplattingOnGPUs.pdf Splat Based Rendering]
+* Splat Based Rendering
+** [http://graphics.ucsd.edu/~matthias/Papers/HighQualitySplattingOnGPUs.pdf Splat High Quality Splatting on GPUs]
 
 ----
 
