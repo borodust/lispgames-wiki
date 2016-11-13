@@ -2,6 +2,9 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 
 * [https://github.com/clojure/clojurescript Clojurescript on Github]
 
+=== Game engines ===
+
+* [https://github.com/alexkehayias/chocolatier Chocolatier], the author did a [https://www.youtube.com/watch?v=TW1ie0pIO_E talk about its design at Clojure/West 2016]
 
 === Games ===
 * [[tempest-cljs]]
