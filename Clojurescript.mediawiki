@@ -3,7 +3,7 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 * [https://github.com/clojure/clojurescript Clojurescript on Github]
 
 === Game engines ===
-
+* [https://github.com/oakes/play-cljs play-cljs] From the author of NightCode and Play-clj
 * [https://github.com/alexkehayias/chocolatier Chocolatier], the author did a [https://www.youtube.com/watch?v=TW1ie0pIO_E talk about its design at Clojure/West 2016]
 * [https://github.com/dparis/phzr Phzr] A wrapper for the Phaser HTML5 game framework
 
