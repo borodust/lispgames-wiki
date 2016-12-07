@@ -1,12 +1,10 @@
-Clojure is a new dialect of Lisp that runs on the Java Virtual Machine.
+Clojure is a modern dialect of Lisp that runs on the Java Virtual Machine. There is also [[Clojurescript]] which compiles to Javascript, and ClojureCLR, which targets the Common Language Runtime used by .NET.
 
 * [http://clojure.org/ Clojure.org]
-* [https://vimeo.com/38372260/ A video about] using clojure with [[SLIMV]].
 
 === Frameworks ===
 * [https://github.com/oakes/play-clj play-clj] based on libgdx
-* [https://github.com/arcadia-unity/Arcadia Arcadia] use Clojure with the Unity game engine
-
+* [https://github.com/arcadia-unity/Arcadia Arcadia] uses Clojure with the Unity game engine. Uses Clojure CLJ
 
 === Games ===
 
