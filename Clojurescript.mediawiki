@@ -7,6 +7,7 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 * [https://github.com/dparis/phzr Phzr] A wrapper for the Phaser HTML5 game framework
 * [https://github.com/oakes/play-cljs play-cljs] From the author of NightCode and Play-clj
 * [https://github.com/quil/quil Quil] a Clojure/Clojurescript wrapper for Processing
+* [https://github.com/weavejester/impi Impi] render Pixi.js based on immutable data structures
 
 === Useful Libraries ===
 
