@@ -23,3 +23,4 @@ Clojurescript is a dialect of [[Clojure]] that compiles to Javascript instead of
 * [http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=31638 GH4ST] Turn-based puzzle game based on the Pacman AI. Entry for Ludum Dare 33
 * [http://www.parens-of-the-dead.com/ Parens of the Dead] Free screencast series developing a Clojure/ClojureScript game.
 * [http://zetawar.com/ Zetawar] Turn-based strategy browser game written in ClojureScript ([http://github.com/Zetawar/zetawar/ source]).
+* [https://robjinman.github.io/cljsmines/target/index.html Minesweeper] using re-frame
