@@ -5,6 +5,9 @@ This wiki is the Official Community Portal (TM) of the Lisp Games community, dev
 We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create a github account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [https://help.github.com/articles/github-flavored-markdown/ Github Flavored Markdown] for hints on editing.)
 
 == Current News ==
+
+[[User:samvv|samvv]] has finished refactoring his [Racket gaming](https://github.com/samvv/racket-gaming) from years ago. Featuring an embedded high-performance physics engine, this library aims high!
+
 [[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in GNU Guile Scheme.
 
 [[User:dto|dto]] is working on a "howto" to build any lisp program on GNU/Linux, OSX and Windows with [ https://github.com/dto/2x0ng 2x0ng] as an example.
