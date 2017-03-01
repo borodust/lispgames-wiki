@@ -4,7 +4,7 @@
 
 ### Software Language Lab
 
-To help students finish off their first programming project, the professors and assistants at the [VUB](https://vub.ac.be)'s Software Languages Lab receive a small library which provides basic functionality for drawing and reading user input. This marked the beginning of the Racket gaming library, as an attempt to fill some of the gaps that remained in this library.
+To help students finish off their first programming project, the professors and assistants at the [VUB](https://vub.ac.be)'s Software Languages Lab provide a small library which provides basic functionality for drawing and reading user input. This marked the beginning of the Racket gaming library, as an attempt to fill some of the gaps that remained in this library.
 
 ### Appearance on Hacker News
 
