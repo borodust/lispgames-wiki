@@ -6,7 +6,7 @@ We've been updating the wiki to make it a more comprehensive resource for the Li
 
 == Current News ==
 
-[[User:samvv|samvv]] has finished refactoring his [Racket gaming] from years ago. Featuring an embedded high-performance physics engine, this library aims high!
+[[User:samvv|samvv]] has finished refactoring his [[Racket gaming]] library from years ago. Featuring an embedded high-performance physics engine, this library aims high!
 
 [[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in GNU Guile Scheme.
 
