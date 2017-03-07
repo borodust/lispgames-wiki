@@ -56,7 +56,8 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [https://archive.org/details/Sound_Effects], [https://archive.org/details/Sound_Effects_2]
 
 * Free Art Software
-** [https://www.gimp.org/ GIMP image editor]
+** [https://www.blender.org/ Blender, 3D Modelling]
+** [https://www.gimp.org/ GIMP, image editor]
 ** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite editor]
 ** [https://inkscape.org/en/ Inkscape, vector editor]
 ** [http://mtpaint.sourceforge.net/ mtpaint, sprite editor]
@@ -66,7 +67,7 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [http://pixelation.org/ Pixelation, pixel art]
 
 * Free Audio Software
-** [http://www.bfxr.net/ Bfxr online sound creation tool]
+** [http://www.bfxr.net/ Bfxr, online sound creation tool]
 
 == Open issues and projects == 
 
