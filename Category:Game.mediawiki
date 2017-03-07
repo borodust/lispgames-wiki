@@ -1,1 +1,0 @@
-A listing of games using lisp-family languages.

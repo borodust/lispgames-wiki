@@ -1,1 +1,0 @@
-This page lists various graphics-related tools and libraries.

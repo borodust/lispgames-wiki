@@ -1,29 +1,8 @@
-Common Lisp has a great community and great library support for things like SDL, OpenGL, and TrueType fonts. So it makes a good option for Lisp game development. It may be more difficult to learn than Scheme, although luckily there are excellent free tutorials and resources available.
+[http://en.wikipedia.org/wiki/Common_Lisp Common Lisp] (a.k.a CL or just Lisp in most cases) has a sizable community and great library support for things like SDL, OpenGL, TrueType fonts, assets handling, etc. So it makes a good option for Lisp game development. Some resources for learning can be found on [[Learning Common Lisp]] page.
 
-== Getting Started ==
-So what is Common Lisp? Here's the [http://en.wikipedia.org/wiki/Common_Lisp Wikipedia entry,] but if this is your first dip into Lisp and you want to get stuck in you may want to look into the charming [http://www.lisperati.com/casting.html Casting SPELs in Lisp].
-
-The thing that really scares off some new people when they come to Common Lisp is that they went on a mental journey something along the lines of:
-
-''"What is this Lisp thing then?"''
-
-''<googling happens here>''
-
-''"Hmm there seem to be lots of them...Ah well Common Lisp doesnt sound too threatening"''
-
-''<google some more>''
-
-''"HOLD ON THERE DIFFERENT TYPES OF COMMON LISP?"''
-
-Yeah, Common Lisp is a standard (like Ada and C) so there can be many implementations. The easiest way to pick one is to have a good google, see what resources you find that 'speak your language' and go with that version.
-What? You want to be told which version? Well SBCL is fast, close the the standard and easy to get installed. Honestly there will be many that have excellent and precise reasons for their choice of implementation, don't let it bog you down!
-
-Here are some more links to resource to help you with Common lisp
-
-[[Learning Common Lisp]]
+Being a standardized language, it has several implementations. Popular choice for open source CL implementation is [http://sbcl.org/ SBCL]. But there are [https://en.wikipedia.org/wiki/Category:Common_Lisp_implementations many more implementations] with their own perks and quirks.
 
 == Graphics ==
-Games come in many shapes, genres & sizes but almost all are visual to some degree. Common Lisp has a nice selection of libraries to help you wrangle with file formats, manage your game window and render all that 2D or 3D goodness to the screen.
 
 === APIs ===
 * [[Cl-opengl]] If your writing games in common lisp you are almost certainly going to be using OpenGL. This wrapper enables Common Lisp to access almost every feature of OpenGL.
@@ -33,17 +12,17 @@ Games come in many shapes, genres & sizes but almost all are visual to some degr
 * [[glop]] provides simple OpenGL window and context manipulation code as well as system input handling
 * [[cl-glfw]] is an open source, multi-platform library for opening a window, creating an OpenGL context and managing input.
 
-=== File Handling ===
+=== Graphics Engines ===
+* [https://github.com/BradWBeer/CLinch CLinch] is a shader based graphics engine using CL-OpenGL. It has strong vector graphics support. It also has [https://github.com/BradWBeer/CLinch/wiki/CLinch-Tutorials tutorials].
+* [http://github.com/anwyn/cl-horde3d CL-Horde3d] is a wrapper around the open source graphics [http://horde3d.org/home.html Horde3d]
+* [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE]
+
+== Assets ==
 * [[cl-devil]] provides bindings to the DevIL image loading and manipulation library
 * [[imago]] is an image manipulation library for Common Lisp
 * [http://cliki.net/cl-cairo2 cl-cairo2] is a graphics library that provides Common Lisp bindings for the [http://cairographics.org/ Cairo API].
 * [http://www.cliki.net/CLX CLX] provides an implementation of the X Window System protocol to Lisp graphics library[ies] and applications.
 * [http://github.com/cbaggers/cl-soil cl-soil] is a work-in-progress wrapper around the [http://www.lonesock.net/soil.html SOIL] library
-
-=== Graphics Engines ===
-* [https://github.com/BradWBeer/CLinch CLinch] is a shader based graphics engine using CL-OpenGL. It has strong vector graphics support. It also has [https://github.com/BradWBeer/CLinch/wiki/CLinch-Tutorials tutorials].
-* [http://github.com/anwyn/cl-horde3d CL-Horde3d] is a wrapper around the open source graphics [http://horde3d.org/home.html Horde3d]
-* [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE]
 
 == Input Handling ==
 Some of these are a repeat from the graphics sections as libraries like SDL have many features
@@ -71,3 +50,8 @@ Some of these are a repeat from the graphics sections as libraries like SDL have
 * [[Until It Dies]]
 * [[glaw]]
 * [http://github.com/shr/pltcod PLTCOD]
+
+
+=== Various ===
+* [https://github.com/vydd/sketch Sketch] is a Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more. It is inspired by [https://processing.org/ Processing Language] and shares some of the API.
+* [https://git.axity.net/axion/crawler2 crawler2] is an experimental map generation library. The goal is to be able to procedurally generate a map for use in a rogue-like, or other games.

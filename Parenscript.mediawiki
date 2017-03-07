@@ -1,5 +1,0 @@
-Parenscript is a subset of Common Lisp that can run inside Javascript with a native calling convention, which means you can use HTML5 game libraries from Lisp.
-
-[http://common-lisp.net/project/parenscript/ Parenscript homepage]
-
-We need more information about Parenscript.

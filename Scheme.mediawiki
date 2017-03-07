@@ -11,6 +11,7 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 * [https://www.gnu.org/software/guile/ GNU Guile]
 ** [http://www.gnu.org/software/guile-sdl/ An Interface to SDL]
 ** [https://dthompson.us/pages/software/sly.html Sly], a fun 2D/3D game engine which encourages functional reactive programming (formerly [https://github.com/davexunit/guile-2d Guile-2D])
+** [https://dthompson.us/projects/chickadee.html Chickadee] aims to provide all the features that parenthetically inclined game developers need to make 2D (and eventually 3D) games in Scheme
 ** [http://www.nongnu.org/gzochi/ Gzochi], a framework for developing MMO-games
 ** [https://gitorious.org/guile-figl Foreign Interface to OpenGL "guile-figl"] (dead link)
 
@@ -18,6 +19,7 @@ Want to learn Scheme? Check out [[Learning Scheme]].
 ** [http://docs.racket-lang.org/sgl/index.html 3D OpenGL documentation]
 ** [https://github.com/jeapostrophe/pict3d Pict3D], a 3D engine with a purely functional API
 ** [http://www.pawfal.org/fluxus/ Fluxus], a 3D game engine for livecoding worlds into existence
+** [[Racket gaming]] aims to make developing games within Racket more convenient
 
 === Games ===
 

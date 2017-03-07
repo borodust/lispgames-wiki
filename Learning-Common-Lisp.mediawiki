@@ -8,3 +8,4 @@
 * There are also many [http://www.lispmachine.net/ free lisp books] and other educational resources. A good starting point is [http://www.gigamonkeys.com/book/ Practical Common Lisp].
 * If you have general Common Lisp questions, you can ask comp.lang.lisp on Usenet, [http://lispforum.com LispForum], or #lisp on irc.freenode.org.
 * [[User:Arbscht]] has a [http://abhishek.geek.nz/docs/lisp-answers FAQ for lisp newbies].
+* [http://www.lisperati.com/casting.html Casting SPELs in Lisp] comics.

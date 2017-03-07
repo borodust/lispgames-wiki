@@ -1,115 +1,19 @@
 '''Welcome to the Lisp Games Wiki!'''
 
-This wiki is the Official Community Portal (TM) of the Lisp Games community, devoted to creating games and other interactive multimedia constructions with the programmable programming language, [[Lisp]], in its various dialects: [[CommonLisp]], [[Scheme]], [[Clojure]], [[Parenscript]], [[Clojurescript]], [[EmacsLisp]], and others. These user-editable pages are for YOU: people sharing information, links, and discussions related to Lisp Games Development.
+This wiki is the Official Community Portal®™ of the Lisp Games community, devoted to creating games and other interactive multimedia constructions with the programmable programming language, [https://en.wikipedia.org/wiki/Lisp_(programming_language) Lisp], in its various dialects: [https://en.wikipedia.org/wiki/Common_Lisp Common Lisp], [https://en.wikipedia.org/wiki/Scheme_(programming_language) Scheme], [https://en.wikipedia.org/wiki/Clojure Clojure], [https://github.com/vsedach/Parenscript Parenscript], [https://clojurescript.org ClojureScript], [https://en.wikipedia.org/wiki/Emacs_Lisp Emacs Lisp] and others. 
 
+
+=== Contributing ===
+These user-editable pages are for you: people sharing information and links related to Lisp Games Development.
 We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create a github account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [https://help.github.com/articles/github-flavored-markdown/ Github Flavored Markdown] for hints on editing.)
 
-== Current News ==
 
-[[User:samvv|samvv]] has finished refactoring his [[Racket gaming]] library from years ago. Featuring an embedded high-performance physics engine, this library aims high!
-
-[[User:davexunit|davexunit]] is working on [[guile-2d]], a library for making 2D games in GNU Guile Scheme.
-
-[[User:dto|dto]] is working on a "howto" to build any lisp program on GNU/Linux, OSX and Windows with [ https://github.com/dto/2x0ng 2x0ng] as an example.
-
-In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems with Windows 7 64-bit crashes was solved. Supposedly the Vista version isn't perfectly fixed yet, as been reported by [[User:dto|dto]].
-
-[[User:add|add]] have revived [[User:cupe|cupe]]'s old project perfectstorm along with the other active members on lispgames. Link to the original blogpost: [http://erleuchtet.org/2008/03/project-overview-perfectstorm.html erleuchtet.org] and to the current repo on github: [https://github.com/lispgames/perfectstorm lispgames/perfectstorm]
-
-[[User:psilord|psilord]] has made recent updates to his shmup [https://github.com/psilord/option-9 option-9].
-
-[[User:BradWBeer|warweasle]] is updating the [https://github.com/BradWBeer/clinch Clinch Game Engine] and approaching release 0.5. This will be a transition from Clinch being just a graphics engine to being a game engine. Features will include automatic garbage collection, SDL2 integration, cl-ODE Physics plugin, Slime integration, Frame Buffer Objects, modern nodes, and tools to make shaders simpler. 
-
-In other news, [[User:dto|dto]] have renamed blocky to *drumroll* xelf. Link here: [http://xelf.me/ xelf homepage] and here: [https://github.com/dto/xelf on github]
-
-[[User:vydd|vydd]] is working on [https://github.com/vydd/sketch Sketch].
-
-
-[[User:axionix|axion]] is working on a set of game utilities, such as a [http://git.axity.net/axion/crawler random dungeon generator], random encounter generator, and other generic things that could be used in mostly any genre.
-
-== New about these parts? == 
+=== FAQ ===
 [[What is Lisp?]]
 
 [[Why use Lisp for games?]]
 
-== Resources, by dialect ==
-
-Lisp is a family of languages and each can have different libraries available. Check out what is particular to each dialect below.
-
-[[CommonLisp]], [[Scheme]], [[Clojure]], [[Clojurescript]], [[EmacsLisp]], [[Parenscript]]
-
-== Non Lisp Specific Resources == 
-
-Many challenges in game development are relevant to all languages. The links below are not necessarily about Lisp but may be very useful.
-
-[[Non Lisp Specific Resources]]
-
-== Free Art & Audio Assets ==
-Though it's very unlikely you'd be able to find enough free assets to make your game from while keeping a consistent style, free art assets can be very handy as placeholders in your game to help give others (and yourself!) a glimpse of where the game is heading. It can be very hard to inspire people to the noble effort of a orphan cube, battling for justice and vengeance against the hoards of malevolent spheres!
-
-* Stock Art/Audio: 
-** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
-** [http://opengameart.org Open Game Art]
-** [http://openclipart.org/tags/game OpenClipArt]
-** [http://www.freesound.org/ FreeSound.org]
-** [http://game-icons.net/ game-icons.net]
-** [https://archive.org/details/Sound_Effects], [https://archive.org/details/Sound_Effects_2]
-
-* Free Art Software
-** [https://www.blender.org/ Blender, 3D Modelling]
-** [https://www.gimp.org/ GIMP, image editor]
-** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite editor]
-** [https://inkscape.org/en/ Inkscape, vector editor]
-** [http://mtpaint.sourceforge.net/ mtpaint, sprite editor]
-
-* Art Communities
-** [http://pixeljoint.com/ Pixel Joint, pixel art]
-** [http://pixelation.org/ Pixelation, pixel art]
-
-* Free Audio Software
-** [http://www.bfxr.net/ Bfxr, online sound creation tool]
-
-== Open issues and projects == 
-
-* [[EditorSupportForLisp]] 
-* Identifying [[UsefulApplications]] for Lisp game developers.
-* Building various [[GameCreationEnvironments]].
-* [[CloMotion]] ideas and resources for motion control in Lisp gaming.
-* Collecting [[Education]] resources. [[ObstaclesToLispNewcomers]] [[GoodFreeDocumentationElsewhere]]
-* Planning the [[Next Lisp Game Dev Competition]].
-* Using [https://bitbucket.org/elliottslaughter/blackthorn-engine Blackthorn Starter Pack].
-* Automating build process and packaging of binaries/libs/assets for all available platforms. See [[QuickLisp]].
-* Engine and language-agnostic DAM (digital asset management) tools. See [[AssetManagement]].
-* Working with others to add new platforms. [[PlatformSupport]]
-* Writing [[Articles| Lisp Game Development Articles]].
-* Collecting [[Lessons Learned|Lessons learned, Questions and Answers]].
-
-=== Wiki Todo List ===
-
-Here are some pages you could write or add to: 
-
-* Page generally describing [[Lisp]], hopefully written in a manner [[AccessibleToNewcomers]].
-* Collect more dialect-specific resources: [[CommonLisp]], [[Scheme]], [[Clojure]], [[EmacsLisp]], [[GOAL]], [[Parenscript]], [[Clojurescript]] 
-* A permanent [[LispGamesArchive]] that people could donate things to, sort of like the Interactive Fiction Archive.
-* [[ObstaclesToLispNewcomers]], [[CoolThingsWeShouldKnowAbout]]
-* [[AboutThisWiki]] with information describing the administrative details and history of this wiki, website and domain (who, what, how, when)
-
-== #lispgames games == 
-* [[Lispstone]] is an arcade card game written in Common Lisp using cl-sdl2.
-* [[sudoku-lisp]] is a simple sudoku player written in Common Lisp using lispbuilder-sdl.
-
-== Lisp Games In The Wild ==
-Some games written using lisp-family languages.
-
-* [http://sourceware.org/xconq/ Xconq] is a free strategy game that uses GDL (a declarative Lisp-like syntax) to define its war scenarios.
-* [http://en.wikipedia.org/wiki/Abuse_%28video_game%29 Abuse] was a great action game that used Lisp for scripting its game logic.
-* Jak and Daxter (Naughty Dog) was apparently partly written in a custom Lisp dialect called [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL]. See also this [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
-* [[Common Worm]]
-* [[Farmageddon]]
-* [[Starwar]]
-
-== Community ==
-
+=== Community ===
 * IRC: chat.freenode.net #lispgames #lisp and #scheme
 * [http://twitter.com/lispgames lispgames on Twitter]
 * [http://lisp-qix.blogspot.com WarWeasle's Qix/CLinch blog]

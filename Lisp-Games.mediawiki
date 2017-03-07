@@ -1,0 +1,16 @@
+=== Open source ===
+* [[Lispstone]] is an arcade card game written in Common Lisp using cl-sdl2.
+* [[sudoku-lisp]] is a simple sudoku player written in Common Lisp using lispbuilder-sdl.
+* [http://xelf.me/2x0ng.html 2x0ng] is [http://xelf.me dto]'s new puzzle game, the sequel to [http://dto.itch.io/xong Xong].
+* [https://github.com/lispgames/perfectstorm PerfectStorm] is a real time strategy game study written in Common Lisp.
+* [https://github.com/psilord/option-9 option-9] is a Shoot'Em Up Game written in Common Lisp.
+* [http://sourceware.org/xconq/ Xconq] is a free strategy game that uses GDL (a declarative Lisp-like syntax) to define its war scenarios.
+* [[Common Worm]]
+* [[Starwar]]
+
+=== Proprietary ===
+Some games written using lisp-family languages.
+
+* [http://en.wikipedia.org/wiki/Abuse_%28video_game%29 Abuse] was a great action game that used Lisp for scripting its game logic.
+* Jak and Daxter (Naughty Dog) was apparently partly written in a custom Lisp dialect called [http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp GOAL]. See also this [http://c2.com/cgi/wiki?LispInJakAndDaxter C2 wiki page on LispInJakAndDaxter]
+* [[Farmageddon]]

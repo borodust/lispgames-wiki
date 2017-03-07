@@ -1,6 +1,0 @@
-= Old News =
-
-=== News for 2012-03-08 ===
-
-* A call for [[2012 Spring Lisp Game Jam]] ideas!
-* [[Blocky]] is now in preliminary beta release.

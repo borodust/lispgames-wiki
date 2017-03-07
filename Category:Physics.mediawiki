@@ -1,1 +1,0 @@
-These are resources related to physics simulation.

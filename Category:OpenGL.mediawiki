@@ -1,1 +1,0 @@
-This page lists OpenGL-related resources.

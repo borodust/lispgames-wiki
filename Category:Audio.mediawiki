@@ -1,1 +1,0 @@
-Audio-related resources, including libraries, authoring tools, and stock audio.

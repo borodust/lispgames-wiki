@@ -1,0 +1,25 @@
+
+=== Free Art & Audio Assets ===
+Though it's very unlikely you'd be able to find enough free assets to make your game from while keeping a consistent style, free art assets can be very handy as placeholders in your game to help give others (and yourself!) a glimpse of where the game is heading. It can be very hard to inspire people to the noble effort of a orphan cube, battling for justice and vengeance against the hoards of malevolent spheres!
+
+* Stock Art/Audio: 
+** [http://lostgarden.com/labels/free%20game%20graphics.html LostGarden]
+** [http://opengameart.org Open Game Art]
+** [http://openclipart.org/tags/game OpenClipArt]
+** [http://www.freesound.org/ FreeSound.org]
+** [http://game-icons.net/ game-icons.net]
+** [https://archive.org/details/Sound_Effects], [https://archive.org/details/Sound_Effects_2]
+
+* Free Art Software
+** [https://www.blender.org/ Blender, 3D Modelling]
+** [https://www.gimp.org/ GIMP, image editor]
+** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite editor]
+** [https://inkscape.org/en/ Inkscape, vector editor]
+** [http://mtpaint.sourceforge.net/ mtpaint, sprite editor]
+
+* Art Communities
+** [http://pixeljoint.com/ Pixel Joint, pixel art]
+** [http://pixelation.org/ Pixelation, pixel art]
+
+* Free Audio Software
+** [http://www.bfxr.net/ Bfxr, online sound creation tool]

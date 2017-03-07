@@ -1,1 +1,0 @@
-Game Engines typically package together a lot of what you need to make games into relatively simple packages. Some game engines might only include resources for doing basic graphics and audio. Others may be much higher level, providing tools for building specific kinds of games.
