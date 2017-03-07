@@ -57,8 +57,9 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 
 * Free Art Software
 ** [https://www.gimp.org/ GIMP image editor]
-** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite software]
+** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite editor]
 ** [https://inkscape.org/en/ Inkscape, vector editor]
+** [http://mtpaint.sourceforge.net/ mtpaint, sprite editor]
 
 * Free Audio Software
 ** [http://www.bfxr.net/ Bfxr online sound creation tool]
