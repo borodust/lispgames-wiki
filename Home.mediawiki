@@ -54,6 +54,14 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [http://www.freesound.org/ FreeSound.org]
 ** [http://game-icons.net/ game-icons.net]
 ** [https://archive.org/details/Sound_Effects], [https://archive.org/details/Sound_Effects_2]
+
+* Free Software for Art/Audio production
+Art
+** [https://www.gimp.org/ GIMP image editor]
+** [http://pulkomandy.tk/projects/GrafX2 GrafX2, powerful indexed color sprite software]
+** [https://inkscape.org/en/ Inkscape, vector editor]
+
+Audio
 ** [http://www.bfxr.net/ Bfxr online sound creation tool]
 
 == Open issues and projects == 
