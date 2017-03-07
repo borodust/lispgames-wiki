@@ -61,6 +61,10 @@ Though it's very unlikely you'd be able to find enough free assets to make your 
 ** [https://inkscape.org/en/ Inkscape, vector editor]
 ** [http://mtpaint.sourceforge.net/ mtpaint, sprite editor]
 
+* Art Communities
+** [http://pixeljoint.com/ Pixel Joint, pixel art]
+** [http://pixelation.org/ Pixelation, pixel art]
+
 * Free Audio Software
 ** [http://www.bfxr.net/ Bfxr online sound creation tool]
 
