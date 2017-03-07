@@ -16,7 +16,7 @@ In a recent release of [http://www.sbcl.org/ SBCL] (version 1.1.9) the problems 
 
 [[User:add|add]] have revived [[User:cupe|cupe]]'s old project perfectstorm along with the other active members on lispgames. Link to the original blogpost: [http://erleuchtet.org/2008/03/project-overview-perfectstorm.html erleuchtet.org] and to the current repo on github: [https://github.com/lispgames/perfectstorm lispgames/perfectstorm]
 
-[[User:psilord|psilord]] has made recent updates to his schmup [https://github.com/psilord/option-9 option-9].
+[[User:psilord|psilord]] has made recent updates to his shmup [https://github.com/psilord/option-9 option-9].
 
 [[User:BradWBeer|warweasle]] is updating the [https://github.com/BradWBeer/clinch Clinch Game Engine] and approaching release 0.5. This will be a transition from Clinch being just a graphics engine to being a game engine. Features will include automatic garbage collection, SDL2 integration, cl-ODE Physics plugin, Slime integration, Frame Buffer Objects, modern nodes, and tools to make shaders simpler. 
 
