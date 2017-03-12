@@ -21,6 +21,7 @@ Being a standardized language, it has several implementations. Popular choice fo
 
 == Rendering Engines ==
 * [https://github.com/BradWBeer/CLinch CLinch] is a shader based graphics engine using [[cl-opengl]]. It has strong vector graphics support. It also has [https://github.com/BradWBeer/CLinch/wiki/CLinch-Tutorials tutorials].
+* [https://github.com/cbaggers/cepl CEPL] is a lispy and REPL-friendly Common Lisp library for working with OpenGL.
 * [http://github.com/anwyn/cl-horde3d cl-horde3d] is a wrapper around the open source graphics [http://horde3d.org/home.html Horde3d]
 * [[okra]] is a wrapper around the open source graphics engine [http://ogre3d.org OGRE] [''STALLED'']
 
