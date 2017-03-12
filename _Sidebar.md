@@ -1,7 +1,7 @@
 [![logo](https://raw.githubusercontent.com/wiki/lispgames/lispgames.github.io/images/PacLogo.png)](Home)
 
 * Resources by dialect
-  * [Common Lisp](CommonLisp)
+  * [Common Lisp](Common Lisp)
   * [Scheme](Scheme)
   * [Clojure](Clojure)
   * [ClojureScript](Clojurescript)
