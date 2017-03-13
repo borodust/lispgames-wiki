@@ -10,7 +10,7 @@ The domain is manually renewed on a 1-year basis every November (just in case!).
 
 ## Twitter
 
-There is an underused Twitter account called [@lispgames](https://twitter.com/lispgames) which is maintained by [[arbscht|User:Arbscht]]. This also belongs to the lispgames commons and is available for any volunteer(s) to take over.
+There is Twitter account called [@lispgames](https://twitter.com/lispgames) which is currently maintained by [borodust](https://github.com/borodust). This also belongs to the lispgames commons and is available for any volunteer(s) to take over.
 
 ## History
 
