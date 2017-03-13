@@ -16,4 +16,4 @@
 
 ### 2010
 * [October Lisp Game Dev Competition](2010-October-Lisp-Game-Dev-Competition)
-* ["International Lisp Games Expo"](ILGE2010)
+* [International Lisp Games Expo](ILGE2010)
