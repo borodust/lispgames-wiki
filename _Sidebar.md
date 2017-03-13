@@ -10,4 +10,5 @@
   * [Assets](Assets)
   * [Miscellaneous](Non Lisp Specific Resources)
 * [Lisp games](Lisp Games)
+* [Lisp Game Jams](Lisp Game Jams)
 * [About this Wiki](AboutThisWiki)
