@@ -1,6 +1,6 @@
 ## Github
 
-This wiki is hosted on Github, and is editable by any registered user using [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). The [lispgames Github organization](https://github.com/lispgames) account is controlled by these people: https://github.com/orgs/lispgames/people (who may also be reached on IRC).
+This wiki is hosted on Github, and is editable by any registered user. The [lispgames Github organization](https://github.com/lispgames) account is controlled by these people: https://github.com/orgs/lispgames/people (who may also be reached on IRC).
 
 ## Domain
 
