@@ -5,7 +5,7 @@ This wiki is the Official Community Portal®™ of the Lisp Games community, dev
 
 === Contributing ===
 These user-editable pages are for you: people sharing information and links related to Lisp Games Development.
-We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create a github account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone. (See [https://help.github.com/articles/github-flavored-markdown/ Github Flavored Markdown] for hints on editing.)
+We've been updating the wiki to make it a more comprehensive resource for the Lispgames community. If you'd like to help out, please create a github account and start adding ideas, questions, or links to your own or others' projects. Or join #lispgames on freenode to chat with someone.
 
 
 === FAQ ===
