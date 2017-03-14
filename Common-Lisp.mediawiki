@@ -1,5 +1,4 @@
 [http://en.wikipedia.org/wiki/Common_Lisp Common Lisp] (also known as CL, or just Lisp in most cases) has a sizable community and great library support for things like SDL, OpenGL, TrueType fonts, asset handling, etc, so it makes a good option for Lisp game development. Some resources for learning can be found on [[Learning Common Lisp]] page.
-https://git.axity.net/axion/net.axity.common-lisp.gamedev/src/master/math
 Being a standardized language, it has several implementations. Popular choices for open source CL implementation are [http://sbcl.org/ SBCL] and [http://ccl.clozure.com/ Clozure Common Lisp], but there are [https://en.wikipedia.org/wiki/Category:Common_Lisp_implementations many more implementations] with their own perks and quirks.
 
 = Window management and Input Handling =
